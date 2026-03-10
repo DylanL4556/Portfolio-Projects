@@ -1,0 +1,27 @@
+Use images and videos to provide additional context, meaning, or support to the text on the page.
+Images
+- Images must be original and either free of copyright or used with permission.
+- Images on websites should contain little or no text. Use ‘alt’ descriptions to convey the meaning of each image for accessibility purposes.
+- Photos should have vibrant colors, be well-lit, and be in focus.
+- Do not use images that flash, flicker, blink, or animate.
+- Use appropriate file formats to ensure the best image quality and smallest file size:
+- JPEG: For photos and full-color images
+- PNG: For line drawings, low-mid color images, and images with transparency
+Working with Images
+Selecting an Appropriate Image
+- Is it a high-quality image?
+- Image size and shape (aspect ratio) appropriate for content type. You can always scale down (make smaller) without losing resolution but scaling up (making larger) beyond it’s original size, will result in the loss of resolution.
+- File size less than 1MB
+- Best file type for image
+JPG vs PNG: Which is better?
+Both of these file types have their appropriate place in web design. Whether you choose jpeg files or the png format depends on the content of the images.
+How to use JPGs
+Advantages
+JPEGs are best suited for images that would otherwise be gigantic without compression. Images that have no transparent backgrounds, a lot of different colors, and details, like photographs, work best for the JPG image file type.
+Disadvantages
+If you want images to have transparent backgrounds, you’re out of luck with JPGs no matter what you do to them in Photoshop. You’ll have to use a PNG, which has an entire channel dedicated to transparency. JPEGs always have a flat background color.
+If there are a lot of textures and other fine details a JPG has the potential to squash these pixels together. It can be tricky working with images that have background gradients and translating them into JPGs that don’t suffer from a banding of colors after they’re compressed. For complex images, you may have to experiment with different settings in getting your images to look right.
+And just like making a photocopy of a photocopy of a photocopy, the more you compress the same JPEG image the worse it’s going to look.
+How to use PNGs
+Advantages
+PNGs can have transparent backgrounds. This makes them highly usable in different

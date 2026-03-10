@@ -1,0 +1,49 @@
+- Network Username (sometimes referred to as Enterprise ID or Blackboard ID)
+- Multifactor Authentication (MFA)
+- Self-Service Carolina (SSC)
+- Financial Aid
+- Housing
+- Class Registration
+- Grades
+- Blackboard
+- Library Journals
+- Emergency Notification Settings
+- HR/Payroll (faculty/staff/student workers only)
+- PeopleSoft (faculty/staff only)
+- Banner (faculty/staff only)
+- Data Warehouse (faculty/staff only)
+- Millennium (faculty/staff only)
+- Other administrative sites and those containing PII or FERPA data (faculty/staff only)
+Account Management Menu provides a single interface of options needed to set up and manage these accounts. The menu offers these options:
+- Account Claiming
+- Update Account Settings
+- Forgot Password
+- Forgot ID's
+- Need Further Assistance/Reclaim Account
+USC Aiken students, faculty, staff or affiliates, should keep the following in mind:
+- Choose a "Preferred Email Address" ending in @usca.edu if prompted
+- Choose "Aiken" or "USC Aiken" for any settings or links that offer multiple campuses as options
+*** Setup your USC University Services Accounts:
+To setup or manage your USC Services Accounts, go here: https://myaccount.sc.edu and click Account Claiming.
+Part 2: USC Aiken Campus Accounts
+USC Aiken campus accounts are created by your USC Aiken Computer Services Division (CSD)/Help Desk team and include:
+- Pacer Account
+- @usca.edu Email Account
+Campus accounts allow access to these systems and services:
+- PACERNET and PacerStudent Wi-Fi
+- Classroom and Lab Computers
+- @usca.edu Email
+- Office 365
+- Impulse SafeConnect
+- Pulse Secure VPN
+- Shared Drives (J/K/Art)
+- PacerPrint Printing
+- Other usca.edu Websites
+Setting up USC Aiken campus accounts is a simple two-step process:
+- Set a new password for your Pacer Account
+- Sign into Office 365
+Those two steps are detailed below.
+*** STEP 1: Set a new password for your Pacer Account
+All USC Aiken students, faculty, staff and affiliates are assigned a Pacer Account.
+To set a new password for your account, use the appropriate information listed below and go to portal.office.com
+All Student accounts and Faculty/Staff/Affiliate

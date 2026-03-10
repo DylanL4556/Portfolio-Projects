@@ -1,0 +1,14 @@
+.
+Disruption or unauthorized monitoring or interception of electronic communications is prohibited.
+These prohibitions apply even in circumstances where the files, information, or messages are not adequately protected against unauthorized access. Any user who discovers a possible "security hole" on an USC Aiken system is obliged to report it to the system administrator. - Accountability:
+Misrepresenting or willfully concealing your identity at any point on the USC Aiken network is prohibited. - Security:
+The users of all systems must maintain adequate password son their accounts. Passwords must be kept in strictest confidence, and may not be shared with others without the permission of the system administrator. If a user must temporarily share his or her password with a trusted system administrator (for example, to troubleshoot a problem), then the user should change the password as soon as possible afterwards. Note that passwords should never be shared with [anyone claiming to be] a system administrator without positive identification.
+The users of all systems must comply with a system administrator's request to change passwords. Whenever possible users should choose their own passwords.
+The users of all systems are responsible for understanding the system's default levels of protection applied to files and messages, and for supplementing that protection if necessary for sensitive information.
+Any computer system which is connected to the university network must be maintained in accordance with generally accepted security principles. For example, virus protection software must be installed and kept current, and any known security problems with the software installed on the system must be addressed.
+All facilities for incoming remote access to computer systems and communication servers which are directly or indirectly connected to the university's campus-wide data communications network must provide adequate protection of other networked systems against unauthorized access. An audit trail of all remote access activity must be maintained by any facility which provides remote dial-in access, and audit trail records must be accessible by authorized university officials - Copyright and Intellectual Property:
+Copyrighted material and software must be used with respect for the legal rights of its copyright holder's).
+It is the user's responsibility to recognize, attribute, and honor the intellectual property present on or accessible through university computer and communication systems. - Licensed (Commercial) Software:
+The user is responsible for understanding and adhering to the licensing terms for all licensed software which he or she knowingly uses.
+The making of unauthorized copies of licensed software, even when the software is not protected against copying, is prohibited.
+In addition to the above general rules, there may be more specific rules which apply to many individual university systems. It

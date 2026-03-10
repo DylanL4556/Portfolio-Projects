@@ -1,0 +1,10 @@
+ unform, it creates a more cohesive experience for the user. Excessive and individualized customization of the look and feel of a site can make it look disjointed and disorganized.
+- Use italics to indicate book titles and magazine titles.
+- Avoid using underlines because website users may mistake them for links.
+- Use bold sparingly to emphasize points or bring attention to key phrases.
+- Avoid multicolored text.
+- Do not adjust font size manually.
+- Avoid using ALL UPPERCASE, except for abbreviations or acronyms.
+- Use H2s for primary headings, H3s for subheadings, and H4s for additional subsections. Avoid creating custom headings in the HTML code.
+- Each page must have a banner. The website design may offer different banner options.
+- Do not use code that could change, interrupt, or harm how the site looks, works, or is meant to work.

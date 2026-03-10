@@ -1,0 +1,22 @@
+ A198 and A296 |
+| Physics C-E&M | PHYS A202 | PHYS A212 | PHYS A212 |
+| Physics C-Mech | PHYS A201 | PHYS A211 | PHYS A211 |
+| Physics I | PHYS A201 | PHYS A201 | PHYS A201 |
+| Physics II | PHYS A202 | PHYS A202 | PHYS A202 |
+| Precalculus (May 2024) | MATH A111 | MATH A111 | MATH A111 |
+| Psychology | PSYC A101 | PSYC A101 | PSYC A101 |
+| Research | ELEC A001T | ELEC A001T | ELEC A001T |
+| Seminar | ELEC A001T | ELEC A001T | ELEC A001T |
+| Spanish Language | SPAN A101 | SPAN A101 and A102 | SPAN A101 and A102 |
+| Statistics | STAT A201 | STAT A201 | STAT A201 |
+| United States History | HIST A201 | HIST A201 | HIST A201 and A202 |
+| World History | HIST A101 | HIST A101 | HIST A101 and A102 |
+| *per CHE guidelines | REV: 07/10/2023 |
+The University of South Carolina Aiken recognizes the academic challenge inherent in the IB Program and encourages students who have completed the IB diploma to apply. IB graduates who score well (4-7) on their Higher Level exams will be awarded college credit as determined by the academic departments. No credit is awarded for subjects passed at the Subsidiary level of IB, nor for scores below 4 on the higher level exams.
+IB credit is awarded for IB higher-level examination scores in the following areas:
+| Test Name | IB Score 4 | IB Score 5 | IB Score 6 or 7 |
+| IB Biology | BIOL A121 | BIOL A121 and A122 | BIOL A121 and A122 |
+| IB Business and Mgmt. | BADM A371 | BADM 371 and MGMT 376 | BADM 371 and MGMT 376 |
+| IB Chemistry | CHEM A111 | CHEM A111 and A112 | CHEM A111 and A112 |
+| IB Computing Studies | CSCI A145 | CSCI A145 and A146 | CSCI A145 and A146 |
+| IB Economics | ECON A221 |

@@ -1,0 +1,12 @@
+
+- Fire hazard items (halogen lamps, hot plates, toaster, toaster oven, fry-daddy)
+- Neon signs
+- Candles or incense
+- Refrigerator
+- Blue sticky putty to hang posters
+Room Dimensions
+| Building Name | Bedroom Size | Bed Size | Living room Window Size | Bedroom Window Size |
+| Pacer Commons Double | 13’ length x 13’ width | Twin, Extra Long | 58” length x 70” width | 58” length x 70” width |
+| Pacer Commons Single | 12’ 2” length x 8’ 6’ width | Twin, Extra Long | 58” length x 71” width | 58” length x 35” width |
+| Pacer Downs | 13’ 3” length x 11’ 6 width | Twin, Standard | 47” length x 59” width | 47” length x 47” width |
+| Pacer Crossings | 15’ length x 11’ width | Twin, Extra Long | 601⁄2” length x 60” width | 601⁄2” length x 60” width |

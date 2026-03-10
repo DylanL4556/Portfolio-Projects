@@ -1,0 +1,312 @@
+AIT Information Technology | USCA
+https://www.usca.edu/about/university-policies/ait-information-technology/
+AIT - Information Technology Policies
+Number: AIT 102
+Section: Information Technology
+Subject: Computer Classroom Software Installation
+Date: March 29, 2010
+Reviewed on: October 30, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+This policy defines CSD's procedure for installing software in USCA classrooms and computer labs prior to the beginning of each semester. CSD’s goal is to have all software requests completed one week prior to the start of classes.
+Each instructor will test the classroom and computer lab software before the first day of classes to ensure it meets their instructional requirements.
+New software evaluations and procurement plans must be coordinated with the Director of Network Systems before procurement takes place.
+- Definitions
+- CSD is an acronym for Computer Services Division.
+- In this document instructor refers to any faculty teaching in a particular classroom or lab.
+- CSD is an acronym for Computer Services Division.
+II. Procedure
+- An email message will be sent to USCALIST by the CSD staff members at least twice per year announcing that software change requests are due by the deadline stated in the email.
+- For Fall and Summer semesters, the message will be sent during the spring semester before April 1st. Responses will be due by April 15th to ensure that CSD has adequate time to fulfill the request. For Spring Semesters, the message will be sent before November 10th. Responses will be due by November 25th. Responses to the requests that are late will be handled on a first come first serve basis and completed as soon as possible. Any requests received before the first day of class will be completed as soon as possible.
+- CSD will complete mid-semester software changes as soon as possible. To ensure the best response from the CSD, email those requests as soon as possible. We recommend that you get them to us at least two weeks before you need them loaded.
+- Proper testing always helps ensure that the software meets the expectations of the faculty/staff requestor. Advance testing gives CSD time to make changes to the way the software is loaded if there is a problem encountered during the test. The Director of Network Systems will ensure that the faculty/staff are notified when and where the software is ready for testing. After testing, the requestors need to let the Network Engineer or Apple Systems Support specialist know if the software is adequate.
+- When instructors are uncertain about the lab/classroom software needed, the Director of Network Systems must be consulted.
+- New faculty/staff coming to campus will usually be late getting their software request in since the deadline for requests occurs in the previous semester. Their requests will take priority over late requests.
+Number: AIT 103
+Section: Information Technology
+Subject: Cellular and Wireless Telephones and Devices
+Date: August 1, 2005
+Issued by: Vice Chancellor for Information Technology/CIO
+I. Policy
+It is the policy of the University to provide the equipment, services and other resources necessary for its faculty and staff to discharge their job-related responsibilities properly. Cellular and wireless telephones and devices may be included among these resources. For the purposes of this policy, cellular and wireless telephones and devices are hereinafter referred to as eDevices.
+It is the responsibility of the appropriate Senior Administrator (Chancellor, Executive Vice Chancellor and Vice Chancellors) to justify the need for an individual under his or her management to have an eDevice. Justification could be based on increases in efficiency, effectiveness, or enhancement of personal employee performance. Requests for a University provided eDevice will be requested on USCA Form 508 (available online at http://www.usca.edu/uscaforms/) and will be forwarded through the appropriate, director, unit head or supervisor to their applicable Senior Administrator who will approve/disapprove these requests. These requests will contain written justification as to why the device is needed and what efficiencies are envisioned by the use of an eDevice. Approved copies of USCA Form 508 will be forwarded to Campus Support Services and will be maintained on file by Campus Support Services.
+The University discourages use of agency eDevices for personal use. However, if circumstances should require an individual who is assigned an eDevice to use the eDevice for personal use, then that portion of the cost of the personal eDevice air time that causes the service bill to exceed the allotted monthly air time should be reimbursed to the University. As such, it is the responsibility of the appropriate Senior Administrator to monitor eDevice usage to ensure that abuse does not occur. The use of University-owned eDevices by faculty or staff may be revoked if there is evidence of abuse or misuse.
+Purchases of eDevices will be coordinated through Campus Support Services and these eDevices, regardless of the source of funds, are the property of the University. eDevices, accessories, and equipment must be accounted for as required by state law, and are to be turned in to the department when an employee transfers or terminates. When an eDevice is replaced, the old eDevice must be turned in to Campus Support Services.
+If an eDevice is lost or stolen, a police report must be filed to account for the loss of state property. If an eDevice is damaged or lost, the appropriate Senior Administrator, at his or her discretion, may require the employee to pay for a replacement eDevice.
+Calls or other communications on University eDevices should be kept brief to ensure efficient use of University resources. eDevices should be kept secured to prevent unauthorized use. Each area is responsible for the payment of expenses associated with eDevices used by that area.
+The use of eDevices while driving on University business is strictly prohibited.
+Service plans (coverage and minutes of airtime) should be selected carefully to meet the needs of the respective areas. These plans should be reviewed at least on an annual basis to ensure the need for the level of service obtained is still justified. Areas having large numbers of eDevices may wish to evaluate linking these users together under a single service contract for sharing a set amount of minutes per month.
+Complaints regarding eDevices, service, or service contracts, should be filed with Campus Support Services and/or the vendor.
+All eDevice service contracts must be established in the name of the University of South Carolina Aiken. All eDevice service agreements must reflect the billing address of the local area or department paying for the device. In order to maintain full accountability at the user level and to eliminate establishing multiple purchase orders, it is strongly recommended that departments use their Visa Purchasing card to pay monthly bills for eDevices. Records of billing and payment should be maintained as required by University policy and procedure. To assist in budgeting and tracking charges for eDevices, the USC Controller's Office has created a new object code specifically for cellular/wireless usage and a new object code for cellular/wireless equipment and accessories. The new object codes are:
+52037 - Cellular/wireless monthly charge
+52038 - Cellular/wireless equipment and/or accessories
+Personal eDevices may not be placed on state contract.
+Service contracts for eDevices may be activated, cancelled, or service shifted to another vendor without cost to the University. Vendors should be notified in writing in advance of such a change. In the event that a personal eDevice must be used for conducting University business, the individual, with proper documentation of the personal air time used, may seek reimbursement.
+Usage, monthly access and other charges, as well as appropriateness of service contracts for eDevices , etc., may be reviewed by the USC Department of Internal Audit. This information is available under the Freedom of Information Act. Therefore, users are strongly encouraged to use eDevices only for University business and to maintain accurate records.
+Number: AIT 104
+Section: Information Technology
+Subject: Scheduling CSD Computer Labs and Classrooms
+Date: March 12, 2010
+Reviewed on: October 25, 2012
+Issued by: Director of Client Services
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+This policy defines student computer areas managed by CSD and the procedure for reserving those areas.
+- CSD is responsible for scheduling any remaining times slots available, once class schedules have been completed by the Registrar, in computer labs and classrooms directly under CSD's control.
+- CSD has direct control over the following computer labs and classrooms: B&E 236A, B&E 238A, B&E 238E, B&E 238F and H&SS 106.
+- Definitions
+- CSD is an acronym for Computer Services Division.
+- In this document student computer areas refer to any computer lab or classroom where students congregate.
+II. Procedure
+- Open Access to CSD Controlled Computer Classroom and Labs
+- B&E 238A is the main open computer lab and is available to students, faculty and staff holding a current USCA ID card. The lab is available 24 hours a day and 7 days a week.
+- B&E 236A is primarily designated as the OneCarolina Training Room, but is available for reservation and use by students, faculty and staff, during normal business hours, when OneCarolina training is not already scheduled.
+- B&E 238E, B&E 238F and HSS 106 are designated as classrooms first, but are available for reservation and use by students, faculty and staff, during normal business hours, when other activities are not already scheduled.
+- Scheduling of Computer Classrooms and Labs for Classes on the Master Class Schedule
+- As the USCA Master Class Schedule is being developed B&E 238E, B&E 238F, and H&SS 106 are scheduled by department chairs with the Registrar in the same manner as other classrooms. Once the class schedule has been established, CSD manages the non-scheduled time slots for these rooms.
+- B&E 236A is primarily designated as a OneCarolina Training Room. The Registrar must coordinate with CSD before scheduling any classes in this room.
+- B&E 238A is designated as the main open computer lab and cannot be scheduled for classes or reserved.
+- Reservation of Computer Classrooms and Labs
+- Existing activities scheduled in the computer classrooms and labs have priority over new requests made for time slots already scheduled. However, in cases of overlapping requests, CSD will make every effort to resolve scheduling conflicts.
+- Requests to reserve available computer classrooms and labs must be submitted via the web form located at: http://web.usca.edu\help-desk\forms\reservations This page also includes a listing of the resources available in each room.
+- Requests to reserve computer classrooms and labs must be submitted at least three working days in advance.
+- Students may request reservations of computer classrooms and labs through their professors and advisors.
+- If a classroom or lab is scheduled for a time after normal business hours or on days the Help Desk is not open, the individual reserving the room is responsible for arranging access with Public Safety.
+- Requests for reservations will be prioritized in the following order (exceptions may occur at the discretion of the Vice Chancellor of Information Technology):
+- Classes scheduled on USCA's Master Class Schedule
+- Scheduled periodic class meetings scheduled by professors (Professors are encouraged to plan ahead and submit room requests prior to start of the semester.)
+- University sponsored events
+- Training classes
+- Continuing Education Classes
+- All other requests
+III. Related Policies
+IV. Reason for Revision
+Annual Review
+Number: AIT 105
+Section: Information Technology
+Subject: Access to Computer Labs/Classrooms
+Date: December 1, 2009
+Reviewed on: October 25, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Director of Client Services
+I. Policy
+This policy addresses access to USCA computer labs, who has access to computer labs and how computer labs are accessed and what actions should be taken if patrons violate the specified policy and procedures.
+This policy covers only CSD managed computer labs 238A and 236A located in the Business and Education Building. For policies and procedures for all other computer labs, please contact the department responsible for management of the individual lab.
+- Definitions
+- CSD is an acronym for Computer Services Division.
+- In this document student computer areas refer to any computer lab or classroom where students congregate.
+- In this document patron refers to any lab user current and valid USCA ID card.
+II. PROCEDURE
+- Patron Access
+- Only those with current, valid ID cards issued by the University of South Carolina Aiken (USCA) are allowed in the computer labs.
+- No family members (including: spouses, children, parents, etc.), boyfriends, girlfriends or friends are allowed in the computer labs unless they also hold a current, valid ID card issued by USCA.
+- Anyone found allowing access to a computer lab to an unauthorized individual will be subject to disciplinary actions.
+- Special consideration may be granted by the Vice Chancellor of Information Technology. Please contact the Help Desk for assistance.
+- Availability of Computer Labs
+- CSD's Main Computer Lab (B&E 238A) is available 24 hours a day, 7 days a week to all patrons. B&E 236A is open to patrons during normal campus business hours only.
+- When a computer lab is reserved, it is not available for general patron use.
+- A computer lab may be closed for extended periods by CSD for maintenance, to support special event, or to consolidate resources during low usage periods.
+- Computer Lab Admittance
+- During normal campus business hours, the labs are open and accessible. After-hours and when the campus is closed, patrons may use their current, valid USCA ID card to access the Main Computer Lab (B&E 238A), by using the card swipe located at the front door of the Main Computer Lab (B&E 238). Anyone found in a computer lab without a current, valid USCA ID Card will be asked to leave and is subject to disciplinary actions.
+- During normal campus business hours, the labs are open and accessible. After-hours and when the campus is closed, patrons may use their current, valid USCA ID card to access the Main Computer Lab (B&E 238A), by using the card swipe located at the front door of the Main Computer Lab (B&E 238). Anyone found in a computer lab without a current, valid USCA ID Card will be asked to leave and is subject to disciplinary actions.
+- Propping Open Locked Doors
+- Locked building and computer lab doors should never be propped open. This is for the safety of patrons, as well as the security of equipment. Anyone found propping open the doors to computer labs will be subject to disciplinary actions.
+- Locked building and computer lab doors should never be propped open. This is for the safety of patrons, as well as the security of equipment. Anyone found propping open the doors to computer labs will be subject to disciplinary actions.
+- Disciplinary Actions
+- Students found in violation of this policy will be subject to the following punitive actions.
+- First Offense - A CSD staff member will explain this policy to the student, have the individual sign a Warning Acknowledgment Statement and warn the student that the next violation will result in denial of access.
+- Second Offense - The student will be denied after-hours access to the labs until the first day of the next semester.
+- Third Offense - If this is a third violation or the student is found in the labs after-hours during a period of restriction, and for all serious infractions, after-hour privileges will be lost until further notice and the student will be referred for additional action through the USCA Student Judicial System.
+- All CSD actions may be appealed to the Vice Chancellor of Information Technology.
+- Students found in violation of this policy will be subject to the following punitive actions.
+Number: AIT 106
+Section: Information Technology
+Subject: Safeguarding Sensitive Information
+Date: April, 2010
+Issued by: Mike Lemons, Vice Chancellor for Information Technology
+Authorized by: Mike Lemons, Vice Chancellor for Information Technology
+I. Policy
+Sensitive personal information that is stored on USCA owned computers will be protected from unauthorized disclosure. The following procedures must be followed by all USC Aiken personnel to reduce the potential of loss of sensitive data.
+Requests for exceptions to this policy must be forwarded through the appropriate senior administrator to the Vice Chancellor for Information Technology for approval. Please contact the CSD helpdesk (help-4357) for assistance as needed.
+II. Procedure
+Laptop computers or removable storage devices, such as floppy disks, CDs or thumb drives, will not be used to store social security numbers or other sensitive data unless the sensitive material is encrypted.
+Desktop computers will not be left unattended while they are logged in to the USCA network unless they are "locked" by a program that requires a password to unlock. This is a simple operation (for PCs, enter the "Windows" key and lower case "L" at the same time; once set up on the Mac, move the curser to the hot corner to activate the screen saver).
+A screen saver on all faculty/staff computers is required which requires the password be entered after an idle time of 30 minutes.
+Generation of databases, word documents, spreadsheets or files which contain personal information will be kept to a minimum and steps must be taken to protect these files. Such steps might include encryption or storage of the data in a protected folder on the file server with limited access, and immediate deletion of sensitive files as soon as the need is finished.
+Since the email system provides very little security particularly after it leaves USC, emails or attachments which contain sensitive information will not be sent to recipients outside the USC system.
+Mandatory periodic password changes are required for faculty/staff accounts. Complex passwords, defined as a minimum of six characters containing a combination of upper/lower case characters, numbers and special characters are required.
+All users with access to sensitive information are required to log in with their own unique account/password. Student workers must each use their own account/password and will not share passwords with other student workers even when working on the same office computer.
+Number: AIT 107
+Section: Information Technology
+Subject: Acceptable Use of USC Aiken Computer and Network Resources
+Date: March 28, 2002
+Revised on: April 25, 2010
+Issued by: Michael Lemons, Vice Chancellor for Information Technology
+Authorized by: Michael Lemons, Vice Chancellor for Information Technology
+Executive Summary
+The university recognizes its legal and social obligations to respect the privacy of the authorized users of its computing and network resources. However, users must recognize that the confidentiality of their electronic communications cannot be guaranteed by the university. Moreover, the university reserves the right to audit or monitor any uses of its computing and network resources when necessary to ensure compliance with university policy, and with federal, state and local law.
+The university network provides its authorized users with access to many classes of privileged information. Users must maintain the confidentiality and integrity of the information they access, and must not use privileged information for any purpose not explicitly authorized.
+The university's computing and network resources exist to support the university's missions of teaching, research, administration and public service. Incidental personal use of these resources by authorized users is permitted only to the extent that such use is lawful and ethical, does not conflict with the university's missions, does not interfere with other authorized users, and does not cause additional expense to the university. Use of network services provided by the State of South Carolina may be subject to monitoring for security and/or network management reasons. Users of these services are therefore advised of this potential monitoring and agree to this practice.
+I. Scope
+This policy applies to all users of USC Aiken computer and/or network resources to include all users who access any of the computer systems or computer networks controlled by USC Aiken. This policy is not limited to USC Aiken employees/students only but also applies to any person or entity accessing or using USC Aiken systems.
+II. Introduction
+The policy statements which follow serve primarily to aid in the interpretation of, and in a few cases to augment, the university's general policies on the appropriate use of university facilities, and the university's general ethics policies for faculty, students, and staff
+III. Privacy and Confidentiality
+In general, information stored on computers and the content of electronic communications are considered confidential, unless the owner or sender intentionally makes that information available to other groups or individuals. In particular, personal files on the university's computers (for example, files stored in a user's home directory, or on a personal computer) should be considered private to the same degree as personal files in university assigned space in an office, lab, or desk area. Private communications via computer (for example, through electronic mail) have the same privacy protection as private communications via telephone.
+Nonetheless, one should exercise caution when committing sensitive information to storage or transmission on any electronic media, because the confidentiality of electronic media cannot be guaranteed. Confidential or sensitive information should not be sent through e-mail or exposed to public networks such as the Internet unless adequately secured against unauthorized access.
+Routine maintenance can result in the contents of files and messages being seen by system or network administrators. However, network and system administrators are expected to treat the contents of electronic files and communications as private and confidential. Any inspection of electronic files or messages, and any action based upon such inspection, will be governed by all applicable U.S. and state laws and by this and other relevant university policies. Note also that under the Freedom of Information Act, the files of university employees (paper or electronic) may be considered public documents, and may be subject to inspection under the FOIA, through formal university-administered procedures. The content of electronic files and communications may also be subject to subpoena in other legal proceedings.
+Moreover, the university reserves the right to monitor user activities on all university computer systems, and to monitor communications utilizing the university network, to ensure compliance with university policy, and with federal, state and local law. Monitoring shall be performed only by individuals who are specifically authorized, and only the minimum data necessary to meet institutional requirements shall be collected. Data collected through monitoring shall be made accessible only to authorized individuals, who are responsible for maintaining its confidentiality.
+The following notice is understood to apply to all university-owned computer systems, and to all communications utilizing the university network and must be acknowledged in writing prior to issuance of an USC Aiken computer account:
+This system is for the use of authorized users only. Individuals using this computer system without authority or in excess of their authority are subject to having all their activities on this system monitored and recorded by system personnel. In the course of monitoring individuals improperly using this system, or in the course of system maintenance, the activities of authorized users may also be monitored. Anyone using this system expressly consents to such monitoring, and is advised that if such monitoring reveals possible evidence of illegal activity or violation of university regulations, system personnel may provide the evidence of such monitoring to university authorities and/or law enforcement officials.
+IV. Property Rights
+The ownership of the contents of electronic files and messages is a function of applicable US laws, state laws, and university and departmental policies. university contracts with third parties (for example, software license contracts and research and sponsored program contracts) may also apply.
+The university's Patents and Copyright Policy, (see the USC Aiken Faculty Manual, 4.3-5 - 4.3-16) applies to all Inventions and Copyrightable Works produced by employees, including such works as may be embodied in electronic files.
+V. Academic Freedom
+Freedom to teach and freedom to learn are inseparable facets of academic freedom. The freedom to learn depends upon appropriate opportunities and conditions not only in the classroom, but on the campus as a whole. The responsibility to secure and to respect general conditions conducive to the freedom to learn is shared by all members of the academic community -- faculty, staff, and students. System and network administrators are expected to respect the university's academic freedom policies.
+No personal file stored on a university computer system should be removed by system administrator without the file owner's permission unless the file's presence interferes with the operation of the system or under direction of appropriate legal authorities.
+No posting to a university-sponsored electronic forum should be removed by system administrator unless it violates U.S. law, state law or university policy.
+The following principles apply to university-supported electronic forums which support the free exchange of ideas among faculty and students:
+The same standards of intellectual and academic freedom developed for faculty and student publication in traditional media apply to publication on electronic forums. Note that there are electronic forums and other materials on the Internet and elsewhere that some members of the university community may find offensive. The university cannot restrict the availability of such material, but the display of offensive material in any publicly accessible area, including but not limited to publicly accessible computer screens and printers, may violate other university policies on unacceptable behavior (for example, harassment or discrimination). Similarly, any use of university computing or network facilities to post offensive materials to electronic forums on the Internet and elsewhere may violate these university policies.
+The authors of all postings submitted to electronic forums for distribution outside the university should include a disclaimer stating that the opinions expressed therein are not necessarily those of the university (as an example," The views and opinions expressed herein are those of the author and do not necessarily represent the official statements or views of the university of South Carolina Aiken").
+VI. Responsibilities of Users
+All faculty, staff, and students who use university supported computer and network systems share in the responsibility for upholding the rights of their fellow users. Meeting this responsibility requires adherence to certain rules, outlined below, which apply to all university systems.
+- Appropriate and reasonable use:
+Computer and network access account should be used only for authorized purposes. Personal use of university computing and network resources is restricted by state law. Section 8-13-700(A) of the South Carolina Ethics Code reads as follows:
+No public official, public member, or public employee may knowingly use his official office, membership or employment to obtain an economic interest for himself, a member of his immediate family, an individual with whom he disassociated, or a business with which he is associated. This prohibition does not extend to the incidental use of public materials, personnel, or equipment, subject to or available for a public official's, public member's, or public employee's use which does not result in additional public expense.
+Viewing of pornography is forbidden. Viewing of child pornography is illegal and is subject to prosecution by local, state or federal authorities. If legitimate research projects require the viewing or storage of this type of material, approval from the Chancellor must be obtained beforehand.
+Users should refrain from inappropriate activities such as use of email to distribute off-color jokes, or interfering with other users (for example, consuming gratuitously large amounts of limited system resources such as disk space, CPU time, network bandwidth, or printer supplies). - Privacy and Confidentiality:
+Accounts on university computer systems, and connections to the university network, provide access to many classes of privileged information. Users must maintain the confidentiality of any privileged information they access, and must not use any privileged information for any purpose for which they are not explicitly authorized.
+Accessing another user's files without permission is prohibited.
+Accessing any information on a university information system without authorization is prohibited.
+Disruption or unauthorized monitoring or interception of electronic communications is prohibited.
+These prohibitions apply even in circumstances where the files, information, or messages are not adequately protected against unauthorized access. Any user who discovers a possible "security hole" on an USC Aiken system is obliged to report it to the system administrator. - Accountability:
+Misrepresenting or willfully concealing your identity at any point on the USC Aiken network is prohibited. - Security:
+The users of all systems must maintain adequate password son their accounts. Passwords must be kept in strictest confidence, and may not be shared with others without the permission of the system administrator. If a user must temporarily share his or her password with a trusted system administrator (for example, to troubleshoot a problem), then the user should change the password as soon as possible afterwards. Note that passwords should never be shared with [anyone claiming to be] a system administrator without positive identification.
+The users of all systems must comply with a system administrator's request to change passwords. Whenever possible users should choose their own passwords.
+The users of all systems are responsible for understanding the system's default levels of protection applied to files and messages, and for supplementing that protection if necessary for sensitive information.
+Any computer system which is connected to the university network must be maintained in accordance with generally accepted security principles. For example, virus protection software must be installed and kept current, and any known security problems with the software installed on the system must be addressed.
+All facilities for incoming remote access to computer systems and communication servers which are directly or indirectly connected to the university's campus-wide data communications network must provide adequate protection of other networked systems against unauthorized access. An audit trail of all remote access activity must be maintained by any facility which provides remote dial-in access, and audit trail records must be accessible by authorized university officials - Copyright and Intellectual Property:
+Copyrighted material and software must be used with respect for the legal rights of its copyright holder's).
+It is the user's responsibility to recognize, attribute, and honor the intellectual property present on or accessible through university computer and communication systems. - Licensed (Commercial) Software:
+The user is responsible for understanding and adhering to the licensing terms for all licensed software which he or she knowingly uses.
+The making of unauthorized copies of licensed software, even when the software is not protected against copying, is prohibited.
+In addition to the above general rules, there may be more specific rules which apply to many individual university systems. It is the user's responsibility to ascertain and follow these system-specific rules.
+VII. Sanctions
+Violators of the provisions of this policy by faculty, students, and staff are subject to applicable USC Aiken disciplinary policies. Violations of public law which involve university computer and communication systems may be subject to prosecution by local, state or federal authorities.
+University faculty, students, or staff who knowingly violate copyright and/or license terms (for example, by making or using an unauthorized copy of a copyrighted or licensed software product) may be personally liable for their actions.
+Number: AIT 108
+Section: Information Technology
+Subject: Student Email Policy
+Date: June 2, 2004
+Reviewed on: April 26, 2010
+Issued by: Director of Client Services
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+- Introduction
+Electronic mail or "email" is considered an official method for communication to students at the USC Aiken because it delivers information in a convenient, timely, and cost effective manner.
+To assure all students access to this important form of communication, USC Aiken provides a University email account to each enrolled student. The primary purpose of these accounts is to ensure a standardized channel for faculty and staff to communicate with students of the University as needed. Official university communications sent to all students will include reminders of important dates such as deadlines to pay tuition and fees, to withdraw from a course with grade of "W," to apply for graduation, etc... Students are responsible for reading, in a timely fashion, University-related communications sent to their official student email accounts. - Assignment of Student Email:
+The official University email accounts are created and maintained by the Computer Services Division (CSD) and are activated upon a student's acceptance to the University. Specific student email directions are on-line at http://www.USC Aiken.edu/helpdesk/studentemail. Additional assistance is available at the CSD "helpdesk" located in the Business and Education Building, room 238. Official email addresses will be published as directory information unless students request otherwise. - Redirecting of Email
+Students who redirect (autoforward) messages sent to their official USC Aiken student email address to another address (such as AOL, Yahoo, Hotmail, etc...) do so at their own risk. Having email lost as a result of redirection does not absolve the student from responsibilities associated with communication sent to his/her official USC Aiken email address. The University is not responsible for the handling of email by outside vendors or unofficial servers. The USC Aiken assigned email address will be the address used by USC Aiken staff/faculty to communicate to students. - Expectations of Student use of Email
+Students are expected to read and respond as appropriate to their USC Aiken official email on a frequent and consistent basis. The University recommends checking email daily. Since faculty members determine how email is used in their classes, faculty may require students to check their email on a specific basis. Faculty may also require students to confirm their subscription to University provided class listservs. For example, messages sent to University-provided class listservs (those established by the faculty member) are considered official communications for all students enrolled in the class designated by the class listserv address. USC Aiken CSD will not provide support service for personal email accounts such as AOL, Yahoo, Hotmail, etc., in conjunction with university listservs. - Appropriate Use of Student Email
+All use of email will be consistent with other University policies, including the "Acceptable Use of USC Aiken Computer and Network Resources Policy", (USC Aiken Policy AIT 107), which can be found at: http://www.USC Aiken.edu/CSD/policies/ethic.htm
+II. Procedures
+The Vice Chancellor for Information technology and the Campus Technology Committee will review this policy as needed. Students with questions about the policy should contact the Computer Services Division.
+III. Related Policies
+IV. Reason for Revision
+Annual Review
+Number: AIT 109
+Section: Information Technology
+Subject: Purchase and Operation of Digital Signage
+Date: April 1, 2011
+Issued by: Michael Lemons, Vice Chancellor for Information Technology
+I. Policy
+It is the policy of the University to provide the equipment, services and other resources necessary for its faculty and staff to discharge their job-related responsibilities properly. Large screen monitors and displays may be included among these resources. For the purposes of this policy, Digital Signage is defined as any digital display over 30 inches diagonal (hereafter referred to as digital signage or devices) with the exception of those displays used solely for television display.
+To reduce support costs and to ensure compatibility for future growth, technical standards for these devices will be provided by Computer Services Division (CSD).
+It is the responsibility of the appropriate Senior Administrator (Chancellor, Executive Vice Chancellor and Vice Chancellors) to justify the need for a unit under his or her management to have Digital Signage. Procurement of Digital Signage will be requested on USCA Form AIT 109 and will be forwarded through the appropriate, director, unit head or supervisor to their applicable Senior Administrator who will initially approve/disapprove these requests.
+These requests will contain written justification and what efficiencies are envisioned by the use of these devices. In addition, the resources necessary to support these devices must be identified. Upon approval by the appropriate Senior Administrator, the form will be forwarded to the Vice Chancellor for Information Technology (VCIT) for verification of final installation costs, conformance to technical standards and ensure applicable state procurement procedures are followed. Most of the hardware required for installation of these devices is available on South Carolina Information Technology term contracts and the procedures to use these contracts must be followed. In no case will the use of a credit card be allowed for procurement of a digital sign unless approved by appropriate procurement officials. Approved copies of USCA Form AIT 109 will be will be maintained by CSD.
+Number: AIT 110
+Section: Information Technology
+Subject: Information Technology Resource Moves and Checkouts
+Date: June 9, 2010
+Revised on: October 26, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+In an effort to maintain an accurate information technology resource inventory, this policy provides guidelines for moving IT resources within campus boundaries or off-campus for short term events, long term events, office moves or temporary assignments. This policy includes the CSD checkout laptops.
+- This policy applies to the checking out of unassigned USCA IT resources for off-campus use and for taking individually assigned USC Aiken IT resources off-campus.
+- All requests for IT resources for longer than 14 days must be approved by the requestor’s supervisor and by the CSD Director of Communications and Hardware. The requestor must also complete a Computer Equipment Checkout Form and that form must include a clear justification supporting the university mission.
+- Relocation of assigned or unassigned IT resources must be coordinated by the appropriate department head, department chair or dean and the CSD Director of Communications and Hardware.
+- Checkout laptops will be assigned on a first come, first served basis.
+- All software installations, deletions or modifications on checkout computers must be performed by CSD staff. The request for software installations, deletions or modifications must be made at least two weeks in advance and a legal copy of the software must be provided, if necessary. The requestor is responsible for backing up and removing his/her own files prior to returning the laptop. The requestor will not delete or modify essential files (files that allow basic load programs to function).
+- The requestor will not remove sensitive personal unencrypted data off campus as described in USC system policy IT 3.00.
+- Definitions
+- CSD in this document is an acronym for Computer Services Division.
+- The phrase " information technology resources" includes University owned, operated or maintained: workstations, servers, printers, telephones, switches, routers, wiring and hubs; wireless and cellular components; mobile devices such as smart phones, tablets, laptops and other portable computing devices; or any University owned, operated or maintained technology, software, components or devices that store, process or transmit information or data.
+- Long-term refers to any checkout period longer than 14 days.
+II. PROCEDURE
+- The requestor is responsible for picking up the equipment and must complete the CSD Laptop Checkout Form for checkouts of longer than 14 days. In the event the requestor is unable to pick up the equipment, another individual may be assigned to do so. The requestor assumes responsibility up to the current value of the computer if the unit is damaged (beyond normal wear and tear), stolen, lost, or misused.
+Number: AIT 111
+Section: Information Technology
+Subject: Cell Phone Stipend Policy
+Date: June 27, 2011
+Revised on: October 25, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Vice Chancellor for Information Technology/CIO
+Background
+In an effort to eliminate high-minute cell phone plans and the inefficiencies that are inherent to them USC Aiken offers a taxable stipend for personal communication services to employees whose work-related duties and responsibilities require them to maintain such services.
+I. Policy
+This policy allows a University Vice Chancellor to authorize a taxable communication allowance for employees who need a cell phone to carry out their University-related responsibilities. Simple convenience is not a criterion for an allowance. An allowance may be authorized if at least one of the following criteria is met:
+- The job function of the employee requires them to be outside of their assigned office or work area 50% or more and an immediate response is required when contacted.
+- The job function of the employee requires them to be accessible (on-call) outside of scheduled or normal working hours.
+- The employee is a critical university decision maker who needs to be immediately accessible.
+- Efficiency and productivity gains cover the cost of the allowance. Business case will be required prior to assignment.
+- Scope and Applicability
+This policy is applicable to faculty and staff of USC Aiken as referenced in the specific procedures and guidelines outlined below. Departmental cell phones are excluded from this policy. The policy for use of departmental cell phones is covered in USC System policy IT 1.06. - Definitions
+- A stipend or allowance as referred to in this document is a reimbursement paid directly to the employee from the University.
+- A cell phone as referred to in this document can be a cell phone or smart device.
+- A shared departmental or shift cell phone is one that may be shared by multiple employees while on duty, does not leave the campus after duty ends and is turned in by each employee at the end of his/her shift.
+- A departmental cell phone is issued to an employee under a special set of circumstances as determined by the supervisor. It may leave the campus with the employee.
+- CSD is an acronym for Computer Services Division.
+II. PROCEDURE
+- Approval of Allowance
+Employees whose duties and responsibilities require the use of a cell phone are eligible for a communication allowance. A communication allowance may be assigned using the Communication Allowance Request Form. The form must be approved by the appropriate Vice Chancellor, or designee, and forwarded to Campus Support Services for processing of the allowance. - Determination of Allowance Amount
+The dollar amount of the communication allowance should approximate the employees anticipated business related expenses only. Management should use the following schedule to determine the appropriate allowance:
+- Voice Plan Tier 1 $25.00 - Low Use (100 to 500 min. university use)
+- Voice Plan Tier 2 $40.00 - Medium Use (500 min. or more university use)
+- Data Package $30.00 (One Rate)
+- Other (e.g. Text) $__.__ (VC Approval Required)
+The employee is responsible for the purchase of the cell phone to be used for basic service. Costs for cosmetic or technical extras that have no business purpose are the responsibility of the employee. The dollar allowance per tier established by this policy will be reviewed annually by Campus Support Services and CSD. Initial allowances are based on pricing currently available with various wireless providers as incentive pricing to USCA employees.
+- Establishing the Allowance
+Complete the Communication Allowance Request Form. Fill out the form completely, obtain the appropriate signatures and forward the form to Campus Support Services. - Payment
+The communication allowance is processed through Campus Support Services and paid through DEV directly to the employee on a monthly basis. - Using the Communication Service
+The cell phone is personally owned by the employee and may therefore be used for both personal and business use. An employee with a communication allowance must maintain an active cell phone contract for the life of the allowance. Cell phone misuse - using it in ways inconsistent with USC system policy IT 1.06 or with local, state or federal laws - will result in immediate cancellation of the communication allowance. - Documentation and Review Requirements
+A copy of the completed Communication Allowance Request Form must be kept on file in the employee's department. The employee's supervisor is responsible for an annual review of the business need for a communication allowance to determine if allowances should be changed or discontinued. If an employee is terminated, resigns, transfers or is no longer eligible for a communication allowance, the employee's supervisor must notify Campus Support Services to cancel the allowance. - Contract Changes or Cancellations
+If, prior to the end of a cell phone contract, a personal decision, employee misconduct, or misuse of the phone results in the need to change or end the cell phone contract, the employee will bear the cost of any associated contract termination fees. If, prior to the end of the cell phone contract period, a University decision is made (unrelated to employee misconduct) which results in the need to change or end the cell phone contract, the University will bear the cost of any associated contract termination fees. If an employee is on an extended leave, the department might consider temporarily discontinuing the stipend. - Sensitive or Protected Data
+Access to USCA sensitive or protected data and distribution of sensitive or protected data through an employee's personal communication device is subject to USC policy IT 3.00 and state and federal laws. Access to and distribution of such information is only authorized if it is within the scope of the employee’s job duties at USCA. When the employee’s employment ends for any reason, all sensitive or protected data retained on the cell phone must be returned to USCA and permanently removed from your device. CSD can assist with this process.
+Number: AIT 112
+Section: Information Technology
+Subject: Social Media
+Date: November 28, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Vice Chancellor for Information Technology/CIO
+The USC Aiken Social Media policy is currently under review.
+Number: AIT 113
+Section: Information Technology
+Subject: Support for USCA Retirees
+Date: February 1, 2013
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+This policy defines the support and services the University of South Carolina Aiken’s Computer Services Division provides to University retirees.
+Definitions:
+- CSD is an acronym for Computer Services Division.
+- In this document retiree refers to any faculty or staff member who is no longer employed full-time at USC Aiken and left employment in good standing with the University.
+II. Procedure
+- All retirees will be allowed to retain their computer network and e-mail access. Retirees must notify USC Aiken Computer Services Division (CSD) in writing of their desire to maintain their e-mail and network accounts upon their retirement. E-mail and network accounts will remain active for one year, at which time retirees must re-notify CSD in writing of their desire to keep the accounts active.
+- Because of its limited staff size and resources, CSD will only provide support and services to retirees with an assigned, on-campus office.
+- CSD will only assist retirees with and provide support for university-related projects.
+- CSD assistance with retiree projects will be provided only when that assistance does not interfere with or diminish the day-to-day support it provides to current faculty, staff and students.
+- Retiree e-mail boxes will be limited to 250 megabytes.
+- Retirees will be limited to a total of five gigabytes of file or web server storage space.
+- Retires must adhere to the USC system policies for Acceptable Use of Information Technology (IT 1.06) and regarding Information Security (IT 3.00).

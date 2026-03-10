@@ -1,0 +1,18 @@
+ ensure the need for the level of service obtained is still justified. Areas having large numbers of eDevices may wish to evaluate linking these users together under a single service contract for sharing a set amount of minutes per month.
+Complaints regarding eDevices, service, or service contracts, should be filed with Campus Support Services and/or the vendor.
+All eDevice service contracts must be established in the name of the University of South Carolina Aiken. All eDevice service agreements must reflect the billing address of the local area or department paying for the device. In order to maintain full accountability at the user level and to eliminate establishing multiple purchase orders, it is strongly recommended that departments use their Visa Purchasing card to pay monthly bills for eDevices. Records of billing and payment should be maintained as required by University policy and procedure. To assist in budgeting and tracking charges for eDevices, the USC Controller's Office has created a new object code specifically for cellular/wireless usage and a new object code for cellular/wireless equipment and accessories. The new object codes are:
+52037 - Cellular/wireless monthly charge
+52038 - Cellular/wireless equipment and/or accessories
+Personal eDevices may not be placed on state contract.
+Service contracts for eDevices may be activated, cancelled, or service shifted to another vendor without cost to the University. Vendors should be notified in writing in advance of such a change. In the event that a personal eDevice must be used for conducting University business, the individual, with proper documentation of the personal air time used, may seek reimbursement.
+Usage, monthly access and other charges, as well as appropriateness of service contracts for eDevices , etc., may be reviewed by the USC Department of Internal Audit. This information is available under the Freedom of Information Act. Therefore, users are strongly encouraged to use eDevices only for University business and to maintain accurate records.
+Number: AIT 104
+Section: Information Technology
+Subject: Scheduling CSD Computer Labs and Classrooms
+Date: March 12, 2010
+Reviewed on: October 25, 2012
+Issued by: Director of Client Services
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+This policy defines student computer areas managed by CSD and the procedure for reserving those areas.
+- CSD is responsible for scheduling any remaining times slots available, once class schedules have been completed by the Registrar, in computer labs and classrooms directly under C

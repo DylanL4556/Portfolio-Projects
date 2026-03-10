@@ -1,0 +1,21 @@
+2019.
+- QoS-driven channel allocation schemes based on secondary users’ priority in cognitive radio networks, International Journal of Wireless and Mobile Computing, vol. 11, no. 2, 2016.
+Conference Publications
+- AI-Driven Cybersecurity in Intelligent Transportation Systems: A Comprehensive Survey of Threats, Defenses, and Future Directions, ICIPS, 2025.
+- The Quantum Countdown: How Healthcare Can Achieve Crypto-Agility Before Q-Day, ICIPS, 2025.
+- Securing smart grids: A deep reinforcement learning approach for detecting cyber-attacks, SmartNets, 2024.
+- Evasion attacks in smart power grids: A deep reinforcement learning approach, IEEE CCNC, 2024.
+- Secured cluster-based electricity theft detectors against black-box evasion attacks, IEEE CCNC, 2024.
+- Performance analysis of opportunistic access based on secondary users’ priority, NRSC, 2017.
+Research Interests
+Network Security; Hybrid Host and Network Security; Security in Programmable Networks; Intrusion Detection and Prevention using Machine Learning; Security in Critical Infrastructure (ICS/SCADA); Generative AI Security and Adversarial Machine Learning.
+Publications
+- A Survey on Security Applications of P4 Programmable Switches and a STRIDE-based Vulnerability Assessment, CE Cyberinfrastructure, 2022.
+- A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions, IEEE Access, 2024.
+- P4ddpi: Securing P4-programmable Data Plane Networks via DNS Deep Packet Inspection, NDSS Symposium, 2022.
+- Exploiting Ransomware Paranoia for Execution Prevention, IEEE ICC, 2020.
+- A Blockchain-based Method for Decentralizing the ACME Protocol to Enhance Trust in PKI, International Conference on Telecommunications and Signal Processing, 2020.
+- On DGA Detection and Classification Using P4 Programmable Switches, Computers & Security, 2024.
+- Effective DGA Family Classification Using a Hybrid Shallow and Deep Packet Inspection Technique on P4 Programmable Switches, IEEE ICC, 2023.
+- Domain Name Security Inspection at Line Rate: TLS SNI Extraction in the Data Plane Using P4 and DPDK, IEEE ICC, 2025.
+- Leveraging SONiC Functionalities in Disaggregated Network Switches, International Conference on Telecommunications and Signal Processing, 

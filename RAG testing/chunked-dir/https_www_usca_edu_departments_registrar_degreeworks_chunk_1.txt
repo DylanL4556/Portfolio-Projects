@@ -1,0 +1,18 @@
+Degree Works is easy-to-use, web-based, degree audit and academic advising software designed to aid the advisement and academic planning process (e.g., track degree progress, prepare for registration, and plan for graduation).
+Degree Works has tools that allow students to view their academic progress at any time and confirm how their course choices fulfill degree requirements.
+In Degree Works, advisors will be able to access audits from 2008 to the current year to view their students’ academic record and degree plan.
+Use of the Degree Works program is not intended to replace face-to-face advising sessions with an academic advisor.
+What is an audit?
+A Degree Works audit is a review of past, current and planned coursework that provides information on completed and outstanding catalog requirements necessary to complete a degree/major/minor/concentrations/area of emphasis. The audit is divided into block requirements such as Degree, University Requirements, General Education, and Major Requirements. Each block works like a checklist that has boxes that are automatically checked when a requirement is met.
+How current is information in Degree Works?
+The information in Degree Works is refreshed nightly. Any changes made today will be seen in Degree Works the next day. The academic data runs parallel to the student's academic record in Banner.
+What if information in Degree Works is not up to date?
+There could be many reasons why information in Degree Works is not up to date. One is that Degree Works may not have been refreshed since a change was made (information is refreshed nightly) to a student record. Second, there could be some paperwork that must be completed. For example, if a change in major is pending, it is possible the form has not reached the Registrar’s Office.
+I think a student's audit is incorrect. What should I do?
+The first step is to clarify what information you believe is wrong. These are the most common problems and courses of action:
+1. The major is wrong on the student's audit.
+If the student has already officially changed their major, the Degree Works audit will only display the active degree term. If the change is effective for a future term, the change may not reflect until that term.
+2. The requirements for the student's major are wrong.
+Look at the catalog year that appears on the major requirements block of the audit. According to our records, this is the catalog that the student is using to complete their major requirements.
+3. Transfer courses do not appear in the right place.
+If you are concerned about a transfer course that

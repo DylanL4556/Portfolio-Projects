@@ -1,0 +1,18 @@
+ Senior Administrator, the form will be forwarded to the Vice Chancellor for Information Technology (VCIT) for verification of final installation costs, conformance to technical standards and ensure applicable state procurement procedures are followed. Most of the hardware required for installation of these devices is available on South Carolina Information Technology term contracts and the procedures to use these contracts must be followed. In no case will the use of a credit card be allowed for procurement of a digital sign unless approved by appropriate procurement officials. Approved copies of USCA Form AIT 109 will be will be maintained by CSD.
+Number: AIT 110
+Section: Information Technology
+Subject: Information Technology Resource Moves and Checkouts
+Date: June 9, 2010
+Revised on: October 26, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+In an effort to maintain an accurate information technology resource inventory, this policy provides guidelines for moving IT resources within campus boundaries or off-campus for short term events, long term events, office moves or temporary assignments. This policy includes the CSD checkout laptops.
+- This policy applies to the checking out of unassigned USCA IT resources for off-campus use and for taking individually assigned USC Aiken IT resources off-campus.
+- All requests for IT resources for longer than 14 days must be approved by the requestor’s supervisor and by the CSD Director of Communications and Hardware. The requestor must also complete a Computer Equipment Checkout Form and that form must include a clear justification supporting the university mission.
+- Relocation of assigned or unassigned IT resources must be coordinated by the appropriate department head, department chair or dean and the CSD Director of Communications and Hardware.
+- Checkout laptops will be assigned on a first come, first served basis.
+- All software installations, deletions or modifications on checkout computers must be performed by CSD staff. The request for software installations, deletions or modifications must be made at least two weeks in advance and a legal copy of the software must be provided, if necessary. The requestor is responsible for backing up and removing his/her own files prior to returning the laptop. The requestor will not delete or modify essential files (files that allow basic load programs to function).
+- The requestor will not remove sensitive personal unencrypted data off campus as described in USC system policy IT 3.00.
+- Definitions
+- CSD in this document is

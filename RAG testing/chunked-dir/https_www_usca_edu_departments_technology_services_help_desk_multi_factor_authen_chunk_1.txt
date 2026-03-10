@@ -1,0 +1,18 @@
+Multifactor Authentication (MFA) is now required on some systems!
+Many systems based on the Columbia campus, such as my.sc.edu, Self-Service Carolina (SSC) and others began requiring MFA for access.
+If you haven't already setup MFA for your accounts, you'll find information and instructions below. Columbia has also created a setup FAQ specifically for students.
+How do I set up Multi-Factor Authentication for Columbia systems?
+Most systems managed by the USC-Columbia campus are protected by Multi-factor Authentication (MFA) using the DUO Security system.
+The primary system protected by MFA is Self-Service Carolina (SSC). SSC is used for many of your basic administrative needs as a student: class registration, housing, financial aid, etc. You will need to complete MFA setup to have access to these areas.
+Instructions for Setting Up MFA
+Most systems managed by the USC Columbia campus are protected by Multifactor Authentication (MFA) using the DUO Security system. The primary system protected by MFA is Self Service Aiken. Self Service Aiken is used for many of your basic administrative needs as a student: class registration, housing, financial aid, etc. You will need to complete MFA setup to have access to these areas.
+Detailed information about MFA and instructions can be found on the Multifactor Authentication page of the USC Columbia website. Please be aware though that due to the depth of the information contained on this page most users find reading it only left them more confused.
+If you run into any issues, please contact the USC Aiken Help Desk. Don't frustrate yourself unnecessarily by attempting to solve an MFA or account issue on your own when a quick call to the Help Desk could solve it for you quickly and easily.
+Setting Up DUO Multifactor Authentication (MFA)
+DUO Mobil Multifactor Authentication
+- Go to http://MyAccount.SC.Edu and select Update Account Settings. Log in using your Network Username and password, answer your security question, and then select the Multifactor tab.
+- Enter your mobile phone number, select mobile, choose your platform, then press submit.
+- Select Activate beside your mobile phone number. A QR code will be displayed. (You will scan this code in a later step.)
+- Install the Duo Mobile app on your smartphone.
+- Open the Duo Mobile app on your smartphone.
+- On the App, press + at the top of the screen to create

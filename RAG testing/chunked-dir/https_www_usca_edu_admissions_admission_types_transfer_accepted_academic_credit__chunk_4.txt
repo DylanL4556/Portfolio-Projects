@@ -1,0 +1,32 @@
+OL A121 and A122 |
+| IB Business and Mgmt. | BADM A371 | BADM 371 and MGMT 376 | BADM 371 and MGMT 376 |
+| IB Chemistry | CHEM A111 | CHEM A111 and A112 | CHEM A111 and A112 |
+| IB Computing Studies | CSCI A145 | CSCI A145 and A146 | CSCI A145 and A146 |
+| IB Economics | ECON A221 | ECON A221 | ECON A221 |
+| IB English 1A | ENGL A101 | ENGL A101 and A102 | ENGL A101 and A102 |
+| IB European History | HIST A102 | HIST A102 | HIST A102 |
+| IB French B | FREN A101 and A102 | FREN A101 and A102 | FREN A210 |
+| IB Geography | GEOG A103 | GEOG A103 | GEOG A103 |
+| IB German B | GERM A101 and A102 | GERM A101 and A102 | GERM A210 |
+| IB History of Africa/ME | No Equivalent | HSSI A002T (Non-West) | HSSI A002T (Non-West) |
+| IB History of Asia | No Equivalent | HSSI A002T (Non-West) | HSSI A002T (Non-West) |
+| IB Latin B | LATN A101 and A102 | LATN A101 and A102 | LATN 210 |
+| IB Math | MATH A141 | MATH A141 and A142 | MATH A141 and A142 |
+| IB Music | MUSC A173 | MUSC A173 | MUSC A173 |
+| IB Physics | PHYS A201 | PHYS A201 and A202 | PHYS A201 and A202 |
+| IB Psychology | PSYC A101 | PSYC A101 | PSYC A101 |
+| IB Social Anthropology | ANTH A102 | ANTH A102 | ANTH A102 |
+| IB Spanish B | SPAN A101 and A102 | SPAN A101 and A102 | SPAN A210 |
+| Visual Arts | No Equivalent | ARTS A103 | ARTS A103 |
+|
+Exam |
+Level |
+Grade |
+Hours |
+Equiv. |
+|
+Accounting |
+A |
+A-E |
+6 |
+BADM A225 and BADM A226

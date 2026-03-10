@@ -1,0 +1,55 @@
+Course Descriptions | USCA
+https://www.usca.edu/academics/cse/csem/programs/process-engineering/course-descriptions/
+Course descriptions
+Year 1
+Fall Semester
+ENCP 101 Introduction to Engineering I (3)
+(Coreq: MATH 108 or higher) Engineering problem-solving using computers and other engineering tools.
+Spring Semester
+ENCP 102 Introduction to Engineering II (3)
+(Prereq: MATH 108 or higher) Introduction to basic concepts in engineering graphics as a means of communication, including orthographic projections, descriptive modeling, and computer graphics.
+Year 2
+Fall Semester
+ENCP 200 - Statics (3)
+(Prereq: MATH 141 with a grade of C or better ) Introduction to the principles of mechanics. Equilibrium of particles and rigid bodies. Distributed forces, centroids, and centers of gravity. Moments of inertia of areas. Analysis of simple structures and machines. A study of various types of friction.
+ELCT 221 - Circuits (3)
+(Prereq: MATH 142). Linear circuit analysis and design.
+Spring Semester
+ENCP 260 - Introduction to the Mechanics of Solids (3)
+(Prereq: ENCP 200 with a grade of C or better and MATH 241, or consent of department). Basic concepts of stress and strain; Stress and Strain transformation concepts. Basic developments for stresses, tension, torsion, axial load, and pressure. Deformations of elastic relationships between stress and strain
+ENCP 290 - Thermodynamic Fundamentals(3)
+(Prereq: grade of C or better in MATH 142) Definitions, work, heat, and energy. First law analyses of systems and control volumes. Second law analysis.
+Year 3
+Fall Semester
+ENCP 360 - Fluid Mechanics (3)
+(Prereq: Math 241 with a C or better; ENCP 200 with a grade of C or better). Mechanical engineering applications of fluid statics and dynamics. Conservation of mass, momentum, and energy. Similitude and dimensional analysis, open channel flow, lift, and drag. Introduction to turbulent flow.
+ENCP 361 - Instrumentation, Measurements, & Statistics (3)
+(Prereq: STAT 509 with a grade of C or better, ENCP 260 with a grade of C or better, PHYS 211 with a grade of C or better, and PHYS 212 with a grade of C or better) Principles of measurement, analysis of data, experimental planning. Correlations of experimental data, experimental variance, and uncertainty analysis. Lab and lecture.
+ENCP 371 Engineering Materials (3)
+(Prereq: ENCP 260 with a grade of C or better) Structure and properties of engineering metals, ceramics, and polymers; atomic bonding, crystalline structures and microstructures; mechanical behavior and deformation mechanisms; processes for controlling structures and properties; corrosion.
+BADM 371 Principles of Management and Leadership (3)
+A comprehensive survey of the basic principles of management and leadership applicable to all forms of business. The course provides the student with a basis for thinking about complex business situations in the framework of analysis of the management and leadership process.
+Spring Semester
+ENCP 310 Dynamics (3)
+(Prereq: ENCP 200 with a grade of C or better) Kinematics of particles and rigid bodies. Kinetics of particles, emphasis on Newton’s second law, energy and momentum methods for solving problems. Applications of plane motion of rigid bodies.
+ENCP 327 - Design of Mechanical Elements (3)
+(Prereq: ENCP 260 with a grade of C or better) Design against static failure and fatigue failure of structural members and machine parts: design and selection of components including fasteners, welds, shafts, springs, gears, bearings, and chain drives.
+ENCP 334 - Quality Control and Planning (3)
+(Prereq: STAT 509 with a grade of C or better). Introduction to quality management philosophies, tools, and approaches. Six Sigma philosophy, roadmap, tools, and techniques of planning and executing quality improvement programs and the LEAN continuous improvement approach that focuses on reducing waste. Application of Design for Six Sigma approach to design or improve products and processes.
+Year 4
+Fall Semester
+ENCP 316 Control Systems (3)
+(Prereq: MATH 242 with a grade of C or better, ELCT 221 with a grade of C or better). An introduction to closed-loop control systems: development concepts, including transfer function, feedback, frequency response, and system stability by examples taken from engineering practice: control system design methods. Also, an introduction to programmable logic controllers (PLCs).
+ENCP 380 Introduction to Systems Engineering (3)
+(Prereq: MATH 242 with a grade of C or better, ENCP 33 4 with a grade of C or better) An integrated introduction to systems methodology, design, and management. Overview of systems engineering as a professional and intellectual discipline and its relation to other disciplines, such as operations research, management science, and economics. Survey of selected techniques in systems and decision sciences, including mathematical modeling, decision analysis, risk analysis, and simulation modeling.
+ENCP 498 - Capstone Design I (3)
+(Prereq: ENCP 310 with a grade of C or better, ENCP 361 with a grade of C or better, ENCP 371 with a grade of C or better, ENCP 334 with a grade of C or better, ENCP 327 with a grade of C or better; Coreqs: ENCP 316 and ENCP 380) Lecture topics include design specifications and planning, innovation, economic factors, safety, reliability, ethics, and social impact. Selection specification and feasibility study of an open-ended design project to be completed in ENCP 499.
+Spring Semester
+ENCP 421 - Engineering Economics (3)
+(Prereq: ECON 221 or 222) Decision-making with respect to capital goods, with emphasis on such decision-making in governmental activities and public utilities. Intended primarily for engineering students, the course emphasizes the types of investment decisions that engineers are often called upon to make.
+ENCP 499 Capstone Design II (3)
+(Prereq: ENCP 498 with a grade of C or better; Coreqs: EC ON 421, PHIL 324, and BADM 494) Design for manufacturability, ergonomic and aesthetic considerations, prototype construction and testing, statistical methods/design of experiments, ethics/product liability and social/environmental impact. The final engineering design (specifications, drawings, bill of materials, including assessment of economics) will be completed by the end of the semester. Both written and oral reports are to be provided
+PHIL 325 - Engineering Ethics (3)
+An investigation of ethical issues in engineering and engineering-related technology. Topics include whistleblowing, employee/employer relations, environmental issues, issues related to advances in information technology, and privacy.
+BADM 494 Project Management (3)
+(Prereq: BADM 371) A study of general principles of project management which includes concepts related to management of technology, people, stakeholders and other diverse elements necessary to successfully complete the project. The student will explore both technical and managerial challenges involved in managing projects.

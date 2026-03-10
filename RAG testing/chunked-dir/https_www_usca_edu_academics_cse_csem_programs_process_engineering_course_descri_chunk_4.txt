@@ -1,0 +1,7 @@
+ 221 or 222) Decision-making with respect to capital goods, with emphasis on such decision-making in governmental activities and public utilities. Intended primarily for engineering students, the course emphasizes the types of investment decisions that engineers are often called upon to make.
+ENCP 499 Capstone Design II (3)
+(Prereq: ENCP 498 with a grade of C or better; Coreqs: EC ON 421, PHIL 324, and BADM 494) Design for manufacturability, ergonomic and aesthetic considerations, prototype construction and testing, statistical methods/design of experiments, ethics/product liability and social/environmental impact. The final engineering design (specifications, drawings, bill of materials, including assessment of economics) will be completed by the end of the semester. Both written and oral reports are to be provided
+PHIL 325 - Engineering Ethics (3)
+An investigation of ethical issues in engineering and engineering-related technology. Topics include whistleblowing, employee/employer relations, environmental issues, issues related to advances in information technology, and privacy.
+BADM 494 Project Management (3)
+(Prereq: BADM 371) A study of general principles of project management which includes concepts related to management of technology, people, stakeholders and other diverse elements necessary to successfully complete the project. The student will explore both technical and managerial challenges involved in managing projects.

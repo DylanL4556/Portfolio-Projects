@@ -1,0 +1,17 @@
+ your Network Username and password, answer your security question, and then select the Multifactor tab.
+- Enter your mobile phone number, select mobile, choose your platform, then press submit.
+- Select Activate beside your mobile phone number. A QR code will be displayed. (You will scan this code in a later step.)
+- Install the Duo Mobile app on your smartphone.
+- Open the Duo Mobile app on your smartphone.
+- On the App, press + at the top of the screen to create new account.
+- Scan the QR code displayed on your computer. This will complete setup.
+I've received an error that says I need to setup VIP security questions.
+During MFA setup you'll be asked to provide an answer to one of your VIP security questions. If you have forgotten what those are, or have never set them up, you'll need to reclaim your VIP ID to set them. Just click the link below, answer the questions presented and then select and set your security questions. Once you've done that, you should be able to complete MFA setup.
+How do I make sure I enrolled my device?
+You enroll a device as part of the MFA setup process. Once you've successfully signed into the MFA site at: https://my.sc.edu/multifactor/ you've registered for MFA. However, you also need to enroll any devices you'd like to use for authentication. If you don't enroll a device the system will not have a way to authenticate you, causing you to see the Access Denied screen.
+To ensure you've enrolled a device, got back to https://my.sc.edu/multifactor/ and check that you have an enrolled device listed as shown below. You should then click the Test Authentication button at the bottom of that page to confirm it is working correctly.
+If you receive the error shown below when attempting to test MFA or sign into an MFA protected site/system for the first time, you likely either just need to clear your cache or haven't yet successfully enrolled a device.
+How do I clear my cache?
+Clearing your cache is simple. Just follow the instructions for your browser found here: https://help.yahoo.com/kb/SLN27196.html Or if you run into problems clearing your cache, try to sign in with a different browser.
+How do I make sure I enrolled my device?
+You enroll a device as part of the MFA setup process. Once you've successfully signed into the MFA site

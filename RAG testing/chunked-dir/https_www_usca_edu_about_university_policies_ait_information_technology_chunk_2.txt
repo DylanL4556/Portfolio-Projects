@@ -1,0 +1,13 @@
+ two weeks before you need them loaded.
+- Proper testing always helps ensure that the software meets the expectations of the faculty/staff requestor. Advance testing gives CSD time to make changes to the way the software is loaded if there is a problem encountered during the test. The Director of Network Systems will ensure that the faculty/staff are notified when and where the software is ready for testing. After testing, the requestors need to let the Network Engineer or Apple Systems Support specialist know if the software is adequate.
+- When instructors are uncertain about the lab/classroom software needed, the Director of Network Systems must be consulted.
+- New faculty/staff coming to campus will usually be late getting their software request in since the deadline for requests occurs in the previous semester. Their requests will take priority over late requests.
+Number: AIT 103
+Section: Information Technology
+Subject: Cellular and Wireless Telephones and Devices
+Date: August 1, 2005
+Issued by: Vice Chancellor for Information Technology/CIO
+I. Policy
+It is the policy of the University to provide the equipment, services and other resources necessary for its faculty and staff to discharge their job-related responsibilities properly. Cellular and wireless telephones and devices may be included among these resources. For the purposes of this policy, cellular and wireless telephones and devices are hereinafter referred to as eDevices.
+It is the responsibility of the appropriate Senior Administrator (Chancellor, Executive Vice Chancellor and Vice Chancellors) to justify the need for an individual under his or her management to have an eDevice. Justification could be based on increases in efficiency, effectiveness, or enhancement of personal employee performance. Requests for a University provided eDevice will be requested on USCA Form 508 (available online at http://www.usca.edu/uscaforms/) and will be forwarded through the appropriate, director, unit head or supervisor to their applicable Senior Administrator who will approve/disapprove these requests. These requests will contain written justification as to why the device is needed and what efficiencies are envisioned by the use of an eDevice. Approved copies of USCA Form 508 will be forwarded to Campus Support Services and will be maintained on file by Campus Support Services.
+The University discourages use of agency eDevices for personal use. However, if circumstances should require an individual who is assigned an eDevice to use the eDevice for personal use, then that portion of the cost of the personal eDevice air time that causes the service bill to

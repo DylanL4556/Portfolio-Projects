@@ -1,0 +1,17 @@
+ minutes or several reboot cycles
+For more information on Windows Update see this section at the Microsoft site.
+For information on updating Mac OS X please see this article in the OS X Knowledge Base.
+LINKS FOR THIS STEP
+Windows Updates:
+http://www.microsoft.com/windows/downloads/windowsupdate/default.mspx
+Mac/OS X Updates:
+http://support.apple.com/kb/ht1338
+Make Sure your System is Free of Malware
+Connecting to PacerStudent and the internet may not be possible if your system is infected with malware (viruses or spyware). These rouge programs often make it difficult or impossible to complete required system updates. Infections can actually disable security software altogether. It's not uncommon for infections to go completely unnoticed until they're detected by our network security software (Impulse SafeConnect)...the main reasons we require all system to connect though it.
+We suggest installing Malware Bytes Anti-Malware (MBAM) on your system to eliminate malware before you arrive. MBAM has great tutorials on its website. After you've run MBAM on your system, you'll likely see just how infected it really was. Infections lucking in the background of a system often number in the hundreds; quite a shock when everything seemed ok.
+- Install or Update Antivirus Software
+Once you've gotten rid of everything you can with MBAM, you'll want to update your anti-virus software.
+If your anti-virus software updates properly and doesn't run into errors, it is probably still in good working order. If so, you'll want to use it to run a full system scan.
+If your anti-virus software won't update or runs into problems, it's likely corrupted by the infections you found earlier. You'll need to replace it. You can either re-install and update your current software, or download a reliable free anti-virus program. We suggest AVAST! Free Home Edition for Windows and Sophos for Mac. Both are also available for mobile devices. Whatever you choose, be sure to update your anti-virus software completely and then run a full system scan.
+- Uninstall File-sharing Software
+Now is also a good time to uninstall file-sharing programs such as uTorrent, Limewire, Bearshare, FrostWire, or similar software. Many of these will be removed by virus and malware scans because they're the most likely source of infection for your system. Please be aware: illegal file sharing is not allowed on PacerStudent. Any

@@ -1,0 +1,17 @@
+ Student Email
+All use of email will be consistent with other University policies, including the "Acceptable Use of USC Aiken Computer and Network Resources Policy", (USC Aiken Policy AIT 107), which can be found at: http://www.USC Aiken.edu/CSD/policies/ethic.htm
+II. Procedures
+The Vice Chancellor for Information technology and the Campus Technology Committee will review this policy as needed. Students with questions about the policy should contact the Computer Services Division.
+III. Related Policies
+IV. Reason for Revision
+Annual Review
+Number: AIT 109
+Section: Information Technology
+Subject: Purchase and Operation of Digital Signage
+Date: April 1, 2011
+Issued by: Michael Lemons, Vice Chancellor for Information Technology
+I. Policy
+It is the policy of the University to provide the equipment, services and other resources necessary for its faculty and staff to discharge their job-related responsibilities properly. Large screen monitors and displays may be included among these resources. For the purposes of this policy, Digital Signage is defined as any digital display over 30 inches diagonal (hereafter referred to as digital signage or devices) with the exception of those displays used solely for television display.
+To reduce support costs and to ensure compatibility for future growth, technical standards for these devices will be provided by Computer Services Division (CSD).
+It is the responsibility of the appropriate Senior Administrator (Chancellor, Executive Vice Chancellor and Vice Chancellors) to justify the need for a unit under his or her management to have Digital Signage. Procurement of Digital Signage will be requested on USCA Form AIT 109 and will be forwarded through the appropriate, director, unit head or supervisor to their applicable Senior Administrator who will initially approve/disapprove these requests.
+These requests will contain written justification and what efficiencies are envisioned by the use of these devices. In addition, the resources necessary to support these devices must be identified. Upon approval by the appropriate Senior Administrator, the form will be forwarded to the Vice Chancellor for Information Technology (VCIT) for verification of final installation costs, conformance to technical standards and ensure applicable state procurement procedures are followed. Most of the hardware required for installation of these devices is available on South Carolina Information Technology term contracts and the procedures to use these contracts must be followed. In no case will the use of a credit card be allowed for procurement of a digital sign unless approved by appropriate procurement officials. Approved copies of USCA

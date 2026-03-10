@@ -1,0 +1,15 @@
+ official statements or views of the university of South Carolina Aiken").
+VI. Responsibilities of Users
+All faculty, staff, and students who use university supported computer and network systems share in the responsibility for upholding the rights of their fellow users. Meeting this responsibility requires adherence to certain rules, outlined below, which apply to all university systems.
+- Appropriate and reasonable use:
+Computer and network access account should be used only for authorized purposes. Personal use of university computing and network resources is restricted by state law. Section 8-13-700(A) of the South Carolina Ethics Code reads as follows:
+No public official, public member, or public employee may knowingly use his official office, membership or employment to obtain an economic interest for himself, a member of his immediate family, an individual with whom he disassociated, or a business with which he is associated. This prohibition does not extend to the incidental use of public materials, personnel, or equipment, subject to or available for a public official's, public member's, or public employee's use which does not result in additional public expense.
+Viewing of pornography is forbidden. Viewing of child pornography is illegal and is subject to prosecution by local, state or federal authorities. If legitimate research projects require the viewing or storage of this type of material, approval from the Chancellor must be obtained beforehand.
+Users should refrain from inappropriate activities such as use of email to distribute off-color jokes, or interfering with other users (for example, consuming gratuitously large amounts of limited system resources such as disk space, CPU time, network bandwidth, or printer supplies). - Privacy and Confidentiality:
+Accounts on university computer systems, and connections to the university network, provide access to many classes of privileged information. Users must maintain the confidentiality of any privileged information they access, and must not use any privileged information for any purpose for which they are not explicitly authorized.
+Accessing another user's files without permission is prohibited.
+Accessing any information on a university information system without authorization is prohibited.
+Disruption or unauthorized monitoring or interception of electronic communications is prohibited.
+These prohibitions apply even in circumstances where the files, information, or messages are not adequately protected against unauthorized access. Any user who discovers a possible "security hole" on an USC Aiken system is obliged to report it to the system administrator. - Accountability:
+Misrepresenting or willfully concealing your identity at any point on the USC Aiken network is prohibited. - Security:
+The users of all systems must maintain adequate password

@@ -1,0 +1,44 @@
+Use images and videos to provide additional context, meaning, or support to the text on the page.
+Images
+- Images must be original and either free of copyright or used with permission.
+- Images on websites should contain little or no text. Use ‘alt’ descriptions to convey the meaning of each image for accessibility purposes.
+- Photos should have vibrant colors, be well-lit, and be in focus.
+- Do not use images that flash, flicker, blink, or animate.
+- Use appropriate file formats to ensure the best image quality and smallest file size:
+- JPEG: For photos and full-color images
+- PNG: For line drawings, low-mid color images, and images with transparency
+Working with Images
+Selecting an Appropriate Image
+- Is it a high-quality image?
+- Image size and shape (aspect ratio) appropriate for content type. You can always scale down (make smaller) without losing resolution but scaling up (making larger) beyond it’s original size, will result in the loss of resolution.
+- File size less than 1MB
+- Best file type for image
+JPG vs PNG: Which is better?
+Both of these file types have their appropriate place in web design. Whether you choose jpeg files or the png format depends on the content of the images.
+How to use JPGs
+Advantages
+JPEGs are best suited for images that would otherwise be gigantic without compression. Images that have no transparent backgrounds, a lot of different colors, and details, like photographs, work best for the JPG image file type.
+Disadvantages
+If you want images to have transparent backgrounds, you’re out of luck with JPGs no matter what you do to them in Photoshop. You’ll have to use a PNG, which has an entire channel dedicated to transparency. JPEGs always have a flat background color.
+If there are a lot of textures and other fine details a JPG has the potential to squash these pixels together. It can be tricky working with images that have background gradients and translating them into JPGs that don’t suffer from a banding of colors after they’re compressed. For complex images, you may have to experiment with different settings in getting your images to look right.
+And just like making a photocopy of a photocopy of a photocopy, the more you compress the same JPEG image the worse it’s going to look.
+How to use PNGs
+Advantages
+PNGs can have transparent backgrounds. This makes them highly usable in different web design contexts. They’re also a better image format in reproducing vibrant colors and making sure that lines stay sharp, making PNGs the preferred format for illustrations, typography, and company logos.
+Disadvantages
+Since PNGs offer the best resolution, why not use them everywhere? File size is the issue. A web design chock full of PNG files, rather than just a few, will load much slower than if you use JPEGs. A page that doesn’t load fast can hurt a website’s SEO, as well as make people bounce while waiting for the images to appear. This is especially true when image file sizes are over 300 KB.
+Considerations
+- Is the photo relevant and up-to-date?
+- Related to page content?
+- Adds visual interest and additional context
+- Are we legally allowed to use the image?
+- Is it copyright-protected? If so, do we have permission to use it?
+- Does the image have an ‘alt’ description for accessibility?
+Image Editors
+Crop, resize, and optimize your images for the web before uploading them into the CMS. While the CMS does have some built-in cropping and resizing abilities, these should not be relied upon. You can prepare images for the web by using image editing software on your computer (such as Adobe Photoshop) or a web-based editor. Below are some free photo editing programs.
+Optimizing Images for the Web
+Providing the highest quality image content on your website requires a delicate balancing act between image quality and file size. Large image files increase the load time for the page. The goal is to have the highest quality images with the smallest file size.
+The images on your website must be less than 1 MB in size. Therefore, optimizing your images for the web is an essential step. Here are some resources to help:
+- Optimizing Images for Web: A Practical Guide: This blog post written by Richard Lazazzera, A Better Lemonade Stand, July 18, 2016 — This step-by-step tutorial on how to optimize your JPEGs, PNGs, and GIFs in Adobe Photoshop (though this blog can still be helpful when using other photo editing software).
+Free Online Image Optimizers
+Some possible free alternatives for image optimization include:

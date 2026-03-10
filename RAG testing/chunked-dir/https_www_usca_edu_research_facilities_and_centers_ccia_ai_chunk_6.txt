@@ -1,0 +1,17 @@
+ for Task Allocation Using Computation Offloading in 5G Networks, Future Generation Computer Systems, 2020.
+Publications
+- A Comprehensive Comparative Analysis of RFID Devices Security in Supply Chain Geofencing Technologies, IEEE ISDFS, 2025.
+- Critical Factors for Privacy and User Retention in Event-Based Social Media Apps, IEEE ISDFS, 2025.
+- Malware Exploitation and Vulnerability Assessment of CVE-2024-38063 in Windows Networks, IEEE ISDFS, 2025.
+- Advancing Network Threat Detection Through Dynamic Ensemble Learning, IEEE SoutheastCon, 2025.
+- Exploring Security Vulnerabilities in ChatGPT Through Jailbreak Evaluation, IEEE ICCA, 2024.
+- Machine Learning-Enhanced Detection for QR Code Email Threats, Cyber Awareness and Research Symposium, 2024.
+- Exploring ICS SCADA Network Vulnerabilities, HCII – Lecture Notes in Computer Science, 2024.
+- Examination of Artificial Intelligence Integration in Higher Education, IEEE ISDFS, 2024.
+- Security and Privacy Threats Posed by IoT Devices on College Campuses, IEEE ISDFS, 2024.
+- Leveling Up: Survey of Nation-State Cyber Operations, IEEE ISDFS, 2023.
+- Importance of Cybersecurity in Supply Chain, IEEE ISDFS, 2023.
+- Survey of Cybersecurity Awareness Among College Students, IEEE ISDFS, 2023.
+- The Evolution of Cryptocurrency and Cyber Attacks, IEEE ICCA, 2022.
+- Cybersecurity Maturity Model Certification Initial Impact on the Defense Industrial Base, Journal of Information Systems Applied Research, 2022.
+- An Engineering Management Approach to Capital Funding for Technology Start-Ups, George Washington University, 2018.

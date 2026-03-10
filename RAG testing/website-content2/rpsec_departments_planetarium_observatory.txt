@@ -1,0 +1,28 @@
+Observatory | USCA
+https://www.usca.edu/rpsec/departments/planetarium/observatory/
+Join us May 3 for Family Earth and Sky Night
+This event is a celebration of Earth (Earth Day on 4/22) and Sky (National Astronomy Day on 5/3). Events include planetarium shows, hands-on activities, night-sky viewing, and viewing utilizing the Bechtel Telescope.
+The Bechtel Telescope
+Visit the Bechtel Telescope after evening public planetarium shows. The observatory is open on Saturday evenings after regularly scheduled planetarium shows, weather and dark skies permitting.
+The Ruth Patrick Science Education Center Observatory is on the roof of the Center. The observatory houses the Bechtel Telescope. Bechtel Savannah River Inc. and the Bechtel Foundation donated $30,000 to purchase the telescope for the observatory. Because of this generosity, the telescope now bears the company’s name.
+Coordinates
+81° 46' 10.73198" W
+33° 34' 29.14440" N
+See location at what3words
+.
+Equatorial Pier Angle = 33.59°
+About the Bechtel Telescope
+The Bechtel Telescope is a 16 inch, Meade LX-200GPS, Schmidt-Cassegrain, catadioptric telescope. What does all of that mean?
+- The telescope's main mirror is 16 inches in diameter.
+- Meade is the name of the company that manufactured the telescope, although the telescope was purchased from Camera Corner in North Carolina. LX-200 represents the specific type of telescope the company manufactures. Meade also makes LX-200 scopes that are 8", 12" and 14" in diameter.
+- Schmidt-Cassegrain and catadioptric refer to how light is gathered. This type of scope uses mirrors and lenses to form the images. (See table below for telescope comparisons)
+The observatory building was manufactured by Observadome in Jackson, Mississippi. It is five meters in diameter and has a rotating domed roof.
+On June 18, 2009, The RPSEC observatory was struck by lightning and the Bechtel Telescope was damaged beyond repair. Through generosity of the company and support from insurance, a new Bechtel Telescope was purchased and installed in May 2010.
+Visit our sister observatory, the Boyd Observatory
+See pictures of the observatory installation and the telescope installation.
+| Telescope Light Gathering Comparison | |
+| Reflector | Main light gathering source is a mirror |
+| Refractor | Main light gathering source is a lens |
+| Catadioptric | Uses both mirrors and lenses to gather light |
+There is a good description of how telescopes work at Meade Instruments Corporation.
+This page has some diagrams to help explain how the telescopes work.

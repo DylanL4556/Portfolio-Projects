@@ -1,0 +1,36 @@
+Hancock Lab | USCA
+https://www.usca.edu/research/undergraduate-research/hancock-lab/
+The Hancock Lab
+Transposable Element Biology
+The Hancock Lab focuses on understanding the behavior of plant transposable elements and harnessing these discoveries for plant gene discovery.
+Transposition Mechanisms
+Transposable elements are mobile pieces of DNA capable of “jumping” from one location in a genome to another.
+The Hancock Lab studies the mechanisms that control the frequency of transposition of elements from rice, maize, and soybean. Projects are ongoing to:
+- evaluate which regions of the elements are required for transposition
+- understand how transposase proteins facilitate this process
+- develop methods to target element insertion to specific genomic sequences
+Gene Discovery
+Our long-term goal is to use transposable elements as tools for gene discovery and modification in crop species.
+We are testing their ability to transpose in species including Arabidopsis, camelina, soybean, and maize. The random or targeted insertion of these elements enables us to modify genes and identify gene functions.
+For example, adding enhancer sequences to transposable elements produces activation tags that cause over-expression of nearby genes. We have identified plants with mutant phenotypes in mutagenized populations and are working to characterize these mutants.
+Objectives
+- identify plant transposable elements that can transpose in yeast
+- determine the requirements for transposition
+- identify hyperactive versions of elements and transposase proteins
+- develop novel cargos that can be transported by transposable elements
+- develop methods for targeted insertion of transposable elements in crops
+Funding
+- NSF Plant Genome Research / PlantSynBio (2025–2028): $451,139
+Intragenic genome engineering for the next generation of improved plants - NSF Genetic Mechanisms CAREER (2017–2023): $695,696
+Revealing the mechanisms that determine how an active DNA TE impacts the genome.
+Dr. Nathan Hancock
+Education
+Ph.D. (Biochemistry) University of Missouri-Columbia, 2005
+Research Interests
+Dr. Hancock is a plant biologist interested in the genes that control agronomic traits. His research focuses on using a transposable element from rice to discover gene functions.
+Courses Taught
+Introductory Biology, Biochemistry, Plant Physiology
+Publications
+Charles Nathan Hancock on Google Scholar
+Connect with us!
+For further information on working in Dr. Hancock's lab, contact him at 803-641-3390 or nathanh@usca.edu.

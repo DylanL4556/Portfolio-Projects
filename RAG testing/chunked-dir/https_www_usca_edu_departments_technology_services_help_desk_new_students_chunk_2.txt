@@ -1,0 +1,45 @@
+Birthdate
+VIP ID (students only) (this is included in your acceptance information)
+Last 4-digits of SSN or USC ID (faculty/staff/affiliates only)
+You'll also need access to your personal email account and your mobile phone:
+Personal Email Account (used to receive and confirm account verification codes)
+Mobile Phone (used for multifactor authentication - don't have a phone? you'll have another option)
+Avoid account problems your first day on campus.
+Complete all steps below in the order presented. Each account builds on the one set up before it. If you try to set accounts up out of order or skip setting up an account, you'll run into problems.
+Part 1: USC University Services Accounts
+Accounts used to access USC university services are assigned by USC Columbia University Technology Services (UTS) and include:
+VIP ID
+Network Username (sometimes referred to as Enterprise ID or Blackboard ID)
+Multifactor Authentication (MFA)
+These accounts are used to access services like:
+Self-Service Carolina (SSC)
+Financial Aid
+Housing
+Class Registration
+Grades
+Blackboard
+Library Journals
+Emergency Notification Settings
+HR/Payroll (faculty/staff/student workers only)
+PeopleSoft (faculty/staff only)
+Banner (faculty/staff only)
+Data Warehouse (faculty/staff only)
+Millennium (faculty/staff only)
+Other administrative sites and those containing PII or FERPA data (faculty/staff only)
+Account Management Menu provides a single interface of options needed to setup and manage these accounts. The menu offers these options:
+Account Claiming
+Update Account Settings
+Forgot Password
+Forgot ID's
+Need Further Assistance/Reclaim Account
+USC Aiken students, faculty, staff or affiliates, should keep the following in mind:
+Choose a "Preferred Email Address" ending in @usca.edu if prompted
+Choose "Aiken" or "USC Aiken" for any settings or links which offer multiple campuses as options
+*** Setup your USC University Services Accounts:
+To setup or manage your USC Services Accounts, go here: https://myaccount.sc.edu and click Account Claiming.
+Part 2: USC Aiken Campus Accounts
+USC Aiken campus accounts are created by your USC Aiken Computer Services Division (CSD)/Help Desk team and include:
+Pacer Account
+@usca.edu Email Account
+Campus accounts allow access to these systems and services:
+PACERNET and P

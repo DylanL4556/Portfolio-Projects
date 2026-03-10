@@ -1,0 +1,13 @@
+q@usca.edu
+Background: Colorimetric Chemical Sensors, Shelf Life of Meat, Bioplastic Sensors, Heavy Metals Quantification, Marine Sediment pH Profiles.
+Courses Taught
+- General Chemistry (Chem-111 and Chem-101)
+- Quantitative Analysis (Chem-321 and Chem 321L)
+- Instrumental Analysis (Chem522)
+Publications:
+Shah, N., Khan, Z., Hussain, M., Rehan, T., Khan, A., Zaman, K., Tariq, S., Kamal, T., & Asiri, A. M. (2020). Molecularly imprinted polymer particles and beads: A survey of modern synthetic techniques. Current Nanoscience. DOI: 10.2174/1573416666201105155421
+Tariq, S. (2015). Developing an optical sensor for the visualization of pH gradients in marine sediments. Thesis.
+Tariq, S., Mamrol, N., Mayes, A. G., & Hickner, M. 3D polymerized colorimetric sensor for pH detection using cell phone photography. (Manuscript in progress.)
+Afzal, F., Tariq, S.*, Nadeem, A., Iqbal, J., Hasni, K., Aslam, M., & Sanaullah, S. (2021). A review on measuring the concentration of heavy metals in the muscles of Mugil cephalus. Journal of Chemical Society of Pakistan, 43(5), 611–622.
+Afzal, F., Samiullah, Nadeem, A., Aslam, M., Shafi, M., Hasni, K., Hakeem, A., & Tariq, S. (2022).* Measurement of iron, manganese, copper, cobalt, and lead for edible fitness of M. cephalus collected from Lasbela (Balochistan), Pakistan using atomic absorption spectroscopy. Malaysian Journal of Science, 41(1), 54–75.
+Mandokhail, A., Samiullah, Khan, N., Tareen, A. H., Kakar, A. R., Tariq, S., & Kakar, N. (2020). Determination of antioxidants by four different methods in the medicinally important plant Ebenus stellata of Balochistan. Al-Nahrain Journal of

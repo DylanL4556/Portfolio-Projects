@@ -1,0 +1,6 @@
+Standard refund procedures for dropping/withdrawal from the university
+All refunds will be based solely on the percentage of time (in days) between the first day of a part-of-term and the last day of a part-of-term. The percentage (in days) will include all Saturdays, Sundays, and holidays between the start and end dates of each part-of-term. Exceptions to this rule may only be made by the Bursar’s Office. In these instances, any change in the refund percentage would be moved out to the next closest business day. Courses fewer than six days long, first day = 100% refund, remaining days = no refund.
+100 percent if the student’s official drop/withdrawal calculation is within 6% of the enrollment period for which the student is liable.
+70 percent if the student’s official withdrawal calculation is between the period specified in (1) or before the end of the 10 percent period of enrollment for which the student is liable.
+50 percent if the student’s official withdrawal calculation is between the period specified in (2) or before the end of the 16 percent period of enrollment for which the student is liable.
+20 percent if the student’s official withdrawal calculation is between the period specified in (3) or before the end of the 25 percent period of enrollment for which the student is liable.

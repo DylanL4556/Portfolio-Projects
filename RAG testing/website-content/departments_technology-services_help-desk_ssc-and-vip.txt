@@ -1,0 +1,9 @@
+Self-Service Aiken is used for administrative tasks such as registration, financial aid, housing, and grades. Self-Service Aiken is also where you setup your USC Network Account which is used to log into Blackboard for online courses and off-campus access to Library journals.
+If you receive an error stating that your VIP ID hasn't yet been claimed, try re-claiming your VIP ID by completing the form at: https://my.sc.edu/vipid/claim/process?execution=e4s1
+To setup Self Service Aiken for the first time, please follow the instructions found at this page: https://my.sc.edu/vipid
+Accounts used to access USC university services are assigned by USC Columbia University Technology Services (UTS) and include:
+- VIP ID
+- Network Username (also sometimes referred to as your Enterprise ID or Blackboard ID)
+- Multifactor Authentication (MFA)
+Manage your USC University Services Accounts
+To setup or manage your USC University Services Accounts, go here: https://myaccount.sc.edu

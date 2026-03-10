@@ -1,0 +1,14 @@
+
+I. Policy
+This policy defines the support and services the University of South Carolina Aiken’s Computer Services Division provides to University retirees.
+Definitions:
+- CSD is an acronym for Computer Services Division.
+- In this document retiree refers to any faculty or staff member who is no longer employed full-time at USC Aiken and left employment in good standing with the University.
+II. Procedure
+- All retirees will be allowed to retain their computer network and e-mail access. Retirees must notify USC Aiken Computer Services Division (CSD) in writing of their desire to maintain their e-mail and network accounts upon their retirement. E-mail and network accounts will remain active for one year, at which time retirees must re-notify CSD in writing of their desire to keep the accounts active.
+- Because of its limited staff size and resources, CSD will only provide support and services to retirees with an assigned, on-campus office.
+- CSD will only assist retirees with and provide support for university-related projects.
+- CSD assistance with retiree projects will be provided only when that assistance does not interfere with or diminish the day-to-day support it provides to current faculty, staff and students.
+- Retiree e-mail boxes will be limited to 250 megabytes.
+- Retirees will be limited to a total of five gigabytes of file or web server storage space.
+- Retires must adhere to the USC system policies for Acceptable Use of Information Technology (IT 1.06) and regarding Information Security (IT 3.00).

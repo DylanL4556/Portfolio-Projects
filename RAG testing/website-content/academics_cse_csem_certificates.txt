@@ -1,0 +1,23 @@
+Certificates
+The College of Science and Engineering provides certificates in Cloud Computing and Security, Cybersecurity, Data Science, and Network Security and IT.
+School or College: College of Sciences and Engineering
+- 22 credit hours focused on cloud infrastructure, cybersecurity, and project management.
+- Courses: Intro to CS & Algorithm Design, Networking, Cloud Computing, Cloud Security.
+- Built for industry-ready skills. Apply via Student Services.
+School or College: College of Sciences and Engineering
+- 17 credit hours covering algorithm design, InfoSec, cyber defense, forensic methods.
+- Courses: Intro to CS, Algorithm Design I & II, InfoSec, Cyber Defense & Forensics.
+- Prepares students for fast-paced tech careers.
+- Apply via Student Services.
+School or College: College of Sciences and Engineering
+- 23 credit hours focused on data science assisted by programming tools and mathematic knowledge.
+- Prerequisites: Intro to CS & Algorithm Design, Discrete Mathematics for Computer Science.
+- Courses: Data Science with Python, Intro to Machine Learning, Data Visualization & Exploration, Statistics
+School or College: College of Sciences and Engineering
+- 16 credit hours covering data structures, networks, and InfoSec.
+- Courses: Intro to CS & Algorithm Design, Data Structures, Info Security, Networks.
+- Apply via Student Services for skill-driven training.
+Location
+Penland 227
+Phone
+Contact Us

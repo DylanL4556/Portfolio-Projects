@@ -1,0 +1,62 @@
+AI & Cyber Innovation Week 2026
+AI & Cyber Innovation Week 2026 is a six-day festival at USCA that brings together students, professionals, educators, government, and industry leaders to explore cybersecurity, artificial intelligence, and their impact on the CSRA region.
+Throughout the week, participants dive into hands-on labs, technical workshops, and interactive sessions that connect real-world cyber and AI challenges with workforce pathways and regional readiness. From expert keynotes and DOE/DOD-led panels to community cyber awareness events and a multi-tier Capture the Flag competition, the event showcases how resilient, trusted technology can strengthen both local infrastructure and future careers.
+Sponsors & Supporting Organizations
+Event Details
+- Six-day immersive program featuring:
+- Professional cybersecurity training
+- Applied AI seminars
+- Community cyber events
+- Student showcases
+- DOE/DOD-led workforce panels
+- Focus areas:
+- Cyber resilience and readiness
+- Regional workforce and economic impact
+- Interactive learning opportunities:
+- Hands-on technical labs
+- Multi-track breakout sessions
+- Multi-tier Capture the Flag (CTF) competition
+- CTF and labs cover real-world topics such as:
+- Network defense
+- Threat hunting
+- Digital forensics
+- Secure and trustworthy AI
+- Community-focused programming includes:
+- Cyber Day activities
+- K-12 STEM and AI experiences
+- Robotics and drone demonstrations
+- Networking receptions connecting:
+- Local and state government
+- National laboratories
+- Industry leaders
+- Educators across the CSRA region
+- Intended audience includes:
+- Local government leaders
+- Military and civilian cyber professionals
+- Educators and academic leaders
+- Private-sector technologists
+- National lab researchers
+- Students will benefit, including:
+- High school students exploring STEM careers
+- College students interested in cybersecurity, AI, robotics, and engineering
+- Student-focused offerings:
+- Entry-level technical sessions
+- Competitions and hands-on labs
+- Workforce and scholarship panels
+- Educators and community partners, including:
+- Faculty and K-12 teachers
+- Career counselors
+- STEM and workforce development organizations
+- Dedicated sessions on:
+- AI in the classroom
+- STEM innovation
+- Collaborative regional projects linking multiple institutions
+- Dates: February 2–7, 2026
+- Location: USCA campus
+- Daily programming includes:
+- Keynote presentations
+- Panel discussions
+- Technical and educational sessions
+- Early-week focus:
+- Professional training
+- Network traffic analysis

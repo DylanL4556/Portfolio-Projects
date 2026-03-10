@@ -1,0 +1,16 @@
+. The determination of the particular course in which a student is placed will be based on submitted ACT or SAT standardized test scores. If a student does not submit a standardized test score during the application process, that student will be placed into MATH A108.
+If placed into MATH A108, students may choose to take the Math Placement Test (MPT) to place higher than the MATH A108 level. This could greatly benefit the student’s progression in the major and reduce the number of math courses needed for a particular major. For students that would prefer a higher math course, they must either submit a standardized test score that places them into a higher math course or take the MPT and place higher than the MATH A108 level.
+New Math Placement Chart
+| ACT Score (Math) | SAT Score (Math) | Course Placement |
+|---|---|---|
+| 24 or lower | 569 or lower | MATH A108 (4 contact hours) |
+| 25-27 | 570-629 | MATH A111, MATH A112, MATH A122, MATH A170, STAT A201 |
+| 28 or higher | 630 or higher | MATH A174, MATH A141* |
+Placement Test Exemptions
+AP Calculus
+Students who have scored a 3, 4, or 5 on the Calculus Advanced Placement (AP) Exam will not need to take the mathematics placement test. A student with AP Calculus AB will be placed into MATH A142 (Calculus II) and a student with AP Calculus BC will be placed into MATH A241 (Calculus III).
+Transfer and Graduate Students
+A transfer or graduate student who has already earned a baccalaureate degree from an accredited college does not have to take the mathematics placement test.
+A transfer student who receives transfer credit for MATH A108 or higher (excluding MATH A170, MATH A221 and MATH A222) does not take the placement test and may proceed to the next mathematics course required for his/her major. Courses that transfer as statistics courses with the STAT prefix do not qualify as mathematics courses for placement purposes.
+Test Instructions
+Only students in select majors where the College Algebra track (MATH A108) is required AND those that would like to place higher than the MATH A108 course level should take the Math Placement Test (MPT). For these students, the results of

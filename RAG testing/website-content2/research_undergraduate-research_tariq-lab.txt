@@ -1,0 +1,42 @@
+Tariq Lab | USCA
+https://www.usca.edu/research/undergraduate-research/tariq-lab/
+The Chemical Sensing Lab
+Innovating Colorimetric Sensors for Diverse Applications
+Colorimetric Sensors
+Colorimetric sensors are analytical tools designed to detect and measure specific analytes by producing a visible color change. These sensors operate on the principle of colorimetric analysis, where interactions with a target analyte trigger a chemical reaction that alters the color of a dye or reagent. They are widely utilized in environmental monitoring, healthcare diagnostics, and industrial applications due to their simplicity, affordability, and ease of use.
+Colorimetric sensors can be employed for both qualitative and quantitative analysis. Qualitative analysis involves observing color changes to identify the presence of specific analytes, while quantitative analysis measures color intensity using spectroscopic methods that assess absorbance. This traditional approach, however, requires sample collection, preservation, pretreatment, and laboratory analysis, making it time-consuming and labor-intensive.
+A modern alternative involves capturing color change through photography and analyzing the images with specialized software. This method converts color data into numerical values using calibration equations pre-established in the laboratory for a specific sensor. This innovation simplifies the process, eliminates the need for extensive sample handling, and is particularly advantageous for field applications.
+Colorimetric pH Sensors for Marine Sediments
+Using advanced photographic techniques, we developed innovative pH sensors to profile pH levels in marine sediments, tested on Hunting Island. Traditional sensors like glass electrodes or micro-electrodes require sediment core collection and are prone to damage during millimeter-scale profiling. In contrast, our robust sensors provide accurate and user-friendly solutions.
+Future efforts will focus on generating temporal pH profiles from the same location to monitor environmental changes. These profiles offer valuable insights into the effects of climate change on biogeochemical cycles, including carbon, nitrogen, phosphorus, and sulfur cycles, all of which are regulated or influenced by pH levels.
+This interdisciplinary project is ideal for students in Chemistry, Biology, Environmental Sciences, or Geology. Participants will gain hands-on experience in spectroscopy, data analysis using ImageJ and R, and sensor technology. The skills acquired will significantly enhance your CV, preparing you for graduate studies and careers in various scientific fields.
+Colorimetric Packaging for Monitoring Meat Freshness
+Smart packaging technology has revolutionized food safety by using color changes to indicate meat freshness more accurately than traditional expiration dates. Our bioplastic-based pH-sensing sheet, incorporating natural and environmentally safe dyes, provides real-time freshness indicators.
+Currently, we have a working prototype, but its mechanical properties require optimization. While bioplastics are ideal for food applications, their durability poses a challenge. As part of this project, you will work on improving the sensor's composition, gaining expertise in polymers, sensor development, and spectroscopy.
+This project offers excellent preparation for careers and graduate studies in polymer chemistry, materials chemistry, and food chemistry, equipping participants with highly marketable skills.
+Mercury Sensor Development
+In collaboration with Dr. Bryan Borders and funded by the Savannah National River Laboratory, we are advancing mercury sensor technology. Our prototype has been successfully developed and optimized for rapid response. However, further research is needed to evaluate its properties, including response time, detection limits, and interference, as well as its performance in analyzing real water samples from the Savannah River.
+This project aims to refine the sensor's capabilities for environmental applications, offering participants the opportunity to contribute to impactful research addressing critical environmental challenges.
+Research Opportunities
+Are you passionate about research or brimming with ideas for innovative projects? Whether you're interested in enrolling on the research course or seeking guidance on a project that aligns with my expertise, I’d love to hear from you! This is a unique opportunity to collaborate, explore new possibilities, and bring your ideas to life. Feel free to reach out to me at Sonia.Tariq@usca.edu —let’s create something impactful together!
+About The Professor
+Dr. Sonia Tariq
+Analytical Chemistry - University of East Anglia U.K
+Sonia.Tariq@usca.edu
+Background: Colorimetric Chemical Sensors, Shelf Life of Meat, Bioplastic Sensors, Heavy Metals Quantification, Marine Sediment pH Profiles.
+Courses Taught
+- General Chemistry (Chem-111 and Chem-101)
+- Quantitative Analysis (Chem-321 and Chem 321L)
+- Instrumental Analysis (Chem522)
+Publications:
+Shah, N., Khan, Z., Hussain, M., Rehan, T., Khan, A., Zaman, K., Tariq, S., Kamal, T., & Asiri, A. M. (2020). Molecularly imprinted polymer particles and beads: A survey of modern synthetic techniques. Current Nanoscience. DOI: 10.2174/1573416666201105155421
+Tariq, S. (2015). Developing an optical sensor for the visualization of pH gradients in marine sediments. Thesis.
+Tariq, S., Mamrol, N., Mayes, A. G., & Hickner, M. 3D polymerized colorimetric sensor for pH detection using cell phone photography. (Manuscript in progress.)
+Afzal, F., Tariq, S.*, Nadeem, A., Iqbal, J., Hasni, K., Aslam, M., & Sanaullah, S. (2021). A review on measuring the concentration of heavy metals in the muscles of Mugil cephalus. Journal of Chemical Society of Pakistan, 43(5), 611–622.
+Afzal, F., Samiullah, Nadeem, A., Aslam, M., Shafi, M., Hasni, K., Hakeem, A., & Tariq, S. (2022).* Measurement of iron, manganese, copper, cobalt, and lead for edible fitness of M. cephalus collected from Lasbela (Balochistan), Pakistan using atomic absorption spectroscopy. Malaysian Journal of Science, 41(1), 54–75.
+Mandokhail, A., Samiullah, Khan, N., Tareen, A. H., Kakar, A. R., Tariq, S., & Kakar, N. (2020). Determination of antioxidants by four different methods in the medicinally important plant Ebenus stellata of Balochistan. Al-Nahrain Journal of Science, 23(4), 13–18.
+Tariq, S.*, Aslam, M., Hasni, K., Khan, A., Ahmed, S., Khan, M., Jan, S., Khosa, M. H., Samiullah, & Afzal, F. (2021). Determination of total chloride/bromide ions and total hardness of drinking water of Uthal and LUAWMS, Lasbela, Baluchistan, Pakistan. Frontiers in Chemical Sciences, 2(20), 107–115.
+Malkani, M. S., Alyani, M. S., Khosa, M. S., Tariq, S., Saeed, F., Khan, G., & Faiz, J. (2016). Mineral resources of Pakistan: An update. Lasbela University Journal of Science and Technology, 1, 90–114.
+Rahim, S., Hasni, K., Baloch, A. H., Nawaz, A., Wajid, C., Tariq, S., & Hasni, M. S. (2023). Variation analysis of Acanthopagrus latus found in the coastal belt of Lasbela using mitochondrial DNA, D-loop region. Advancement in Life Sciences, 10(1), 42–47.
+Nadeem, A., Kalhoro, M. A., Buzdar, M. A., Tariq, S., Shafi, M., Afzaal, Z., Shah, H., Saeed, F., Haroon, A., & Ahmed, I. (2017). Growth, mortality, and exploitation rate of Sardinella longiceps (Valenciennes, 1847) from Pakistani waters based on length frequency distribution data. Indian Journal of Geo-Marine Science, 46(8), 1693–1703.
+Afzaal, Z., Kalhoro, M. A., Buzdar, M. A., Tariq, S., Shafi, M., Nadeem, A., Saeed, F., Haroon, A., Shah, H., & Ahmed, I. (2017). Carapace length-weight and carapace width-weight relationship of Portunus pelagicus (Linnaeus, 1758) in Pakistani waters, Northern Arabian Sea. Indian Journal of Geo-Marine Science, 48(10).

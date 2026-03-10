@@ -1,0 +1,348 @@
+Enter prompt: What are some math courses offered by the university?
+Title: 
+URL: 
+Text snippet:  lecture course on a "demand basis" only.
+MATH A503 Geometry for Middle and High School/General Mathematics Teachers. (3) (Prereq: by examination placement above MATH A112, MATH A221 or MATH A222 with a grade of C or better, or MATH A111 and MATH A112 with a grade of C or better, or consent of the d 
+---
+Title: 
+URL: 
+Text snippet:  lecture course on a "demand basis" only.
+MATH A503 Geometry for Middle and High School/General Mathematics Teachers. (3) (Prereq: by examination placement above MATH A112, MATH A221 or MATH A222 with a grade of C or better, or MATH A111 and MATH A112 with a grade of C or better, or consent of the d 
+---
+Title: 
+URL: 
+Text snippet:  course).
+MATH A135 AppliedMath Seminar. (1) A brief (1 credit hour) introduction, using case studies, to show how applied mathematics is used in government and industry.
+MATH A141 Calculus I. (4) (Prereq: by placement, consent of the department, or MATH A111 and MATH A112 with a grade of C or bette 
+---
+Title: 
+URL: 
+Text snippet:  course).
+MATH A135 AppliedMath Seminar. (1) A brief (1 credit hour) introduction, using case studies, to show how applied mathematics is used in government and industry.
+MATH A141 Calculus I. (4) (Prereq: by placement, consent of the department, or MATH A111 and MATH A112 with a grade of C or bette 
+---
+Title: 
+URL: 
+Text snippet: , completion of either MATH A111 or MATH A170 with a grade of C or better, or consent of the department). Basic mathematics needed for the study of computer science: Propositions and predicates; mathematical induction, sets, relations, Boolean algebra, automata, grammars and languages, computable fu 
+---
+Title: 
+URL: 
+Text snippet: , completion of either MATH A111 or MATH A170 with a grade of C or better, or consent of the department). Basic mathematics needed for the study of computer science: Propositions and predicates; mathematical induction, sets, relations, Boolean algebra, automata, grammars and languages, computable fu 
+---
+Title: 
+URL: 
+Text snippet:  eigenvalues, Cayley-Hamilton theorem, quadratic forms, Jordan and rational forms, functions of matrices.
+MATH A546 Introduction to Algebraic Structures. (3) (Prereq: MATH A241 and MATH A174 with a grade of C or better in both, or consent of the department). Sets, mappings, equivalence relations. El 
+---
+Title: 
+URL: 
+Text snippet:  eigenvalues, Cayley-Hamilton theorem, quadratic forms, Jordan and rational forms, functions of matrices.
+MATH A546 Introduction to Algebraic Structures. (3) (Prereq: MATH A241 and MATH A174 with a grade of C or better in both, or consent of the department). Sets, mappings, equivalence relations. El 
+---
+Title: 
+URL: 
+Text snippet:  rules, directional derivatives and gradient, tangent planes and normal lines, total differentials, multiple integrals, iterated integrals, change of variable, and polar and spherical coordinates. Other related topics on integrals will be covered as time permits.
+MATH A242 Ordinary Differential Equa 
+---
+Title: 
+URL: 
+Text snippet:  rules, directional derivatives and gradient, tangent planes and normal lines, total differentials, multiple integrals, iterated integrals, change of variable, and polar and spherical coordinates. Other related topics on integrals will be covered as time permits.
+MATH A242 Ordinary Differential Equa 
+---
+Title: 
+URL: 
+Text snippet: ) (C or higher in MATH A104 or by appropriate criteria as listed on the USC Aiken Math Placement Chart or by consent of department). An in-depth version of MATH A108 intended to develop the necessary algebraic skills by providing additional support through smaller class sizes and more contact hours. 
+---
+Title: 
+URL: 
+Text snippet: ) (C or higher in MATH A104 or by appropriate criteria as listed on the USC Aiken Math Placement Chart or by consent of department). An in-depth version of MATH A108 intended to develop the necessary algebraic skills by providing additional support through smaller class sizes and more contact hours. 
+---
+Title: 
+URL: 
+Text snippet:  the end of the semester. Both written and oral reports are to be provided.
+Mathematics (MATH)
+MATH A102 Contemporary Mathematics. (3) Contemporary mathematical thinking is emphasized through a broad study of topics which could be used in making personal and professional decisions. Topics will be ta 
+---
+Title: 
+URL: 
+Text snippet:  the end of the semester. Both written and oral reports are to be provided.
+Mathematics (MATH)
+MATH A102 Contemporary Mathematics. (3) Contemporary mathematical thinking is emphasized through a broad study of topics which could be used in making personal and professional decisions. Topics will be ta 
+---
+Title: 
+URL: 
+Text snippet: 00 |
+Jackson |
+Jakob |
+Cody |
+Emma |
+Cody |
+|
+12:00-12:30 |
+Jackson |
+Nolan |
+Kamdyn |
+Emma |
+Jakob |
+|
+12:30-1:00 |
+Jackson |
+Nolan |
+Kamdyn |
+Emma |
+Jakob |
+|
+1:00-1:30 |
+Jackson |
+Nolan |
+Kamdyn |
+Emma |
+Kamdyn |
+|
+1:30-2:00 |
+Cody |
+Nolan |
+Kamdyn |
+Emma |
+Kamdyn |
+|
+2:00-2:30 |
+Cody |
+Nolan |
+K 
+---
+Title: 
+URL: 
+Text snippet:  project started in MATH A590.
+Statistics (STAT)
+STAT A201 Elementary Statistics. (3) (Prereq: MATH A108 with a grade of C or better, or consent of the department). An introductory course in the fundamentals of modern statistical methods. Topics include descriptive statistics, probability, sampling, 
+---
+Title: 
+URL: 
+Text snippet:  project started in MATH A590.
+Statistics (STAT)
+STAT A201 Elementary Statistics. (3) (Prereq: MATH A108 with a grade of C or better, or consent of the department). An introductory course in the fundamentals of modern statistical methods. Topics include descriptive statistics, probability, sampling, 
+---
+Title: 
+URL: 
+Text snippet: Mechanical Engineering Course Descriptions
+Computer Science (CSCI)
+CSCI A125 Introduction to Computer Science. (3) (Prereq: Placement above MATH A104, or MATH A104, with a grade C or better, or consent of department). The course is designed to help students with no prior exposure to computer science 
+---
+Title: 
+URL: 
+Text snippet: Mechanical Engineering Course Descriptions
+Computer Science (CSCI)
+CSCI A125 Introduction to Computer Science. (3) (Prereq: Placement above MATH A104, or MATH A104, with a grade C or better, or consent of department). The course is designed to help students with no prior exposure to computer science 
+---
+Title: 
+URL: 
+Text snippet: . The determination of the particular course in which a student is placed will be based on submitted ACT or SAT standardized test scores. If a student does not submit a standardized test score during the application process, that student will be placed into MATH A108.
+If placed into MATH A108, stude 
+---
+Title: 
+URL: 
+Text snippet:  A112 | CHEM A111 and A112 |
+| Computer Science A | CSCI A145 | CSCI A145 | CSCI A145 |
+| Computer Science Principles | CSCI A101 | CSCI A101 | CSCI A101 |
+| English Lang/Comp* | ENGL A101 | ENGL A101 | ENGL A101 and A102 |
+| English Lit/Comp* | ENGL A101 or A102 | ENGL A101 or A102 | ENGL A101 and  
+---
+Title: 
+URL: 
+Text snippet: Math Lab
+The Math Lab is located on the first floor of the Gregg-Graniteville library.
+Please note the math lab is primarily for help with math courses up to and including Math 142 and Stat 201. Tutoring for other math courses depends on the availability and is by special request only. Please contac 
+---
+Title: 
+URL: 
+Text snippet: /Logic Students should take math in their first year of enrollment at USC Aiken (unless they have already completed general education requirements for math through concurrent enrollment, AP, etc.). MATH 221 and MATH 222 cannot be used for General Education math credit EXCEPT by students graduating w 
+---
+Title: 
+URL: 
+Text snippet:  C or better as a prerequisite to other math courses in the major. |
+MATH A108 |
+|
+4 |
+Student has the MATH A108 prerequisite. |
+Any of the above courses and/or: MATH A122, MATH A170, MATH A111, MATH A112, MATH A222, STATS A201 |
+Students with MPT Code 4 whose major requires MATH A141 (Calculus I) s 
+---
+Title: 
+URL: 
+Text snippet:  of the fundamental mathematical transformations used in digital image processing and practical skills of implementing the processing algorithms with computer programming.
+CSCI A492 Topics in Computer Science. (3) (Prereq: consent of the department) Study of selected topics in computer science. To b 
+---
+Title: 
+URL: 
+Text snippet:  of the fundamental mathematical transformations used in digital image processing and practical skills of implementing the processing algorithms with computer programming.
+CSCI A492 Topics in Computer Science. (3) (Prereq: consent of the department) Study of selected topics in computer science. To b 
+---
+Title: 
+URL: 
+Text snippet: Current Subjects Available
+If a peer tutor is unavailable for your course, try Brainfuse, our online tutoring option that lets you meet virtually with a professional tutor.
+Shiloh Tew
+BIOL 121, 122, and 370
+CHEM 111 and 112
+COMM 201
+EDUC 110
+ENGL 101 and 102
+GEOG 102
+HIST 101 and 202
+MATH 108
+MUSC 1 
+---
+Title: 
+URL: 
+Text snippet:  and MATH A222) does not take the placement test and may proceed to the next mathematics course required for his/her major. Courses that transfer as statistics courses with the STAT prefix do not qualify as mathematics courses for placement purposes.
+Test Instructions
+Only students in select majors  
+---
+Title: 
+URL: 
+Text snippet:  preventing illegal accesses to computer systems that contain confidential or sensitive information. In addition, this course also introduces digital forensic tools and techniques to collect, analyze, document, and present evidence for malicious activities or computer-related crimes.
+CSCI A550 Desig 
+---
+Title: 
+URL: 
+Text snippet:  preventing illegal accesses to computer systems that contain confidential or sensitive information. In addition, this course also introduces digital forensic tools and techniques to collect, analyze, document, and present evidence for malicious activities or computer-related crimes.
+CSCI A550 Desig 
+---
+Title: 
+URL: 
+Text snippet:  student’s degree program. See definition and list of approved courses in the Undergraduate and Graduate Programs Bulletin. | ||
+|
+1. Natural Sciences Biology, Chemistry, Physics, Geology, Astronomy (1 lab) |
+7 - 8 | |
+|
+2. History of Civilization (HIST 101 or HIST 102) |
+3 | |
+|
+3. Social and Behav 
+---
+Title: 
+URL: 
+Text snippet:  testing, implementation, and documentation. Includes language syntax, data and file structures, input/output devices, and files. This course also provides exposure to applications such as spreadsheets, database management, and web-page design leading to an advanced level of competency.
+CSCI A209 To 
+---
+Title: 
+URL: 
+Text snippet:  testing, implementation, and documentation. Includes language syntax, data and file structures, input/output devices, and files. This course also provides exposure to applications such as spreadsheets, database management, and web-page design leading to an advanced level of competency.
+CSCI A209 To 
+---
+Title: 
+URL: 
+Text snippet:  with a grade of C or better, Coreq: MATH A142). Introduction and application of linear algebra and numerical methods to the solution of physical and engineering problems. Techniques include iterative solution techniques, methods of solving system of equations, and numerical integration and differen 
+---
+Title: 
+URL: 
+Text snippet:  with a grade of C or better, Coreq: MATH A142). Introduction and application of linear algebra and numerical methods to the solution of physical and engineering problems. Techniques include iterative solution techniques, methods of solving system of equations, and numerical integration and differen 
+---
+Title: 
+URL: 
+Text snippet:  such as the American Mathematical Society, Society for Industrial and Applied Mathematics, Association for Women in Mathematics, and the Mathematical Association of America. You’ll gain knowledge, experience, and connections to help you thrive in jobs in Applied Mathematics and beyond.
+Degree Cours 
+---
+Title: 
+URL: 
+Text snippet:  such as the American Mathematical Society, Society for Industrial and Applied Mathematics, Association for Women in Mathematics, and the Mathematical Association of America. You’ll gain knowledge, experience, and connections to help you thrive in jobs in Applied Mathematics and beyond.
+Degree Cours 
+---
+Title: 
+URL: 
+Text snippet: Course descriptions
+Year 1
+Fall Semester
+ENCP 101 Introduction to Engineering I (3)
+(Coreq: MATH 108 or higher) Engineering problem-solving using computers and other engineering tools.
+Spring Semester
+ENCP 102 Introduction to Engineering II (3)
+(Prereq: MATH 108 or higher) Introduction to basic conc 
+---
+Title: 
+URL: 
+Text snippet: Course descriptions
+Year 1
+Fall Semester
+ENCP 101 Introduction to Engineering I (3)
+(Coreq: MATH 108 or higher) Engineering problem-solving using computers and other engineering tools.
+Spring Semester
+ENCP 102 Introduction to Engineering II (3)
+(Prereq: MATH 108 or higher) Introduction to basic conc 
+---
+Title: 
+URL: 
+Text snippet:  better). Introduction to basic concepts in engineering graphics as a means of communication, including orthographic projections, descriptive modeling, and computer graphics.
+ENCP A200 Statics. (3) (Prereq: MATH A141 with a grade of C or better). Introduction to the principles of mechanics. Equilibr 
+---
+Title: 
+URL: 
+Text snippet:  better). Introduction to basic concepts in engineering graphics as a means of communication, including orthographic projections, descriptive modeling, and computer graphics.
+ENCP A200 Statics. (3) (Prereq: MATH A141 with a grade of C or better). Introduction to the principles of mechanics. Equilibr 
+---
+Title: 
+URL: 
+Text snippet: Predict, model, and solve real-world problems with USCA's Applied Mathematics degree.
+Fast-moving industries and organizations need solutions for distribution processes, information flow, supply management, and more. You can be a part of that solution when you major in Applied Mathematics at the Uni 
+---
+Title: 
+URL: 
+Text snippet: Predict, model, and solve real-world problems with USCA's Applied Mathematics degree.
+Fast-moving industries and organizations need solutions for distribution processes, information flow, supply management, and more. You can be a part of that solution when you major in Applied Mathematics at the Uni 
+---
+Title: 
+URL: 
+Text snippet:  more realistic. Haptics can include the ability to feel the weight of a virtual object being lifted, the torque on a steering wheel, or the resistance when contacting a rigid object. Understanding how to make a scenario physically interact with the user will lead to more immersive scenarios.
+CSCI A 
+---
+Title: 
+URL: 
+Text snippet:  more realistic. Haptics can include the ability to feel the weight of a virtual object being lifted, the torque on a steering wheel, or the resistance when contacting a rigid object. Understanding how to make a scenario physically interact with the user will lead to more immersive scenarios.
+CSCI A 
+---
+Title: 
+URL: 
+Text snippet: . You may retake any portion of the test only once.
+All students begin with Algebra Test Part I. Please click the following link “Take Me to the Test” to log into blackboard. Once you log in, under My Organization, click USCA Math Placement Test. Carefully read all instructions on the Announcement p 
+---
+Title: 
+URL: 
+Text snippet: Incoming students are placed in their first mathematics course based on their selected major.
+For all STEM majors (College of Sciences and Engineering), majors in all professional schools (e.g. School of Business Administration, School of Education, School of Nursing), and Sociology majors, these st 
+---
+Title: 
+URL: 
+Text snippet:  Network Username/Password which you will use to log into Blackboard. If you need to take the Math Placement Test, you should return to the Math Placement information page to continue.
+If you were unable to located your USC Network Username/Password you may contact the Help Desk for assistance at: h 
+---
+Title: 
+URL: 
+Text snippet:  dimensional analysis, open channel flow, lift, and drag. Introduction to turbulent flow.
+ENCP 361 - Instrumentation, Measurements, & Statistics (3)
+(Prereq: STAT 509 with a grade of C or better, ENCP 260 with a grade of C or better, PHYS 211 with a grade of C or better, and PHYS 212 with a grade of 
+---
+Title: 
+URL: 
+Text snippet:  dimensional analysis, open channel flow, lift, and drag. Introduction to turbulent flow.
+ENCP 361 - Instrumentation, Measurements, & Statistics (3)
+(Prereq: STAT 509 with a grade of C or better, ENCP 260 with a grade of C or better, PHYS 211 with a grade of C or better, and PHYS 212 with a grade of 
+---
+Some math courses offered by the university include:
+
+- **MATH A135 AppliedMath Seminar**
+- **MATH A141 Calculus I**
+- **MATH A142 Calculus II**
+- **MATH A170 Finite Mathematics**
+- **MATH A174 Discrete Mathematics for Computer Science**
+- **MATH A221 Basic Concepts of Elementary Mathematics I**
+- **MATH A222 Basic Concepts of Elementary Mathematics II**
+- **MATH A225 Mathematical Software**
+- **MATH A241 Calculus III**
+- **MATH A242 Ordinary Differential Equations**
+- **MATH A503 Geometry for Middle and High School/General Mathematics Teachers**
+- **MATH A518 Industrial Mathematics I**
+- **MATH A519 Industrial Mathematics II**
+- **MATH A531 Foundations of Geometry**
+- **MATH A544 Linear Algebra**
+- **MATH A546 Introduction to Algebraic Structures**

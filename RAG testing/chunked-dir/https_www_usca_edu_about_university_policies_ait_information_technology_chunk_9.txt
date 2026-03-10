@@ -1,0 +1,20 @@
+ further notice and the student will be referred for additional action through the USCA Student Judicial System.
+- All CSD actions may be appealed to the Vice Chancellor of Information Technology.
+- Students found in violation of this policy will be subject to the following punitive actions.
+Number: AIT 106
+Section: Information Technology
+Subject: Safeguarding Sensitive Information
+Date: April, 2010
+Issued by: Mike Lemons, Vice Chancellor for Information Technology
+Authorized by: Mike Lemons, Vice Chancellor for Information Technology
+I. Policy
+Sensitive personal information that is stored on USCA owned computers will be protected from unauthorized disclosure. The following procedures must be followed by all USC Aiken personnel to reduce the potential of loss of sensitive data.
+Requests for exceptions to this policy must be forwarded through the appropriate senior administrator to the Vice Chancellor for Information Technology for approval. Please contact the CSD helpdesk (help-4357) for assistance as needed.
+II. Procedure
+Laptop computers or removable storage devices, such as floppy disks, CDs or thumb drives, will not be used to store social security numbers or other sensitive data unless the sensitive material is encrypted.
+Desktop computers will not be left unattended while they are logged in to the USCA network unless they are "locked" by a program that requires a password to unlock. This is a simple operation (for PCs, enter the "Windows" key and lower case "L" at the same time; once set up on the Mac, move the curser to the hot corner to activate the screen saver).
+A screen saver on all faculty/staff computers is required which requires the password be entered after an idle time of 30 minutes.
+Generation of databases, word documents, spreadsheets or files which contain personal information will be kept to a minimum and steps must be taken to protect these files. Such steps might include encryption or storage of the data in a protected folder on the file server with limited access, and immediate deletion of sensitive files as soon as the need is finished.
+Since the email system provides very little security particularly after it leaves USC, emails or attachments which contain sensitive information will not be sent to recipients outside the USC system.
+Mandatory periodic password changes are required for faculty/staff accounts. Complex passwords, defined as a minimum of six characters containing a combination of upper/lower case characters, numbers and special characters are required.
+All users with access to sensitive information are required to log in with their own unique account/password

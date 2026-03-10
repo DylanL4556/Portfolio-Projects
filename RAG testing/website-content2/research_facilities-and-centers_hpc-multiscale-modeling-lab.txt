@@ -1,0 +1,16 @@
+HPC Multiscale Modeling Lab | USCA
+https://www.usca.edu/research/facilities-and-centers/hpc-multiscale-modeling-lab/
+HPC / Multi-scale Modeling Lab
+The USCA Regional collaborative High Performance Computing Facility provides an environment for CSE Research Affiliates, USCA faculty, DOE facilities, and industry to collaborate on multiscale modeling, and computational deliverables.
+The lab has a broader impact throughout the region, state, and nation by providing significant applied research and economic development opportunities. Within the region, the research will be particularly impactful and will support the DOE Advanced Manufacturing Collaborative located on the campus of USCA.
+Current Group Users
+- Gerard Rowe, Ph.D. Chemistry
+- Chris Clarke, Director of TS
+- Ragaiy Zidan, Ph.D. in Physics
+- Maximilian Gorensek, Ph.D. in Chemical Engineering, PE
+- Claudio Corgnale, Ph.D. in Mechanical Engineering
+- Bruce Hardy, Ph.D. in Nuclear Engineering
+- Rose Hayes, Ph.D. in Anthropology
+- Titan Paul, Ph.D. Engineering
+- Hala Strohmier, Ph.D.
+- Scott McKay, Ph.D. Chemistry

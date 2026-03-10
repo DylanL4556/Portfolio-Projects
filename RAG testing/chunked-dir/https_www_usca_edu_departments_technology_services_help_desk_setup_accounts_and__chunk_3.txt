@@ -1,0 +1,20 @@
+iken campus accounts is a simple two-step process:
+- Set a new password for your Pacer Account
+- Sign into Office 365
+Those two steps are detailed below.
+*** STEP 1: Set a new password for your Pacer Account
+All USC Aiken students, faculty, staff and affiliates are assigned a Pacer Account.
+To set a new password for your account, use the appropriate information listed below and go to portal.office.com
+All Student accounts and Faculty/Staff/Affiliate accounts created after March 31st 2019:
+- Username: Your Pacer Account username matches your Enterprise ID. (To find your Enterprise ID, go to: https://myaccount.sc.edu and click "Forgot ID's")
+- Password: Your initial password is the last 5-digits of your VIP ID number followed by the characters USCA# (Example: If the last 5-digits of your VIP ID number are 12345, your initial password is 12345USCA#)
+Faculty, Staff and Affiliate accounts created before April 1st, 2019:
+- Username: Nothing has changed. (You will continue using the username you've always used.)
+- Password: Nothing has changed. (Your password has not changed and is whatever you last set it to.)
+*** Step 2: Sign into Office 365
+Office 365 includes web access to your @usca.edu email. This is where you'll also find Office web apps, Office 2016 Pro downloads, 1TB OneDrive for Business storage, and more.
+To sign into Office 365, use your email address and password as explained below, and go to: https://office.com
+- Email: Your email address is your Pacer Account followed by @usca.edu (Example: If your Pacer Account is: somebodyj99 your email address is: somebodyj99@usca.edu. You also selected this as your Preferred Email when setting up your USC Services Accounts.)
+- Password: Your email uses your Pacer Account password. (Wait at least 5-minutes after reset before signing into Office 365.)
+IMPORTANT: Before setting up your @usca.edu email account on a mobile device, or in any other email client, first complete setup by signing into Office 365 and clicking the Outlook icon.
+For more information on your @usca.edu email account and your Office 365 benefits, please visit the Office 354 page.

@@ -1,0 +1,33 @@
+ Departmental Major Maps
+The Academic Bulletins are the official documents of record concerning academic programs and regulations. Each calendar year has a unique bulletin and different bulletins based on your particular course of study. Please speak to your academic advisor if you have questions about the Bulletin.
+Advisors may save appointment notes in one of two places:
+DegreeWorks (for information on finding DegreeWorks, see the FAQ about how to access DegreeWorks).
+- Once in DegreeWorks, look under your ID number and name. You will see three tabs.
+- Click the tab labeled Notes
+Navigate
+- Download the Navigate Student app and sign in
+- On the home screen, you can select the button that says My Docs
+- Select Appointment Summaries and click the link attached to your advisor’s name. The appointment summary will appear!
+It is a good idea to look through classes before your advising appointment to know what classes you would like to take. You can look at your DegreeWorks worksheet to determine your remaining course options. You can also search course options in Self Service Aiken by following these steps:
+- Log into Self Service Aiken
+- Click the Student Menu
+- Select Registration
+- Select Browse Classes
+- Choose the appropriate term
+- Campus: USCA
+- Subject: The subject area such as “History” or “Computer Science”
+- Course number: make sure to put an “A” in front of the course number. Example: A101 (Leave this area blank if you would like to see all course options in a subject).
+- Click Search
+Log into Self Service Aiken
+- Click the Student menu
+- Select Registration tile
+- Select Register for Classes
+- Choose the appropriate term
+From here, you have several options. You can do one of the following:
+- manually search for each class by entering the Campus (USCA), the subject (Ex: Mathematics), course number (A108), and select open sections only.
+- search by the CRN number. It is a 5-digit number that is associated with a specific section of a class and can be found in the course description.
+- select the “Registration Plan Ahead Shopping Cart” option and add your classes to a schedule plan for the semester. Please note, the Plan Ahead tool does not automatically check for schedule conflicts, prerequisite restrictions, or whether a course is full.
+- Log into Self Service Aiken
+- Select the Student menu
+- Click on the “Registration” tile
+- Choose

@@ -1,0 +1,28 @@
+.
+If you haven't already setup MFA for your accounts, you'll find information and instructions below. Columbia has also created a setup FAQ specifically for students.
+How do I set up Multi-Factor Authentication for Columbia systems?
+Most systems managed by the USC-Columbia campus are protected by Multi-factor Authentication (MFA) using the DUO Security system.
+The primary system protected by MFA is Self-Service Carolina (SSC). SSC is used for many of your basic administrative needs as a student: class registration, housing, financial aid, etc. You will need to complete MFA setup to have access to these areas.
+See Instructions for Setting Up MFA
+Blackboard
+Blackboard is where all online courses take place.
+You log into Blackboard using your USC Network Username and Password.
+Is there a mobile app that I can use to access Blackboard?
+The previous Blackboard app does not work with USC-Columbia's Multifactor Authentication system. However, the new BB Student app will. This new app can be downloaded from your App Store, and is for free.
+Here's how to install the new app:
+- Delete the old Blackboard app from your device if it was installed
+- Download the BB Student app from the App Store for your phone or device
+- Open the app after installation completes
+- Search for the University of South Carolina - this will reset the link to our system
+- If you click on an old link, it may take you to an older version and not work
+- If you see University of South Carolina already in your selection, click on it and then erase it.
+- Then search for the University of South Carolina link again.
+- Follow the prompts to log into the Blackboard system using your network username and password
+- You should now be able to use the new BB Student app
+For more information on the Blackboard Student app, please see the Bb Student app help page.
+How do I update my email address in Blackboard?
+Blackboard uses the email address set as your Preferred University Email Address. This should always be set to your official USCA email address which ends with @usca.edu. Please confirm this is set correctly to ensure you receive all messages sent to you by your professors and classmates in Blackboard and other university systems.
+To check the email address listed in Blackboard...
+- Go to: https://blackboard.usca.edu/
+- Click "Login"
+- Sign-in with your VIP or USC Network Username

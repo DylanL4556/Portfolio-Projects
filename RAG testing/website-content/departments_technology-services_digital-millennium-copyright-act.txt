@@ -1,0 +1,45 @@
+Please see the links below for information on USCA's implemtation of DMCA requirements.
+1. What is the DMCA?
+U.S. Copyright Law protects a wide range of creative works and grants to the owner of the work the exclusive right to make copies of the work, to make new works using part of the original work, distribute copies of the work, and display or perform the work publicly. Works protected by copyright include: written works, movies, music, photographs, art, software, and other original works of authorship.
+A provision in Copyright Law known as the DMCA allows internet service providers to shield themselves from liability for copyright infringement due to infringing activity by users of the service provider's networks. Owners of copyright materials, including record companies, movie studios and software manufacturers, routinely monitor internet traffic and identify IP addresses that are hosting or sharing files that appear to be unauthorized copies of the owners' works. In compliance with the DMCA, the copyright owners notify the service provider and the service provider must expeditiously remove or disable access to the allegedly infringing material. The individual responsible for infringing activity, not the service provider, will be responsible should the copyright owner wish to seek damages for infringing activity.
+Text borrowed from the University of Washington
+www.washington.edu/computing/copyright/
+What does this all mean at USCA? Only the owner of copyrighted material may distribute that material. The DMCA allows the University of South Carolina Aiken, as an Internet Service Provider (ISP), a way to limit its liability of being sued should a user on the University's network distribute copyrighted material illegally. Copyright owners or their representatives regularly scan the University's network to locate instances of copyright infringement; they notify the University of the infringement, and the University must respond by removing access to the infringing material. A computer's owner is responsible for any infringing activity on it.
+Agent to Receive Notification of Claimed Copyright Infringement
+The University of South Carolina Aiken, as an internet service provider, is mandated by the DMCA to designate an "Agent to Receive Notification of Claimed Copyright Infringement". The University's designated agent is:
+James Raby
+University of South Carolina Aiken
+471 University Parkway
+Aiken, South Carolina 29801
+Email: JamesR@usca.edu
+Phone: 803-641-3658
+If you believe that any faculty, staff, or student of the University of South Carolina Aiken has infringed on your rights as a copyright owner, please contact the agent with the complete information as required by the DMCA.
+2. What is copyrighted material?
+Copyrighted material that is illegally distributed over the Internet can take many forms, including but not limited to, the following:
+written works- may take the form of eBooks, PDFs, or HTML pages.
+films or television shows which have been recorded and digitized or ripped (or copied) from DVDs.
+music- may take the form of MP3s or WAV files ripped (or copied) from CDs.
+photographs- includes graphics copied from other web sites.
+and software- includes software applications such as operating systems, applications that run on those operating systems, and fonts.
+3. How is copyrighted material distributed illegally?
+Copyrighted material is illegally distributed over the Internet by several methods, including, but not limited to, the following:
+Peer-to-peer (or P2P)- many computers are connected in a network for uploading and downloading files; these networks use certain software, for example, Kazaa, Limewire, Bearshare, Gnutella, Morpheus, and many more.
+FTP or file transfer protocol- one computer serves files to its clients on a continual basis.
+IM or instant messaging- it is possible to transfer files between IM (AOL Instant Messenger or MSN Messenger) users.
+4. How does illegally distributed material affect me?
+Illegal file sharing affects every user of the University's network. If you are on the University's network, either in an office, in a residence hall, or in a public lab, or a visitor to our network from outside the University's network, you can experience the affects of slower Internet speed resulting from illegal file sharing. If you are faculty, staff, or student using the University network, and you are distributing files illegally, you additionally may experience:
+lawsuits.
+increased virus attacks against your computer.
+spyware installed on your computer without your knowledge.
+5. How do I prevent problems?
+• Abstinence: Don't share copyrighted material. If you never install a peer-to-peer program, you will dramatically reduce the chances of your computer being infected by a virus, installing spyware, or being sued.
+6. Where can I go for help?
+For assistance cleaning peer-to-peer programs and related spyware from your computer: Call 803-641-3391.
+For assistance updating anti-virus software on your computer: Call 803-641-3391
+7. Where can I download legally?
+A number of services exist where one may legally download music, software, or movies. Typically, these are subscription services, where users pay for the material itself, and possibly pay a subscription fee. The University of South Carolina Aiken is providing links to these services as a reference to its users, but listing a service should not be construed as an endorsement.
+iTunes, from Apple
+Napster
+Sony Connect
+8. Which services should I avoid?
+There are many companies that claim to offer legitimate music downloading services, but are not. Sometimes they charge a subscription fee, or charge for their software. It is sometimes difficult to discern whether a service is legitimate or not, so be careful!

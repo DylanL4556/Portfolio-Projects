@@ -1,0 +1,19 @@
+About the 1098-T Tax Form
+Due to revisions required by the Internal Revenue Service (IRS), the University of South Carolina is changing the reporting method for the Form 1098-T Tuition Statement. The Form 1098-T is the information return that colleges and universities are required to issue for the purpose of determining a student's eligibility for education tax credits.
+Beginning with the 2018 tax year, the IRS is now requiring schools to report the total amount of payments received for qualified tuition and related expenses from all sources during the calendar year in Box 1. Because of this change, the University of South Carolina will report payments received for qualified tuition and related expenses in Box 1 of the form, whereas in previous years, we reported amounts billed for qualified tuition and related expenses in Box 2. Box 2 is no longer an option. IRS guidelines require that student transactions must be reported in the calendar year in which they occur. The calendar year begins January 1st and ends December 31st. If you were a student between January 1 and December 31 of 2019 and the university received payments for qualified tuition and related expenses, you are eligible for a Form 1098-T Tuition Statement.
+Please Note: The Tax Reform Act of 1997 provided taxpayers/students with Hope Scholarship and Lifetime Learning tax credit opportunities. As part of that act, the Form 1098-T Tuition Statement is available to students by January 31 and to the IRS at the end of March every year.
+Form 1098-T will contain the following information if applicable:
+|
+Box 1 |
+The total payments received for qualified tuition and related expenses from all sources during the calendar year. This total is minus any reimbursements or refunds made during the calendar year that relate to those payments received during the same calendar year. |
+|
+Box 4 |
+Adjustments made for a Prior Year. Reimbursements or Refunds of qualified tuition and related expenses made during the calendar year that relate to payments received for qualified tuition and related expenses reported on a 1098-T for a prior tax year. |
+|
+Box 5 |
+Scholarships and grants administered and processed during the calendar year; there may be exceptions. |
+|
+Box 6 |
+Adjustments to Scholarships or Grants for a Prior Year. Reductions in scholarships and grants made during the calendar year that were reported on a 1098-T for a prior tax year. |
+|
+Box 7 |

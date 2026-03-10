@@ -1,0 +1,42 @@
+Accessibility Policy | USCA
+https://www.usca.edu/departments/marketing/website/accessibility-policy/
+Creating content that is accessible means making sure that all users, including those with disabilities, can access and navigate your web content. USCA is required by law to meet minimum accessibility standards, specifically WCAG 2.1 and WCAG 2.2 standards.
+As a content editor, there are several steps you can take to increase the accessibility of your websites:
+Use Plain Language
+- Write as concisely as possible.
+- Replace complex words with familiar ones.
+- Check your spelling and grammar.
+- Minimize the use of jargon, acronyms, and abbreviations. If they are necessary, provide definitions.
+Use Proper Heading Structure
+Organize your content into a structure using headings that convey a meaningful hierarchy.
+Pages should be divided into parts labeled by headings. Organizing your content using headings and subheadings will allow all your users (especially those using assistive technologies like screen readers) to quickly and easily find the specific topics they want on your web page. Headings should be marked using proper HTML so users can easily understand and navigate your website content. Content editors can use the Text Editor in the CMS to add proper heading structure.
+- If it looks like a heading, mark it as a heading (don’t just bold or italicize it).
+- Don’t skip levels (e.g. Don’t use an H3 heading if you haven’t used an H2 heading before it). Note: the page title counts as the H1 heading.
+- Don’t select a heading just because you like the way it looks on the page.
+- Don’t format a complete sentence as a heading just because you want to draw attention to it, as this makes it more difficult for users with disabilities, especially users using screen readers.
+Include Text Alternatives
+When you use images or multimedia to convey meaningful content to your users, it is important to include text alternatives accessible to users using assistive technologies.
+‘Alt’ Description for Images
+Every image should have a short, concise ‘alt’ description; this description is read aloud to visually impaired users by screen readers and should convey its meaning to someone who cannot see it.
+- ‘Alt’ descriptions should be less than 125 characters.
+When you upload images to the Media Library, add an ‘alt’ description in the ‘Description’ field.
+Avoid using images that include a lot of text on them. If the text is too long to put in the ‘alt’ description, consider putting the text directly on the page instead of in an image.
+If you use a text-heavy image on your page, you must provide an accessible alternative.
+- If it’s short, add the text in the image to the ‘alt’ description field.
+- Use an accessible, relevant content type, such as Infographic.
+- Post an accessible PDF version.
+Provide Transcripts or Captions for Video or Audio Content
+Providing a transcript, captions, or subtitles for users who cannot hear or hear well is essential when using video or content. USCA uses Vimeo and YouTube to embed video content into the website.
+- See Vimeo’s instructions for adding captions and subtitles to your Vimeo videos.
+- Vimeo allows you to upload a previously created caption file (such as .srt or .vtt format) to a video.
+- Otherwise, Vimeo will refer you to a paid third-party service.
+- YouTube has several features that make it easier for users to create/edit captions, including transcription, auto sync, and automatic captioning. See YouTube’s instructions for adding your subtitles and closed captions to your YouTube videos.
+Because of the high chance of error, automatic captioning does not meet legal standards. You must review the captions for accuracy and correct any inaccuracies.
+Videos
+- Videos must be hosted externally (e.g. YouTube or Vimeo) and linked to or embedded on our site. They cannot be added directly to the CMS.
+- Video must be high quality, be in focus, and have clear audio.
+- Videos should be in high-definition (1080p) at minimum.
+- Videos must have captions or a transcript to meet accessibility standards.
+- Videos must be original, copyright-free, or licensed for use.
+Copyright
+All website content must comply with the USCA website copyright policy. Text, images, videos, and files that do not meet these requirements must be deleted immediately. In cases where copyrighted material is posted with the permission of the content owner, that permission must be attained in writing and be available for verification if needed.

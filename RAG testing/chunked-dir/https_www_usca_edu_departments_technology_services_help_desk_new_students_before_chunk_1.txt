@@ -1,0 +1,22 @@
+New Student? Here are steps to Complete Before Arriving on Campus
+New and returning USCA students, should complete the steps below before arriving on campus to avoid unexpected problems connecting computers to the campus network.
+If you're unable to complete these steps, the Help Desk is available to provide troubleshooting assistance.
+- Install PacerStudent Wireless Profile
+If you plan to use wireless while on-campus, you will also need to install the PacerStudent Wireless Profile (this is required for both students residing on campus and commuting students).
+Please note that although we are asking you to install the Wireless Profile before arriving on campus, you obviously won't be able to connect to PacerStudent until after you've arrived on campus. It's important that you install the Profile before you arrive so PacerStudent immediately connects when you get to campus.
+Windows: Windows users should be able to connect to the PacerStudent connection when it is detected. Accept all defaults and certificates and your system should connect without issue. If you do run into a problem, we've created an automated installer set-up on Windows.
+- Download the Windows Installer
+Mac: Mac users should be able to simply connect to the PacerStudent connection when it is detected. Accept all defaults and certificates and your system should connect without issue. If you do run into a problem, you'll need to see us for assistance.
+Mobile Devices: Most Android, Windows mobile and iOS devices will connect easily to PacerStudent. Just enter your PacerStudent Username and Password when requested.
+Perform Operating System Updates
+Keeping your OS (Windows or OS X) up-to-date is the most important step in protecting your system and the campus network from virus and malware outbreaks. You should always leave Automatic Updates turned on and complete any critical or important Updates as they become available. SafeConnect will not allow your system full access to PacerStudent until all recommended updates are completed successfully.
+Depending on how well your system has been maintained, an update may take as little as five minutes or several reboot cycles
+For more information on Windows Update see this section at the Microsoft site.
+For information on updating Mac OS X please see this article in the OS X Knowledge Base.
+LINKS FOR THIS STEP
+Windows Updates:
+http://www.microsoft.com/windows/downloads/windowsupdate/default.mspx
+Mac/OS X Updates:
+http://support.apple.com/kb/ht1338
+Make Sure your System is Free of Malware
+Connecting to PacerStudent and the internet may not be possible

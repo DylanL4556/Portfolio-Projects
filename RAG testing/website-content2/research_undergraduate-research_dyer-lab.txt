@@ -1,0 +1,23 @@
+Dyer Lab | USCA
+https://www.usca.edu/research/undergraduate-research/dyer-lab/
+The Dyer Lab
+Ecology and Invasive Plant Species
+Research Questions
+In my lab, we focus on questions related to reproductive abilities of invasive species. The species are either annual grasses, collected from California, but native to the Mediterranean, and yellow nutsedge, Cyperus esculentus. Germination strategies of Aegilops triuncialis (barbed goatgrass) are investigated by examining the population-level variation in germination patterns and the relationship with climatic variables. This species is genetically depauperate in its invaded range. Populations of Bromus, Avena and Hordeum species are being tested for ecotypic variation across a latitudinal and precipitation gradient. These species have been resident in California for 250 years and show a range of genetic variation. C. esculentus produces tubers asexually and we use a single genotype to examine adaptive phenotypic plasticity using soil nutrient patches. We are also in the process of surveying weed seed diversity in commercial potting and top soils, and identifying potentially invasive weeds and glyphosate-resistant weeds.
+Skills
+Students performing undergraduate research in my laboratory would learn some combination of the following skills:
+- Experimental design including replication, randomization, and control.
+- Use of growth chambers and greenhouses for conducting experiments.
+- Techniques for collecting data from in situ and harvested plants.
+Examples of Past Student Projects
+“Adaptive plasticity: The effect of nutrient patches on the placement of reproductive tubers by Cyperus esculentus.”
+“Influence of growing season length on germination suppression in Aegilops triuncialis.”
+“Phenotypic variation in naturalized annual grasses along a rainfall gradient.”
+“The redistribution of non-native plant species in commercial potting soil: the potential for creating new agricultural pests.”
+”Long-term seed viability: the effect of resource management on the production of seeds in a native grass.”
+Relevant Publications
+Rice, K.J., J.D. Gerlach, A.R. Dyer & J.K. McKay. 2013. Evolutionary ecology along invasion fronts of the annual grass Aegilops triuncialis. Biological Invasions 15(11):TBA
+Dyer, A. R., J. Hardison & K. J. Rice. 2012. Phenology constrains response plasticity in cheatgrass (Bromus tectorum L.) Plant Ecology 213:103-112.
+Dyer, A. R., C. Brown, E. Espeland, J. McKay, H. Meimberg & K. J. Rice. 2010. Adaptive trans-generational plasticity as a facilitator of plant invasions. Evolutionary Applications 3:179-192.
+Dyer, A. R. 2007. Phenotypic plasticity may facilitate invasion by Aegilops triuncialis. Aliso 23:289-294.
+Dyer, A. R. 2004. Dormancy-inducing factors in Aegilops triuncialis suggest multiple germination strategies. Plant Ecology 172: 211-218.

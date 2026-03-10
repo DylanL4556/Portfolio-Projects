@@ -1,0 +1,16 @@
+Please see the links below for information on USCA's implemtation of DMCA requirements.
+1. What is the DMCA?
+U.S. Copyright Law protects a wide range of creative works and grants to the owner of the work the exclusive right to make copies of the work, to make new works using part of the original work, distribute copies of the work, and display or perform the work publicly. Works protected by copyright include: written works, movies, music, photographs, art, software, and other original works of authorship.
+A provision in Copyright Law known as the DMCA allows internet service providers to shield themselves from liability for copyright infringement due to infringing activity by users of the service provider's networks. Owners of copyright materials, including record companies, movie studios and software manufacturers, routinely monitor internet traffic and identify IP addresses that are hosting or sharing files that appear to be unauthorized copies of the owners' works. In compliance with the DMCA, the copyright owners notify the service provider and the service provider must expeditiously remove or disable access to the allegedly infringing material. The individual responsible for infringing activity, not the service provider, will be responsible should the copyright owner wish to seek damages for infringing activity.
+Text borrowed from the University of Washington
+www.washington.edu/computing/copyright/
+What does this all mean at USCA? Only the owner of copyrighted material may distribute that material. The DMCA allows the University of South Carolina Aiken, as an Internet Service Provider (ISP), a way to limit its liability of being sued should a user on the University's network distribute copyrighted material illegally. Copyright owners or their representatives regularly scan the University's network to locate instances of copyright infringement; they notify the University of the infringement, and the University must respond by removing access to the infringing material. A computer's owner is responsible for any infringing activity on it.
+Agent to Receive Notification of Claimed Copyright Infringement
+The University of South Carolina Aiken, as an internet service provider, is mandated by the DMCA to designate an "Agent to Receive Notification of Claimed Copyright Infringement". The University's designated agent is:
+James Raby
+University of South Carolina Aiken
+471 University Parkway
+Aiken, South Carolina 29801
+Email: JamesR@usca.edu
+Phone: 803-641-3658
+If you believe that any faculty, staff, or student of the University of South Carolina

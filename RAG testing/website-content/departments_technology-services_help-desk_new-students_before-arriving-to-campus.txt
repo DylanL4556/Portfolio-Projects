@@ -1,0 +1,47 @@
+New Student? Here are steps to Complete Before Arriving on Campus
+New and returning USCA students, should complete the steps below before arriving on campus to avoid unexpected problems connecting computers to the campus network.
+If you're unable to complete these steps, the Help Desk is available to provide troubleshooting assistance.
+- Install PacerStudent Wireless Profile
+If you plan to use wireless while on-campus, you will also need to install the PacerStudent Wireless Profile (this is required for both students residing on campus and commuting students).
+Please note that although we are asking you to install the Wireless Profile before arriving on campus, you obviously won't be able to connect to PacerStudent until after you've arrived on campus. It's important that you install the Profile before you arrive so PacerStudent immediately connects when you get to campus.
+Windows: Windows users should be able to connect to the PacerStudent connection when it is detected. Accept all defaults and certificates and your system should connect without issue. If you do run into a problem, we've created an automated installer set-up on Windows.
+- Download the Windows Installer
+Mac: Mac users should be able to simply connect to the PacerStudent connection when it is detected. Accept all defaults and certificates and your system should connect without issue. If you do run into a problem, you'll need to see us for assistance.
+Mobile Devices: Most Android, Windows mobile and iOS devices will connect easily to PacerStudent. Just enter your PacerStudent Username and Password when requested.
+Perform Operating System Updates
+Keeping your OS (Windows or OS X) up-to-date is the most important step in protecting your system and the campus network from virus and malware outbreaks. You should always leave Automatic Updates turned on and complete any critical or important Updates as they become available. SafeConnect will not allow your system full access to PacerStudent until all recommended updates are completed successfully.
+Depending on how well your system has been maintained, an update may take as little as five minutes or several reboot cycles
+For more information on Windows Update see this section at the Microsoft site.
+For information on updating Mac OS X please see this article in the OS X Knowledge Base.
+LINKS FOR THIS STEP
+Windows Updates:
+http://www.microsoft.com/windows/downloads/windowsupdate/default.mspx
+Mac/OS X Updates:
+http://support.apple.com/kb/ht1338
+Make Sure your System is Free of Malware
+Connecting to PacerStudent and the internet may not be possible if your system is infected with malware (viruses or spyware). These rouge programs often make it difficult or impossible to complete required system updates. Infections can actually disable security software altogether. It's not uncommon for infections to go completely unnoticed until they're detected by our network security software (Impulse SafeConnect)...the main reasons we require all system to connect though it.
+We suggest installing Malware Bytes Anti-Malware (MBAM) on your system to eliminate malware before you arrive. MBAM has great tutorials on its website. After you've run MBAM on your system, you'll likely see just how infected it really was. Infections lucking in the background of a system often number in the hundreds; quite a shock when everything seemed ok.
+- Install or Update Antivirus Software
+Once you've gotten rid of everything you can with MBAM, you'll want to update your anti-virus software.
+If your anti-virus software updates properly and doesn't run into errors, it is probably still in good working order. If so, you'll want to use it to run a full system scan.
+If your anti-virus software won't update or runs into problems, it's likely corrupted by the infections you found earlier. You'll need to replace it. You can either re-install and update your current software, or download a reliable free anti-virus program. We suggest AVAST! Free Home Edition for Windows and Sophos for Mac. Both are also available for mobile devices. Whatever you choose, be sure to update your anti-virus software completely and then run a full system scan.
+- Uninstall File-sharing Software
+Now is also a good time to uninstall file-sharing programs such as uTorrent, Limewire, Bearshare, FrostWire, or similar software. Many of these will be removed by virus and malware scans because they're the most likely source of infection for your system. Please be aware: illegal file sharing is not allowed on PacerStudent. Any student caught illegally sharing files of any kind faces loss of network privileges and possible Judicial charges (as explained in the USC Aiken Student Handbook).
+LINKS FOR THIS STEP
+Malware Bytes Anti-Malware (MBAM):
+http://www.malwarebytes.org/mbam.php
+AVAST! Free Home Edition:
+http://www.avast.com
+Sophos for Mac:
+http://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx
+Check the Minimum System Requirements
+We want everyone's tech to work together, so, all computers and wireless devices connected to PacerStudent must meet a set of minimum requirements.
+Most computers and wireless devices purchased within the last two to three years will easily meet the minimum requirements. Keep in mind though that meeting the minimum requirements will provide only a minimum experience. For best results, your equipment should exceed the minimum wherever possible.
+You'll find the minimum computer and device requirements included under What to Bring to Campus.
+- Make Sure Your Accounts are Ready to Use
+Students have five accounts: VIP ID, Network Username, Multifactor Authentication (MFA), the Pacer Account and @usca.edu email. Don't worry though, you'll usually only a couple of these on a typical day. Even so, it's vital each account is working properly shortly after acceptance.
+If you've previously setup your accounts, major changes may have taken place since you last used an account.
+LINKS FOR THIS STEP
+First Time Account Setup
+Manage Existing Accounts
+Information on Recent Account Changes

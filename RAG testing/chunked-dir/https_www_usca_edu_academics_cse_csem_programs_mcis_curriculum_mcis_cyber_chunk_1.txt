@@ -1,0 +1,22 @@
+MCIS Cyber Security Curriculum
+Students must successfully finish an MCIS-approved program comprising a minimum of 30 graduate credit hours. The Department Chair or Advisor must approve the official program of study. Additionally, students can transfer up to nine graduate credit hours from approved universities, subject to consultation with the MCIS advisor.
+MCIS Core Courses (12 credits):
+- MCIS A610: Advanced Programming Concepts (3 credits)
+- MCIS A613: Advanced Database Management Systems and Programming (3 credits)
+- MCIS A616: Computer Networking (3 credits)
+- MCIS A620: Introduction to Artificial Intelligence and Machine Learning (3 credits)
+MCIS Cyber Security Track Courses (12 credits):
+- MCIS A617: Information & Networking Security (3 credits)
+- MCIS A622: Vulnerability and Risk Assessment (3 credits)
+- MCIS A623: Traceable Systems and Computer Forensics (3 credits)
+- MCIS A624: Wireless and Mobile Security (3 credits)
+MCIS Cyber Security Track Electives (6 credits):
+Choose 6 hours from the following options:
+-
+Two courses from the Information Technology Track Requirements
+OR
+- One course from the Information Technology Track Requirement and MCIS A615: Network Sciences
+Total Hours Required: 30
+Location
+Penland 227
+Contact Us

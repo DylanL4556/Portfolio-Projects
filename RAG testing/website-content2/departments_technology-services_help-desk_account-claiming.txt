@@ -1,0 +1,27 @@
+Account Claiming | USCA
+https://www.usca.edu/departments/technology-services/help-desk/account-claiming/
+Additional information on USC University Services Accounts and USCA Campus Accounts and how to manage each can be found in the FAQs listed below.
+If you need additional assistance, please contact the USCA Help Desk by email at: help@usca.edu, by campus phone at: 4357 or by non-campus phone at: 803-641-3391. You can also stop by the Help Desk for assistance at any time.
+New Accounts/Account Claiming
+Account Claiming - Student Applicants
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011142
+Account Claiming – Admitted Student
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011173
+Account Claiming – New Hires
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011175
+Existing Accounts/Account Management
+Account Management Menu
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011208
+Account Management for Applicants
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011143
+Account Management for Employees & Admitted Students
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011144
+Forgot Password
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011176
+Forgot ID’s
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011172
+Account Reclaiming:
+https://scprod.service-now.com/kb_view.do?sysparm_article=KB0011145
+Additional Info on Specific Accounts
+DUO Multifactor Authentication (MFA):
+https://www.usca.edu/help-desk/mfa/

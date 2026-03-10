@@ -1,0 +1,5 @@
+ image quality and file size. Large image files increase the load time for the page. The goal is to have the highest quality images with the smallest file size.
+The images on your website must be less than 1 MB in size. Therefore, optimizing your images for the web is an essential step. Here are some resources to help:
+- Optimizing Images for Web: A Practical Guide: This blog post written by Richard Lazazzera, A Better Lemonade Stand, July 18, 2016 — This step-by-step tutorial on how to optimize your JPEGs, PNGs, and GIFs in Adobe Photoshop (though this blog can still be helpful when using other photo editing software).
+Free Online Image Optimizers
+Some possible free alternatives for image optimization include:

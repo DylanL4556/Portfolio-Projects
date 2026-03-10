@@ -1,0 +1,19 @@
+ all learners, including those with undiagnosed disabilities and ESL learners struggling to keep up with their coursework. We encourage all instructors to evaluate their course content and take the first steps to improve accessibility with the help of Microsoft’s Accessibility Checker. If you need additional resources or support or would like to schedule a consultation with an expert, please contact The Office of Distance Learning.
+Accessibility Support USC Aiken
+The Office of Distance Learning is committed to supporting online learning, and once the icons appear in Blackboard we can start to help. We are planning tier 1 and tier 2 support for every school and college at the university. Tier 1 support is dependent on you utilizing resources provided by Blackboard and USC Aiken to help you understand accessibility issues and learn how to resolve those issues. Tier 2 support is for faculty who need additional help via workshops or scheduling individual consults with an instructional designer. Our goal is to be proactive in addressing accessibility and work with departments to improve the accessibility of our online presence.
+Tier 1
+Addressing accessibility in common files like documents, slides, and images is not difficult to achieve. Some documents can be revised in only a few minutes. Common issues have to do with formatting headers, tables, slide titles, and the use of tables. Please review the information regarding Ally and associated resources that guide users on locating and addressing accessibility issues.
+Tutorials and Resources
+-
+Ally video from the faculty view. Please remember that only you see the accessibility scores and not your students.
+Microsoft Office365 applications have an accessibility feature, which can be used to check and improve the accessibility of files before sharing or uploading them to Blackboard. Tips on using this feature may be found here: Microsoft Office365 Accessibility Checker. Alternatively, if you create content using Google Drive you may want to consider using the add-on tool Grackle.
+Tier 2
+The Office of Distance Learning supports all faculty and staff in meeting accessibility standards. Please utilize the Tier 1 resources or the following support services. If you or your department would like to assist in meeting the university's accessibility goals, please contact Distance Learning.
+Workshops and Consults
+-
+instructional designers at the Office of Distance Learning
+-
+workshops sponsored by The Center for Teaching Excellence
+-
+Disability Services (On Campus Courses)
+- IT Accessibility Laws and Policies. Visit Section508.gov, maintained by the U.S. General Services Administration. The GSA also has several tools and guides to help you understand compliance to

@@ -1,0 +1,31 @@
+The Mills Lab – Fly lab
+Egg Development in Understudied Insect Vectors
+Research in this lab focuses on characterizing egg development in two understudied livestock pests: Stomoxys calcitrans (stable flies) and Culicoides sonorensis (midges). These blood-feeding insects serve as vectors for pathogens that affect livestock, leading to infestations and significant economic losses in associated industries. Since blood-feeding is essential for egg production, understanding the timing and molecular mechanisms behind egg development is crucial. This knowledge can help identify potential targets for innovative control strategies
+Current Research Topics
+1. Determining temporal gene expression dynamics across egg development
+- Molecular biology
+2. Characterizing non-coding RNA populations within stable flies and midges
+- Next generation sequencing
+- Computational analyses
+3. Determining non-coding and coding RNA gene expression dynamics across egg development
+- Next generation sequencing
+- Computational analyses
+- Molecular Biology
+4. Monitoring follicular development
+- Histology
+About The Professor
+Dr. Mary Katherine (MK) Mills
+B.A. Biology from Georgia Southern University 2012
+Ph.D. Biology from Kansas State University 2017
+marymi@usca.edu
+Background: Entomology, Vector-Pathogen Interactions, Microbiology, Molecular Biology, Bioinformatics, Histology
+Courses Taught
+• Biological Sciences (BIOL A121)
+• Medical Entomology (BIOL A312)
+• Fundamentals of Microbiology (BIOL A330)
+• Biology Seminar (BIOL A400)
+• Senior Seminar (BIOL A499)
+Publications:
+• Mills, M., Rozo-Lopez, P., Bryant, B., & Drolet, B. 2023. microRNA expression dynamics in Culicoides sonorensis biting midges following blood-feeding. Insects. 14(7), 611. PMID: 37504617.
+• Bryant. B., Yang, A., Griffin, S., Zhang, W., Long, X., Rafiq, A.M, Han, W., Deak, F., Mills, M., Long, W., & Miano, J. 2022. CRISPR-Cas9 Long-Read Sequencing for Mapping Transgenes in the Mouse Genome. CRISPR J. 6(2): 163-175. PMID: 37071672
+• Bryant, B.,

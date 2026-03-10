@@ -1,0 +1,21 @@
+ log into email?
+Newly Admitted or Transferring Student?
+Has it been at least 72-hours since you were accepted? If not, you should check back again in a day or two.
+Transfer and "Change of Campus" Students may also run into issues if they were not properly released from their previous campus before being accepted by the USCA Office of Admissions. Even if you only took college credit courses in high school, the system may still treat you as a "change of campus" student. Please call your old Admissions Office to ensure you were properly released. Then contact the USCA Office of Admissions at 803-641-3366. Explain the issue you're having to them and let them know the Help Desk has asked you to check that you are properly accepted after a transfer. Once this is completed, please try the steps above again.
+Still can't get in?
+If you are still unable to log into email after completing all of the steps above, please contact the Help Desk with any issues you've found during troubleshooting.
+Having this information will allow us to quickly assist you in resolving the issue. We may be able to help you directly ourselves, or we may get this information from you to work with our counterparts in Columbia to resolve the issue.
+Where do I log into my student email account?
+To log into your email account, simply click the Email link at the bottom of the USCA website, or go to: https://portal.microsoftonline.com
+- For username, enter your USCA email address (joesomebody@usca.edu).
+- For your password, enter the same password as the one you use to sign into campus computers and wi-fi.
+- You may be presented with a screen full of options such as Mail, Work Online, Excel Online, OneDrive, etc. Click the Mail icon.
+- During your first sign-in, you'll be asked to set your Time Zone. Eastern Time is the 16th from the top of the list.
+You'll then be taken directly to your Inbox and can begin using email.
+How do I access student email from my phone?
+Connecting a mobile device to your USCA Email account is fairly simple. We've included basic instructions below. If you run into any issues, please bring your device to the Help Desk. We're happy to walk through the setup process with you.
+Setup an iOS device
+- Go to Settings
+- Add Account
+- Tap Exchange
+- Add a new

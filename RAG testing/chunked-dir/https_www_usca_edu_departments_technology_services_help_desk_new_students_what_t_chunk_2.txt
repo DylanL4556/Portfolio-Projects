@@ -1,0 +1,37 @@
+ refer to the educational pricing and programs section of their respective website. In many cases the only requirement to receive these discounts is access to your USC Aiken email address.
+What are the recommended specifications for a USB flash drive?
+|
+Minimum |
+Suggested |
+|
+|
+Storage Size |
+4 GB |
+at least 16 GB |
+|
+Speed |
+USB 2.0 |
+USB 3.x |
+What are the recommended specifications for my laptop or computer?
+Planning to purchase a new computer? Be sure to check below for the recommended minimum specifications for a new computer.
+Already have a computer and just need to see if it will work on campus? Generally, any computer purchased in the last four years and running a minimum operating system of Windows 7 for PCs or OS X 10.8 Mountain Lion for Macs, is eligible to connect to the campus network.
+We recommend either Windows 10 or Mac OS X 10.11.x El Capitan or macOS 10.12.x Sierra. However, we do also provide limited support for Windows 7 (support ending soon), 8.1 and Mac OS X 10.9.x Mavericks (and newer). Although other operating systems (such as Linux) may work with the campus network, they are not directly supported by Computer Services or the Computer Services Help Desk.
+You are welcome to attempt using your system on campus if it does not meet these specifications, but we will be unable to assist you with troubleshooting or configuration.
+Suggested Specifications for New Computer Purchase
+The following are the recommended minimum specifications if you're purchasing a new computer:
+Macintosh
+- 3.0 GHz Intel Core i3 Processor
+- 8 GB RAM
+- 250 GB Hard Drive (SSD at least 256GB in size recommended)
+- macOS (Sierra)
+- Gigabit Ethernet (Standard on all new models, except MacBook Air and MacBook Pro with Retina Display)
+- 802.11ac 5GHz on laptops (5GHz is highly recommended for wi-fi in Residence Halls)
+- AppleCare Protection Plan
+- Bag to protect laptop, if applicable
+Windows
+- 3.0 GHz Intel Core i3 Processor
+- 8 GB RAM
+- 250 GB Hard Drive (SSD at least 256GB in size recommended)
+- Windows 10
+- Gigabit Ethernet (Standard on most models)
+- 802.11ac 5GHz on laptops (5GHz is highly recommended for wi-fi in Residence

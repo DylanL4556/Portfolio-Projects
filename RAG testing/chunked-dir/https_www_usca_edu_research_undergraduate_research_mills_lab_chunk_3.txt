@@ -1,0 +1,6 @@
+.C., and Michel, K. 2019. Small RNA-Seq Analysis Reveals miRNA Expression Dynamics Across Tissues in the Malaria Vector, Anopheles gambiae. G3. 9(5), 1507-1517. PMID: 30846481
+• 2017 Mills, M.K., Ruder, M., Nayduch, D., Michel, K., and Drolet, B. 2017 Characterizing the infection timecourse of epizootic hemorrhagic disease virus serotype 2 within the vector, Culicoides sonorensis (Diptera: Ceratopogonidae). PLoS One, 11(12), e0188865. PMID: 29176848
+• Mills, M.K., Michel, K., Pfannenstiel, R., Ruder M., Veronsei, E., and Nayduch, D. 2017 Culicoides-virus interactions: infection barriers and possible factors underlying vector competence. Current Opinion in Insect Science, 22, 7-15. PMID: 28805641
+• Mills, M.K., Nayduch, D., McVey, S., & Michel, K. 2016. Functional validation of apoptosis genes IAP1 and DRONC in midgut tissue of the biting midge Culicoides sonorensis by RNAi. J Med Ent, 54(3), 559-567. PMID: 28399198
+• Mills, M. K., Nayduch, D., & Michel, K. 2015. Inducing RNA interference in the arbovirus vector, Culicoides sonorensis. Insect molecular biology, 24(1), 105-114. PMID: 25293805
+• Joyner, C.J., Mills, M.K., & Dana Nayduch. 2013. The fate and survivability of Pseudomonas aeruginosa infection and the effect on antimicrobial peptide (AMP) and lysozyme expression in the common housefly (Musca domestica L.) PloS One. e79224. PMID: 24260174

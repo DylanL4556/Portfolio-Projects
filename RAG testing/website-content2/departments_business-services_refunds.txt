@@ -1,0 +1,16 @@
+Refunds | USCA
+https://www.usca.edu/departments/business-services/refunds/
+Receiving Your Refund
+Direct deposit to your bank account is the most convenient way to receive your student account refunds. Set up direct deposit through Self Service Carolina in the account information tab. Otherwise, a paper check will be issued. If the student’s address is incorrect, you may make the change on SSC.
+The National Automated Clearing House Association (NACHA) has issued a rule requiring that all ACH web debits be validated before they are used to make a payment or receive a refund. To ensure that the University of South follows the new rule, effective March 19, 2021, we are using prenoting to validate accounts. During the prenoting process, we will send a zero-dollar transaction file to the bank to validate whether your account is active.
+The validation process can take 3-5 business days. You cannot make payments or receive a refund using your checking account until it has been validated. The prenote process will notify you if your payment method cannot be validated. Follow the instructions below to sign up 5 -7 days before you expect a refund.
+Setting Up a Refund Account in SSC:
+- Sign in on SSC
+- Click on “Account Information”
+- Click on “Sign up for Direct Deposit”
+- Click on “eRefunds”
+- Click on “Set up account”
+Select the account type, checking, or savings. Personal accounts only. No corporate accounts, i.e., credit cards, home equity, traveler’s checks, etc. Do not enter a debit card number. Enter the complete routing number and bank account number. Then, confirm the account number.
+Name on Account
+Billing Address, City, State/Province
+Save Payment Method

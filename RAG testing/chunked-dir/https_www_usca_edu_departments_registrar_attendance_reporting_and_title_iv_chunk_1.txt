@@ -1,0 +1,19 @@
+Title IV is a term that refers to federal financial aid funds which are from federal student aid programs administered by the U.S. Department of Education.
+Federal regulations state that any federal funds disbursed to a student's account in excess of allowable charges must be delivered to the student (or parent in case of an
+undergraduate PLUS loan).
+Title IV funds include federal financial aid funds such as:
+- Direct Subsidized/Unsubsidized LoanDirect Graduate PLUS Loan
+- Direct PLUS Loan
+- Federal Pell Grant
+- Federal Supplemental Educational Opportunity Grant (SEOG)
+- Federal Perkins Loan.
+It does not include scholarships from the university or other private organizations.
+Federal regulations require the university to record the date of last attendance in classes for all students who failed all of their classes in a given semester and received Title IV funding. Only the students who were awarded Title IV financial aid are involved in this request, and the Office of the Registrar will identify these students for you.
+What Professors Need to Do...
+Professors should enter the grade of “FN” for students who stop attending class or for those students who never attended the class. This will make the reporting process much easier and professors will not have to be notified at the end of each semester to submit the date/s of last attendance. Failure to submit the Title IV information in a timely manner could cause accreditation issues for the University.
+Entering the Grade of “FN”
+- Log into SSC
+- Click on the Office of the Registrar home page
+- Hover over the “For Faculty” Tab
+- Click on Grading Instructions for Faculty
+If the student never attended or stopped attending before the final exam, you must assign the non-attendance grade of ‘FN’ or (‘UN’ if the course is pass/fail or thesis). Enter the first day of class if the student never attended or the last day the student attended your class in the Last Attended Date field. This information is required by law for students receiving certain types of financial aid. Using the FN and the never attended or stopped attending, and a date will give our office the information needed for this required report.

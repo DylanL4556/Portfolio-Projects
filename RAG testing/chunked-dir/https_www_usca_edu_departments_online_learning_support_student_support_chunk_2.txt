@@ -1,0 +1,17 @@
+ student at USCA, you should have access to a computer that meets the university’s minimum hardware specifications. The Office of Distance Learning recommends that online students have access to a webcam, either built-in or external, and purchase a headset with a noise-cancelling microphone for effective communication.
+You should have or will acquire the following technology skills throughout this course:
+Downloading and installing software applications.
+Using Microsoft Office (or similar alternative software) to draft and save in multiple file formats.
+Copying and pasting between documents and Blackboard. To select all, press and hold Ctrl (the control key) on the keyboard and then press the A on the keyboard. To copy, press and hold Ctrl, then press the C on the keyboard. To paste, press and hold down Ctrl and then press V.
+Communicate effectively using a webcam and microphone in synchronous interactions or create and upload multimedia content via video or social media platforms.
+Using Blackboard to upload files, post to discussion boards, complete tests, participate in wikis and post blog entries (where applicable).
+Using a USCA-supported video conferencing tool such as Blackboard Collaborate, Yuja, or Adobe Connect to participate in video conferencing sessions, view recordings, or create recordings (if applicable).
+Using USCA email accounts to communicate with your instructors.
+University Supported Software
+You should have access to and proficiency with the software and hardware discussed below.
+Mandatory accessories include a built-in or external webcam and noise-canceling headphones with a microphone (external, not one built into your computer).
+Internet Browsers
+Firefox - Blackboard usually prefers this browser. Download Firefox.
+Chrome - This is a backup browser for Blackboard. If you cannot access something in Firefox, try Chrome or Safari before contacting your professor or USC Aiken’s Help Desk. (Note: Internet Explorer is not a recommended browser due to security risks and incompatibility with Blackboard.) Download Chrome.
+Safari - This is a backup browser for Blackboard. If you cannot access something in Firefox, try Chrome or Safari before contacting your professor or the USCA Help Desk. Download Safari.
+Respondus LockDown Browser - The assessments in this course may require using the Respondus LockDown Browser (review any special instructions with course examinations). Respondus LockDown Browser creates a "locked" testing environment that prevents you from viewing other web pages, accessing other applications, and printing or copying the assessments. You must download and install LockDown Browser before you take any exams. The Respondus

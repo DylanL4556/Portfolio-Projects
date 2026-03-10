@@ -1,0 +1,197 @@
+As a student at USCA, you will encounter many different computers, systems, software packages and websites; each of these may have their own username and password. Keeping up with the correct account information for each can be very confusing.
+To make things as easy as possible, USCA has worked hard to ensure that all resources provided directly from the USCA campus use your standard USCA Network (PacerNet) Username and Password. These include: all campus computers, eMail, VPN access, shared folders and network resources.
+A few other systems which most students use, are actually located on the main USC campus in Columbia. These do not use your PacerNet account information. Access for VIP and Blackboard, the two main USC systems, are explained in their relevant links on the menu to the left.
+Other accounts you may encounter include MyITLab, MathLab, etc. Please see your instructor for specific access information where needed.
+If you have questions about any of your accounts, the first place to look for information is the actually login page for those accounts. Most will have helpful links and information, including the option to reset password automatically.
+I need assistance with setting up or accessing an account. Who do I contact?
+If you run into problems getting any of your accounts setup, need a password reset, or have another question regarding a particular system, please use the contact information below. Always remember to identify yourself as a USCA student if call the USC Columbia Service Desk for assistance.
+Setup Issues
+USC Network Username, SSC, VIP ID, USC ID, MFA and Blackboard
+USCA Help Desk
+803-641-3391 (non-campus phones) or 4357 HELP (campus phones)
+help@usca.edu
+Pacer Account, Office 365 and @usca.edu Email
+USCA Help Desk
+803-641-3391 (non-campus phones) or 4357 HELP (campus phones)
+help@usca.edu
+Campus Network (Wired/Wi-Fi) and Computers
+USCA Help Desk
+803-641-3391 (non-campus phones) or 4357 HELP (campus phones)
+help@usca.edu
+Access Issues
+USC Network Username, SSC, VIP ID, USC ID, MFA and Blackboard
+USC Columbia Service Desk
+803-777-1800
+servicedesk@sc.edu
+PeopleAdmin (Student Workers Only)
+USC Columbia Service Desk
+803-777-1800
+servicedesk@sc.edu
+Pacer Account, Office 365 and @usca.edu Email
+USCA Help Desk
+803-641-3391 (non-campus phones) or 4357 HELP (campus phones)
+help@usca.edu
+Campus Network (Wired/Wi-Fi) and Computers
+USCA Help Desk
+803-641-3391 (non-campus phones) or 4357 HELP (campus phones)
+help@usca.edu
+Math Placement
+USCA Help Desk
+803-641-3391
+mathmpt@usca.edu
+Usage Issues
+Office 365 and @usca.edu
+USCA Help Desk
+803-641-3391 (non-campus phones) or 4357 HELP (campus phones)
+help@usca.edu
+Registration Issues
+Orientation Registration Issues
+USCA Orientation Office
+803-643-5800
+orientation@usca.edu
+All Other Questions, Concerns or Issues
+USCA Help Desk
+803-641-3391 (non-campus phones) or 4357 HELP (campus phones)
+help@usca.edu
+Pacer Account
+The account students, faculty, staff and affiliates use to access local USCA campus resources, like: the USCA campus network, @usca.edu email, campus computers, Wi-Fi, VPN, shared drives and folders, printing, and all usca.edu websites, are all now known as the Pacer Account.
+How do I connect to the internet or wi-fi on campus?
+For instructions on how to connect to the internet on campus, please visit the Pacer Account (Internet) topic.
+I'm a new or transfer student. How do I set up my Pacer Account?
+To complete setup of your Pacer Account, please see the instructions on the New Students page, under Setup Accounts and Passwords.
+How do I reset the password for a Pacer Account (USCA campus)?
+USCA campus accounts are created by your USCA Computer Services Division (CSD)/Help Desk team and include:
+Pacer Account
+@usca.edu Email Account
+Manage your Pacer Account
+All USCA campus accounts are accessed using the Pacer Account (formerly known as the USCA Network Account or PacerStudent Account).
+To change the password for your Pacer Account, use the appropriate information listed below and go to: http://reset.usca.edu
+- User name: Enter your Pacer Account username. (This is the portion of your email address before the @ symbol. Example: The username for somebody@usca.edu is somebody.)
+- Current password: Enter your current password. (If you don't know your current password you'll need to contact the Help Desk for assistance.)
+- New password: Enter a new password. (Your new password must contain at least 8-characters and follow all other password requirements listed on the reset page.)
+- Confirm new password: Reenter your new password.
+If you have forgotten your password or your password is no longer being accepted, you'll need to contact the Help Desk for assistance.
+- Email or call the Help Desk for assistance: We'll set your password back to the default so you can set it back up. (Go to How do I set a new password for my Pacer Account? and complete Step 1 to set your password.)
+- Stop by the Help Desk for assistance: We'll reset your account and allow you to set a password yourself immediately. (You must bring your current USCA ID Card with your for account assistance at the Help Desk.)
+SSC/VIP
+Self-Service Aiken is used for administrative tasks such as registration, financial aid, housing, and grades. Self Service Aiken is also where you setup your USC Network Account which is used to log into Blackboard for online courses and off campus access to Library journals.
+I've received an error saying that my VIP ID has not yet been claimed.
+If you receive an error stating that your VIP ID hasn't yet been claimed, try re-claiming your VIP ID by completing the form at: https://my.sc.edu/vipid/claim/process?execution=e4s1
+I don't know my VIP ID.
+If you don't know your VIP ID to sign into SSC, you must contact USCA Records at 803-641-3550 for assistance.
+Where do I log into Self Service Aiken?
+You can access Self Service Aiken here: https://usca.edu/selfservice
+How do I set up SSC/VIP for the first time?
+To setup Self Service Aiken for the first time, please follow the instructions found at this page: https://my.sc.edu/vipid
+How do I reset the password for VIP ID / SSC?
+Accounts used to access USC university services are assigned by USC Columbia University Technology Services (UTS) and include:
+- VIP ID
+- Network Username (also sometimes referred to as your Enterprise ID or Blackboard ID)
+- Multifactor Authentication (MFA)
+Manage your USC University Services Accounts
+To setup or manage your USC University Services Accounts, go here: https://myaccount.sc.edu
+Multi-Factor Authentication
+Multifactor Authentication (MFA) is now required on some systems!
+Many systems based on the Columbia campus, such as my.sc.edu, Self-Service Carolina (SSC) and others began requiring MFA for access.
+If you haven't already setup MFA for your accounts, you'll find information and instructions below. Columbia has also created a setup FAQ specifically for students.
+How do I set up Multi-Factor Authentication for Columbia systems?
+Most systems managed by the USC-Columbia campus are protected by Multi-factor Authentication (MFA) using the DUO Security system.
+The primary system protected by MFA is Self-Service Carolina (SSC). SSC is used for many of your basic administrative needs as a student: class registration, housing, financial aid, etc. You will need to complete MFA setup to have access to these areas.
+See Instructions for Setting Up MFA
+Blackboard
+Blackboard is where all online courses take place.
+You log into Blackboard using your USC Network Username and Password.
+Is there a mobile app that I can use to access Blackboard?
+The previous Blackboard app does not work with USC-Columbia's Multifactor Authentication system. However, the new BB Student app will. This new app can be downloaded from your App Store, and is for free.
+Here's how to install the new app:
+- Delete the old Blackboard app from your device if it was installed
+- Download the BB Student app from the App Store for your phone or device
+- Open the app after installation completes
+- Search for the University of South Carolina - this will reset the link to our system
+- If you click on an old link, it may take you to an older version and not work
+- If you see University of South Carolina already in your selection, click on it and then erase it.
+- Then search for the University of South Carolina link again.
+- Follow the prompts to log into the Blackboard system using your network username and password
+- You should now be able to use the new BB Student app
+For more information on the Blackboard Student app, please see the Bb Student app help page.
+How do I update my email address in Blackboard?
+Blackboard uses the email address set as your Preferred University Email Address. This should always be set to your official USCA email address which ends with @usca.edu. Please confirm this is set correctly to ensure you receive all messages sent to you by your professors and classmates in Blackboard and other university systems.
+To check the email address listed in Blackboard...
+- Go to: https://blackboard.usca.edu/
+- Click "Login"
+- Sign-in with your VIP or USC Network Username and Password
+- Click the profile link in the menu on the left side of the screen (second option)
+- Check the address listed for Email Address in the Basic Information section
+- If the address listed is not your @usca.edu email address, please correct your Preferred Email address at myaccount.sc.edu (instructions are included below)
+To change your Preferred Email Address...
+- Go to: http://myaccount.sc.edu
+- Click "Updated Account Settings"
+- Sign-in with your VIP or USC Network Username and Password
+- Answer the security question if prompted
+- Click "Email Preferences"
+- Select the @usca.edu address from the "Preferred University Email Address" (as shown below)
+- Click Submit
+If you do not have an @usca.edu address available to you as an option in the "Preferred University Email Address" drop down, please notify the Help Desk immediately. We will need to open a ticket with the Blackboard Support team to have this corrected.
+Where can I access Blackboard?
+Blackboard can be accessed at: https://blackboard.usca.edu or by clicking the link at the bottom of any USCA webpage, under "Quick Links".
+How do I reset my password for Blackboard?
+You log into Blackboard using your USC Network Username and Password.
+To reset this username and password:
+- Go to https://myaccount.sc.edu
+- Click Forgot Password
+- Enter your VIP ID
+- Answer the security question
+- Check your personal email address for an email with further instructions for resetting the password.
+- Once you've set that password, you should be able to log into Blackboard within 5-minutes.
+- Be sure to remember your USC Network Username and Password since it may be different than your USCA Network/PacerStudent account.
+Student Email
+Email is part of your Office 365 account.
+Remember, your USCA email address will be your USCA Username (Students call this PacerStudent username) plus @usca.edu. For example, joesomebody@usca.edu.
+I'm unable to log into my email/Office 365 account.
+While most account holders are able to log in for the first time without issue, some do run occasionally into a problem. If you have any issues with your first login, please take the following troubleshooting steps. These are the same steps we will walk you through if you call the Help Desk for assistance. If you're still unable to login, give us a call or stop by, and let us know what you found while completing these steps.
+Basic email troubleshooting
+- To access email, you should go to: https://www.office.com or just click the Email link at the bottom of the USCA homepage.
+- You will use information from your Pacer Account to log into email.
+- Use your full email address (your Pacer username followed by @usca.edu) as your username when logging in. For example, username@usca.edu
+- Use your Pacer Account password when logging in. This is the same password you'd use to log into a campus computer or campus Wi-Fi.
+- Wait at least 5-minutes (10-minutes is better) after resetting your password to log into email.
+- It's best to choose a password beginning with a letter. Some passwords beginning with a number will not work across all systems.
+- Can you log into campus Wi-Fi or a campus computer with the same password you're using to try to log into email?
+Newly Admitted or Transferring Student?
+Has it been at least 72-hours since you were accepted? If not, you should check back again in a day or two.
+Transfer and "Change of Campus" Students may also run into issues if they were not properly released from their previous campus before being accepted by the USCA Office of Admissions. Even if you only took college credit courses in high school, the system may still treat you as a "change of campus" student. Please call your old Admissions Office to ensure you were properly released. Then contact the USCA Office of Admissions at 803-641-3366. Explain the issue you're having to them and let them know the Help Desk has asked you to check that you are properly accepted after a transfer. Once this is completed, please try the steps above again.
+Still can't get in?
+If you are still unable to log into email after completing all of the steps above, please contact the Help Desk with any issues you've found during troubleshooting.
+Having this information will allow us to quickly assist you in resolving the issue. We may be able to help you directly ourselves, or we may get this information from you to work with our counterparts in Columbia to resolve the issue.
+Where do I log into my student email account?
+To log into your email account, simply click the Email link at the bottom of the USCA website, or go to: https://portal.microsoftonline.com
+- For username, enter your USCA email address (joesomebody@usca.edu).
+- For your password, enter the same password as the one you use to sign into campus computers and wi-fi.
+- You may be presented with a screen full of options such as Mail, Work Online, Excel Online, OneDrive, etc. Click the Mail icon.
+- During your first sign-in, you'll be asked to set your Time Zone. Eastern Time is the 16th from the top of the list.
+You'll then be taken directly to your Inbox and can begin using email.
+How do I access student email from my phone?
+Connecting a mobile device to your USCA Email account is fairly simple. We've included basic instructions below. If you run into any issues, please bring your device to the Help Desk. We're happy to walk through the setup process with you.
+Setup an iOS device
+- Go to Settings
+- Add Account
+- Tap Exchange
+- Add a new Exchange Account or Corporate Account
+- Enter your full email address and password
+- Connect
+- Choose which options you would like to sync: Mail, Calendar, Contacts, etc.
+Setup an Android device
+- Open the Mail app on phone
+- Add a new Exchange Account or Corporate Email Account
+- Enter your full email address and password
+- Click Next
+- Select the Sync Options and Update Schedule
+- Click Next
+Setup for Windows Phone
+- On Start, flick left to the App list, tap Settings, and then tap Email & accounts
+- Tap Add an account, and then tap Office 365
+- Enter your full USCA Email address
+- Tap the Password box, and then enter your email password
+- Tap Sign in
+Help for Issues
+If you run into any issues setting up your device, you may want to check Microsoft's help site for instructions specific to your device. You'll find those on the Office Web App Help page.

@@ -1,0 +1,23 @@
+ to the Media Library.
+Accessible Microsoft Office Documents
+- Microsoft’s Rules for the Accessibility Checker
+- Microsoft’s Make your Word documents accessible to people with disabilities
+- Microsoft’s Make your PowerPoint presentations accessible to people with disabilities
+- Microsoft’s Make our Excel documents accessible to people with disabilities
+Accessible Adobe PDFs
+- WebAIM’s PDF Accessibility
+- Adobe’s instructions on creating and verifying PDF accessibility
+- Microsoft’s Create accessible PDFs from a Microsoft Office document
+Use Links Appropriately
+Firstly, you should ensure links to other pages or websites are working. Next, link text should make sense out of context and give users an idea of where they will go when they click the link. Link text like ‘click here’ is uninformative and especially unhelpful for users using assistive devices). The link text should be short; try not to use the entire URL for the link text.
+Links should be the only underlined text on a page. If you use an image as a link, the image’s ‘alt’ description should contain where it will take users by clicking.
+Use Tables Appropriately
+Website tables should be used to present tabular data only and not to control the layout of your page. If you need to present tabular data, then tables need to be appropriately formatted in the HTML so that users can successfully navigate and derive meaning from the tables on your website.
+Mindful Use of Color and Contrast
+Users with color blindness or difficulty perceiving contrast may have trouble distinguishing between different colors. Therefore, it is essential to be mindful of your website’s use of color and contrast. Don’t rely on color alone to convey meaning, direct navigation, or differentiate between items. Ensure you have sufficient contrast between the color of the text and the color of the background. If unsure whether you have sufficient contrast to meet accessibility standards, use a third-party resource such as the WebAIM Color Contrast Checker.
+Other Recommendations for Accessibility
+- Type text in sentence case. Do not type your content in all caps unless it’s a short acronym, as some screen readers will read the letters individually.
+- Avoid flashing, flickering, blinking, or otherwise animated images. These can sometimes trigger seizures in some users.
+- Ensure your carousel allows users enough time to read the text on each slide.
+- If you’re embedding a form or widget from a third-party site, it must be accessible or provide an accessible alternative.
+- You are responsible for ensuring that any code on your website,

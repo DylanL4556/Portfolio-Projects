@@ -1,0 +1,20 @@
+able Switches, Computers & Security, 2024.
+- Effective DGA Family Classification Using a Hybrid Shallow and Deep Packet Inspection Technique on P4 Programmable Switches, IEEE ICC, 2023.
+- Domain Name Security Inspection at Line Rate: TLS SNI Extraction in the Data Plane Using P4 and DPDK, IEEE ICC, 2025.
+- Leveraging SONiC Functionalities in Disaggregated Network Switches, International Conference on Telecommunications and Signal Processing, 2020.
+- Security Applications in P4: Implementation and Lessons Learned, Computer Networks, 2025.
+- Enabling Line-rate TLS SNI Inspection in P4 Programmable Data Planes, IEEE NOMS, 2025.
+- A Survey on Security Applications with SmartNICs: Taxonomy, Implementations, Challenges, and Future Trends, Journal of Network and Computer Applications, 2025.
+- Enhancing Visibility on a Science DMZ with P4-perfSONAR, Journal of Network and Computer Applications, 2025.
+- Real-time Flow Statistics Collection Using RDMA and P4 Programmable Data Planes, IEEE ICC, 2025.
+- perfSONAR: Enhancing Data Collection Through Adaptive Sampling, IEEE NOMS, 2024.
+- Toward Fingerprinting Encrypted C2 Traffic in the Data Plane, IEEE GLOBECOM, 2025.
+- Optimizing Network Resilience Using Domain-Specific Hardware Accelerator for Dynamic Programming, SC’25 Workshops of the International Conference for High Performance Computing, 2025.
+- Evaluating Encryption Overhead and Offload Techniques in High-Speed Data Transfers, IEEE International Black Sea Conference on Communications and Networking, 2025.
+- Offloading Encrypted C2 Traffic Mitigation to SmartNICs, IEEE International Black Sea Conference on Communications and Networking, 2025.
+- Enhancing the Security in High-Speed Networks Using P4 Programmable Switches, University of South Carolina, 2024.
+- Design and Deployment of a Testbed for SmartNIC and Programmable Data Plane Experimentation, SmartNIC/Programmable Data Plane Testbed Workshop
+A Testbed to Evaluate Next-Generation Security Solutions in Cyber-Physical Systems Using Hardware Acceleration, Cyber-Physical Systems Security Workshop
+Publications
+- Assessing the Cybersecurity Vulnerabilities of SCADA-based Smart Agriculture, IEEE ICMI, 2026.
+- AI-Driven Cybersecurity in Intelligent Transportation Systems: A

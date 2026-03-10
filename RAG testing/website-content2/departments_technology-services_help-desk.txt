@@ -1,0 +1,20 @@
+Help Desk | USCA
+https://www.usca.edu/departments/technology-services/help-desk/
+Welcome to the Technology Services Help Desk, your one-stop destination for technical support!
+Our dedicated team is committed to providing unparalleled assistance to students, faculty, and staff, ensuring a seamless and enriching experience with our digital resources. Whether you’re encountering a software snag, needing hardware guidance, or seeking general IT advice, we’re here to lend a helping hand. Appointments are available all year, including throughout the summer! Instead of waiting until classes start, stop by any time for assistance! To ensure someone will be here to help you quickly, be sure to call or email for an appointment.
+At the Help Desk, our mission is simple: to empower our university community by delivering reliable, efficient, and personalized support. Let us be your trusted partners on your technological journey because excellence begins with assistance at USCA.
+Student Help Desk
+Where: Gregg-Graniteville Library, First Floor
+Hours: Monday-Thursday 8 a.m. to 5 p.m.
+Friday 8:00 a.m. to 12:30 p.m.
+Faculty/Staff Help Desk
+Where: B&E, Suite 100
+Hours: Monday-Thursday 8 a.m. to 5 p.m.
+Friday 8:00 a.m. to 12:30 p.m.
+Announcements
+|
+Microsoft Office 365 is Free for Students Students may now download a full version of Microsoft 365 (formerly Office 365) for free. Microsoft 365 can then be installed on up to five devices, including Windows and Mac computers, iPads, iOS, and Android phones. Click here to download Microsoft 365: Login using your USCA credentials. |
+|
+Windows Computer Freezing at Black Screen? Is your Windows computer freezing at a black screen with only a cursor when you boot it or restart it? If so, this is due to Windows Updates attempting to complete. DO NOT RESTART OR POWER-OFF YOUR COMPUTER if this occurs on your system. Forcing your computer to restart or power-off while Windows is completing updates can lead to Windows becoming corrupted and requiring your machine to be reloaded. Please let the process complete uninterrupted. In most cases, if left alone, the update process will complete within about 10-minutes. However, if you have previously forced the process to stop by rebooting or powering-off, it will likely take 30-45 minutes to complete the update process. This is because Windows will not only have to complete the update, but first repair the errors caused by the forced stop on its previous attempt. If your Windows system does have a black screen with only a cursor, and it remains this way for longer then 45-minutes, please do not power your system off until instructed to do so. Immediately contact the Help Desk for assistance. |
+|
+Email Alerts for Expiring Passwords To help prevent users from getting locked out of their account, automated alerts emails will be sent when your Pacer Account password is nearing expiration. You'll be reminded 30-days and 14-days before your password expires. Then beginning 7-days before expiration, you'll receive daily reminders. |

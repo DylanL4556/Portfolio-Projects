@@ -1,0 +1,14 @@
+ and approaches. Six Sigma philosophy, roadmap, tools, and techniques of planning and executing quality improvement programs and the LEAN continuous improvement approach that focuses on reducing waste. Application of Design for Six Sigma approach to design or improve products and processes.
+Year 4
+Fall Semester
+ENCP 316 Control Systems (3)
+(Prereq: MATH 242 with a grade of C or better, ELCT 221 with a grade of C or better). An introduction to closed-loop control systems: development concepts, including transfer function, feedback, frequency response, and system stability by examples taken from engineering practice: control system design methods. Also, an introduction to programmable logic controllers (PLCs).
+ENCP 380 Introduction to Systems Engineering (3)
+(Prereq: MATH 242 with a grade of C or better, ENCP 33 4 with a grade of C or better) An integrated introduction to systems methodology, design, and management. Overview of systems engineering as a professional and intellectual discipline and its relation to other disciplines, such as operations research, management science, and economics. Survey of selected techniques in systems and decision sciences, including mathematical modeling, decision analysis, risk analysis, and simulation modeling.
+ENCP 498 - Capstone Design I (3)
+(Prereq: ENCP 310 with a grade of C or better, ENCP 361 with a grade of C or better, ENCP 371 with a grade of C or better, ENCP 334 with a grade of C or better, ENCP 327 with a grade of C or better; Coreqs: ENCP 316 and ENCP 380) Lecture topics include design specifications and planning, innovation, economic factors, safety, reliability, ethics, and social impact. Selection specification and feasibility study of an open-ended design project to be completed in ENCP 499.
+Spring Semester
+ENCP 421 - Engineering Economics (3)
+(Prereq: ECON 221 or 222) Decision-making with respect to capital goods, with emphasis on such decision-making in governmental activities and public utilities. Intended primarily for engineering students, the course emphasizes the types of investment decisions that engineers are often called upon to make.
+ENCP 499 Capstone Design II (3)
+(Prereq: ENCP 498 with a grade of C or better; Coreqs: EC ON 421, PHIL 324, and BADM 494) Design for

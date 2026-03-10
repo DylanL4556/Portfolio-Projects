@@ -1,0 +1,21 @@
+AIT - Information Technology Policies
+Number: AIT 102
+Section: Information Technology
+Subject: Computer Classroom Software Installation
+Date: March 29, 2010
+Reviewed on: October 30, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+This policy defines CSD's procedure for installing software in USCA classrooms and computer labs prior to the beginning of each semester. CSD’s goal is to have all software requests completed one week prior to the start of classes.
+Each instructor will test the classroom and computer lab software before the first day of classes to ensure it meets their instructional requirements.
+New software evaluations and procurement plans must be coordinated with the Director of Network Systems before procurement takes place.
+- Definitions
+- CSD is an acronym for Computer Services Division.
+- In this document instructor refers to any faculty teaching in a particular classroom or lab.
+- CSD is an acronym for Computer Services Division.
+II. Procedure
+- An email message will be sent to USCALIST by the CSD staff members at least twice per year announcing that software change requests are due by the deadline stated in the email.
+- For Fall and Summer semesters, the message will be sent during the spring semester before April 1st. Responses will be due by April 15th to ensure that CSD has adequate time to fulfill the request. For Spring Semesters, the message will be sent before November 10th. Responses will be due by November 25th. Responses to the requests that are late will be handled on a first come first serve basis and completed as soon as possible. Any requests received before the first day of class will be completed as soon as possible.
+- CSD will complete mid-semester software changes as soon as possible. To ensure the best response from the CSD, email those requests as soon as possible. We recommend that you get them to us at least two weeks before you need them loaded.
+- Proper testing always helps ensure that the software meets the expectations of the faculty/staff requestor. Advance testing gives CSD time to make changes to the way the software is loaded if there is a problem encountered during the test. The Director of Network Systems will ensure that the faculty/staff are notified when and where the software is ready for testing. After testing, the requestors need to let the Network Engineer or Apple Systems Support specialist know if the software is

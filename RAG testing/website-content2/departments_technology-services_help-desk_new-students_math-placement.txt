@@ -1,0 +1,78 @@
+Math Placement | USCA
+https://www.usca.edu/departments/technology-services/help-desk/new-students/math-placement/
+Incoming students are placed in their first mathematics course based on their selected major.
+For all STEM majors (College of Sciences and Engineering), majors in all professional schools (e.g. School of Business Administration, School of Education, School of Nursing), and Sociology majors, these students will be placed into MATH A108 (Applied College Algebra) or a higher math course. The determination of the particular course in which a student is placed will be based on submitted ACT or SAT standardized test scores. If a student does not submit a standardized test score during the application process, that student will be placed into MATH A108.
+If placed into MATH A108, students may choose to take the Math Placement Test (MPT) to place higher than the MATH A108 level. This could greatly benefit the student’s progression in the major and reduce the number of math courses needed for a particular major. For students that would prefer a higher math course, they must either submit a standardized test score that places them into a higher math course or take the MPT and place higher than the MATH A108 level.
+What is my Blackboard username and password?
+Step 1. Go to: https://my.sc.edu/apps/username
+Step 2. You may be asked to login to SSC. If so, you'll be shown a screen like the one below. Login here with your VIP ID and VIP ID Password.
+If you are unsure how to log into SSC, please see our instructions for setting up your university accounts before continuing.
+Step 3. Once you're logged in you'll see the screen below. This screen shows your USC Network Username and gives you an opportunity to change your password.
+Make sure you read the password restrictions so that you pick an appropriate password. Once you have created a password, simply click "Set Password". If the password meets the complexity requirements your password is changed. It can sometimes take about five minutes for the new password to be active.
+Now you have your USC Network Username/Password which you will use to log into Blackboard. If you need to take the Math Placement Test, you should return to the Math Placement information page to continue.
+If you were unable to located your USC Network Username/Password you may contact the Help Desk for assistance at: help@usca.edu or 803-641-3391.
+I'm able to log into Blackboard, but am having difficulties with the Math Placement test.
+If you are able to log into Blackboard, but are having difficulties with the Math Placement Test, you should refer to the Math Placement information page, or contact the Math Department for assistance at: 803-641-3446.
+I'm having trouble logging into Blackboard.
+If you are unable to log into Self Service Aiken or Blackboard, the USCA Helpdesk may be able to assist you. We're available at: help@usca.edu or 803-641-3391.
+Where do I find my USC Network username and password so that I can log into Blackboard?
+Your USC Network Username and Password can be located within the Self Service Aiken system. If you do not yet know how to log into Self Service Aiken, please see our instructions for setting up your university accounts. If you already know how to log into Self Service Aiken, please follow the instructions below to find your Blackboard Username and Password.
+If you are unable to log into Self Service Aiken or Blackboard, the USC Aiken Helpdesk may be able to assist you. We're available at: help@usca.edu or 803-641-3391.
+I've completed the test, and received a score. What does my score mean?
+USCA Math Placement Test Score Interpretation on SSC
+|
+Algebra Test Result |
+Attained Prerequisites |
+The student may take any of the courses listed below appropriate for the major. |
+|
+3 or lower |
+Student must complete MATH A108 with a grade of C or better as a prerequisite to other math courses in the major. |
+MATH A108 |
+|
+4 |
+Student has the MATH A108 prerequisite. |
+Any of the above courses and/or: MATH A122, MATH A170, MATH A111, MATH A112, MATH A222, STATS A201 |
+Students with MPT Code 4 whose major requires MATH A141 (Calculus I) should also take Trigonometry Test.
+|
+Algebra Test Result |
+Trigonometry Test Result |
+Attained Prerequisites |
+The student may take any of the courses listed below appropriate for the major. |
+|
+5 |
+— |
+Student has the MATH A111 prerequisite. |
+Any of the above courses |
+|
+4 |
+P |
+Student has the MATH A112 prerequisite. |
+Any of the above courses |
+|
+5 |
+P |
+— |
+* Students with MPT Codes 5 and P may enroll in MATH A141 (Calculus I) |
+What instructions do I need to know prior to taking the test? Are calculators permitted?
+The Mathematics Placement Test consists of two parts: Algebra Test, and Trigonometry Test. The Algebra Test has three portions, you must obtain a sufficient score on each portion before being allowed to begin the next portion. If you successfully complete one portion, you may choose to take the next portion immediately or at a later time. If you successfully complete Algebra Test Part I and Part II, you may take the Trigonometry Test. You are allowed 60 minutes for each portion of the Algebra Test, and 90 minutes for the Trigonometry Test.
+Calculators are not permitted!
+All answers are multiple-choice. Answer each question as it appears and click the right arrow button to go to the next question. Do not use the browser’s Back button to navigate to previous questions. Instead, use the left and right arrow buttons to move backward or forward in the test. The amount of time remaining to complete the test is displayed along with each question. Click the submit button only when you are completely finished. You may pause between tests if you take more than one test.
+After you have submitted your test, your results will be displayed.
+If you are not satisfied with your score on a test, you may retake the test any time after your first attempt. You may retake any portion of the test only once.
+All students begin with Algebra Test Part I. Please click the following link “Take me to the test” to log into blackboard. Once you log in, under My Organization, click USCA Math Placement Test. Carefully read all instructions on the Announcement page before beginning the test.
+The USC Aiken Math Placement Test link isn't showing in the "My Organizations" module.
+If the "USC Aiken Math Placement Test" link isn't shown in your "My Organizations" module, or it is shown but gives an error when clicked, you'll need to contact the Help Desk for support.
+During normal business hours (8am-8pm Mon-Thur and 8-5 Fri): you can reach us at: 803-641-3391. Or email us for math placement assistance at: mpt@usca.edu
+After-hours and on weekends: please email us regarding math placement issues at: mpt@usca.edu for the fastest math placement assistance.
+Be sure to include the following information when emailing:
+- Full first and last name
+- Network Username (Blackboard Username)
+- Phone Number
+I have to take the Mathematics Placement test. How do I access it?
+Math Placement Tests are found in Blackboard.
+Blackboard uses your USC Network Username and Password.
+You should see them as soon as you log into Blackboard. If not, follow these instructions:
+- Log into Blackboard at: https://blackboard.usca.edu
+- If you are asked to complete a Blackboard profile go ahead and do so, or just click the "Do it later" link to continue into Blackboard.
+- Once you are into Blackboard you'll see several modules. Find the "My Organizations" module on the right-side of the screen. You're looking for the "USC Aiken Math Placement Test" link highlighted in yellow in this example.
+- Click the "USC Aiken Math Placement Test" and you should be immediately taken to the test.

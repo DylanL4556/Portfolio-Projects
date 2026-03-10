@@ -1,0 +1,271 @@
+Internship Opportunities
+At USCA, internships connect students with industry, government, and research partners to gain real-world experience in ﬁelds such as cybersecurity, software development, and advanced manufacturing. The information is updated regularly, with application details and USCA points of contact included to support student success.
+|
+Host Organization |
+Focus Area(s) |
+Clearance Requirement |
+Application/ Contact Link |
+USCA Point of Contact |
+|
+Savannah River National Laboratory (SRNL) – ASPIRE Program |
+STEM and non-STEM; Research, Engineering, Environmental Science, Business Services |
+None specified |
+Working with SRNL – Internship & Research Participant Programs Application window |
+Valarie Preddy, SRNL Internship Program Lead — ResearchInnovations@srnl.doe.gov |
+|
+DOE Environmental Management – MSIPP Internship |
+DOE-EM Environmental Management Missions; Research Support |
+None specified |
+DOE EM-MSIPP Overview Application window |
+Valarie Preddy / SRNL Coordination Office |
+|
+DOE Office of Science – SULI (Science Undergraduate Laboratory Internship) |
+STEM Research at 17 DOE National Laboratories |
+None specified |
+https://science.osti.gov/wdts/suli Application window |
+USCA Career Services / SRNL Liaison |
+|
+DOE Office of Science – CCI (Community College Internship) |
+Technical Fields supporting DOE Missions |
+None specified |
+https://science.osti.gov/wdts/cci Application window |
+USCA Career Services / SRNL Liaison |
+|
+DOE Visiting Faculty Program (VFP) |
+Faculty-led Research Projects (with up to 2 Students) |
+None specified |
+DOE VFP Info Application window |
+USCA Faculty Research Coordinator |
+|
+DOE National Labs – Virtual Summer Internship Fair (Nov 6, 2025) |
+Paid 10-Week Research Internships in STEM at DOE Labs |
+None (Virtual Event) |
+Application window |
+USCA Career Services / Dr. Scott McKay |
+|
+Savannah River Nuclear Solutions (SRNS) |
+Cybersecurity, Software Dev, Data Science |
+DOE Q or L |
+Application window |
+Dr. Scott McKay / USCA Career Services |
+|
+Savannah River National Laboratory |
+Cybersecurity, Advanced Manufacturing, AI/Data Science |
+DOE Q or L (varies) |
+Application window |
+Dr. Hala Strohmier |
+|
+South Carolina National Guard Cyber Command Center |
+Cyber Defense, Incident Response |
+Secret (preferred) |
+Application window |
+Dr. Hala Strohmier |
+|
+Steelgate LLC |
+Cybersecurity Consulting |
+None |
+Contact via USCA Career Services Application window |
+Dr. Hala Strohmier |
+|
+CyberPacers / RSOC/SOC Operations |
+SOC Analyst, Ethical Hacking |
+None / Public Trust |
+Internal USCA RSOC Program Application window |
+Dr. Hala Strohmier |
+|
+Advanced Manufacturing Collaborative |
+AR/VR, Simulation, Software Dev |
+None |
+DOE AMC info pending Application window |
+Dr. Scott McKay |
+|
+NSA |
+Cybersecurity, Cyber Ops, Policy |
+TS/SCI |
+Application window |
+USCA Career Services |
+|
+NSA Cooperative Education |
+Cybersecurity, Computer Science |
+TS/SCI |
+Application window: |
+USCA Career Services |
+|
+DoD Cyber Scholarship Program |
+Cybersecurity, Network Engineering |
+Secret/Top Secret |
+Application window |
+USCA Cyber Faculty |
+|
+CyberCorps: |
+Cybersecurity, |
+Secret/Top Secret |
+Application window |
+Dr. Hala Strohmier |
+|
+DOE Science Undergraduate Laboratory Internships |
+Cybersecurity, Computing, Energy Systems |
+Public Trust |
+Application window |
+USCA |
+|
+NNSA Summer Internships |
+Cybersecurity, |
+DOE Q or L |
+Application window |
+Dr. Scott McKay |
+|
+NASA |
+Software, Data Science, Cybersecurity |
+Public Trust |
+Application window |
+USCA |
+|
+Google STEP & SWE, Internships |
+Software, AI/ML, Cloud |
+None |
+Application window |
+USCA |
+|
+Microsoft Explore & SWE Internships |
+Software Engineering, Security, Data Science |
+None |
+Application window |
+USCA Career Services |
+|
+Amazon/AWS |
+Cloud Security, |
+None |
+Application window |
+USCA Career Services |
+|
+IBM Extreme Blue |
+Software Dev, Security, Data Analytics |
+None |
+Application window |
+USCA Career Services |
+|
+MIT Lincoln Laboratory Summer Research Program |
+Cybersecurity, AI, Systems Engineering |
+Secret |
+Application window |
+USCA Career Services |
+|
+Sandia National Laboratories Summer |
+Cybersecurity, Secure Systems, AI |
+DOE Q |
+Application window |
+USCA Career Services |
+|
+Southwest Airlines - Summer 2026 Internships |
+Network Engineering, |
+None |
+Application window |
+USCA Career Services / Dr. Hala Strohmier / Dr. Scott McKay |
+|
+Lumen |
+Intern - Security Specialist (Summer 2026) |
+None specified |
+USCA Career Services |
+|
+|
+Dominion Energy |
+Summer Internship Program |
+None specified |
+USCA Career Services |
+|
+|
+TD SYNNEX |
+Summer 2026 Technology Track Internship (IT, AI, Data, Cybersecurity, Cloud) |
+None specified |
+USCA Career Services |
+|
+|
+GE Vernova |
+Digital Technology Internship – Summer 2026 |
+None specified |
+USCA Career Services |
+|
+|
+TRMCi |
+TRMCi Intern |
+None specified |
+USCA Career Services |
+|
+|
+Southwest Airlines |
+Campus Reach Internship Program |
+None specified |
+USCA Career Services |
+|
+|
+The Home Depot |
+Cybersecurity Internship (Summer 2026 – Remote) |
+None specified |
+USCA Career Services |
+|
+|
+Wells Fargo |
+2026 Technology Summer Internship – Early Careers (Cybersecurity) |
+None specified |
+USCA Career Services |
+|
+|
+Nintendo of America |
+Various Internship Opportunities |
+None specified |
+USCA Career Services |
+|
+|
+BMW Manufacturing |
+BMW Plant Spartanburg Internship (Opens Dec 12) |
+None specified |
+USCA Career Services |
+|
+|
+Hubbell Incorporated |
+IT Intern (Summer 2026) |
+None specified |
+USCA Career Services |
+|
+|
+McDonald’s |
+2026 Global Technology – Cybersecurity Intern |
+None specified |
+USCA Career Services |
+|
+|
+Netflix |
+Internships (Software, AI/ML, Cybersecurity, Data) |
+None specified |
+USCA Career Services |
+|
+|
+Renewable Water Resources (ReWa) |
+Summer 2026 Internship |
+None specified |
+Contact Sumner Markwalter (Career Services) for details |
+USCA Career Services |
+|
+SRMC (Savannah River Mission Completion) |
+Technical & Engineering Internships |
+None specified |
+USCA Career Services |
+|
+|
+SRNL (Savannah River National Laboratory) |
+Research & STEM Internships |
+None specified |
+USCA Career Services |
+|
+|
+SRNS (Savannah River Nuclear Solutions) |
+Business, Cybersecurity, IT, and Engineering |
+None specified |
+USCA Career Services |
+|
+|
+BlueCross BlueShield of South Carolina |
+IT, Data Analytics, Cybersecurity Internships |
+None specified |
+USCA Career Services |

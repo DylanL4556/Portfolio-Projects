@@ -1,0 +1,21 @@
+ and the Ruth Patrick Science Education Center
+- Establishing and running multiple GenCyber summer camps at USC Aiken
+- Participating in NSA CAE-designated K-12 and workforce development programs
+- Working with regional industry, K-12 institutions, and regional facilities such as SRNS, SRNL, and the US Army Cyber Center of Excellence (CCofE)
+- Collaborating with the SC National Guard Cyber Readiness Center and the Advanced Manufacturing Center (AMC) as they come online at USCA
+Cyber Faculty Citations & Scholarship
+Research Interests
+Machine Learning and Reinforcement Learning Applications; Cybersecurity attack detection in smart grids; Adversarial Machine Learning; Privacy preservation in smart grid networks; Federated Learning; 6G and wireless networks.
+Journal Publications
+- Interpretable detector secure against stealthy false power consumption attacks, IEEE Transactions on Network and Service Management, 2025.
+- Repetitive backdoor attacks and countermeasures for smart grid reinforcement incremental learning, IEEE Internet of Things Journal, vol. 12, no. 3, 2025.
+- A trojan attack against smart grid federated learning and countermeasures, IEEE Access, vol. 12, 2024.
+- False data injection attacks on reinforcement learning-based charging coordination in smart grids and a countermeasure, Applied Sciences, vol. 14, no. 23, 2024.
+- Investigating Robust Reinforcement Learning Models for Securing Smart Grids, PhD Thesis, Tennessee Technological University, 2024.
+- Countering evasion attacks for smart grid reinforcement learning-based detectors, IEEE Access, vol. 11, 2023.
+- Electricity theft detection using deep reinforcement learning in smart power grids, IEEE Access, vol. 11, 2023.
+- Enhancing the performance of low-priority secondary users using reserved channels in CRNs, IEEE Wireless Communications Letters, vol. 9, no. 4, 2019.
+- QoS-driven channel allocation schemes based on secondary users’ priority in cognitive radio networks, International Journal of Wireless and Mobile Computing, vol. 11, no. 2, 2016.
+Conference Publications
+- AI-Driven Cybersecurity in Intelligent Transportation Systems: A Comprehensive Survey of Threats, Defenses, and Future Directions, ICIPS, 2025.
+- The Quantum Countdown: How Healthcare Can Achieve Crypto-Agility Before Q-Day, ICIPS, 

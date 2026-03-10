@@ -1,0 +1,2 @@
+ examples that demonstrates how the employee exemplifies all four core values |
+| Number of nominations | Nominee received 1 nomination | Nominee received 2 nominations | Nominee received 3 or more nominations |

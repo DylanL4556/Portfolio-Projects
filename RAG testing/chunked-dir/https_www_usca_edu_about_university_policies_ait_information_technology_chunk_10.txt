@@ -1,0 +1,17 @@
+ sensitive files as soon as the need is finished.
+Since the email system provides very little security particularly after it leaves USC, emails or attachments which contain sensitive information will not be sent to recipients outside the USC system.
+Mandatory periodic password changes are required for faculty/staff accounts. Complex passwords, defined as a minimum of six characters containing a combination of upper/lower case characters, numbers and special characters are required.
+All users with access to sensitive information are required to log in with their own unique account/password. Student workers must each use their own account/password and will not share passwords with other student workers even when working on the same office computer.
+Number: AIT 107
+Section: Information Technology
+Subject: Acceptable Use of USC Aiken Computer and Network Resources
+Date: March 28, 2002
+Revised on: April 25, 2010
+Issued by: Michael Lemons, Vice Chancellor for Information Technology
+Authorized by: Michael Lemons, Vice Chancellor for Information Technology
+Executive Summary
+The university recognizes its legal and social obligations to respect the privacy of the authorized users of its computing and network resources. However, users must recognize that the confidentiality of their electronic communications cannot be guaranteed by the university. Moreover, the university reserves the right to audit or monitor any uses of its computing and network resources when necessary to ensure compliance with university policy, and with federal, state and local law.
+The university network provides its authorized users with access to many classes of privileged information. Users must maintain the confidentiality and integrity of the information they access, and must not use privileged information for any purpose not explicitly authorized.
+The university's computing and network resources exist to support the university's missions of teaching, research, administration and public service. Incidental personal use of these resources by authorized users is permitted only to the extent that such use is lawful and ethical, does not conflict with the university's missions, does not interfere with other authorized users, and does not cause additional expense to the university. Use of network services provided by the State of South Carolina may be subject to monitoring for security and/or network management reasons. Users of these services are therefore advised of this potential monitoring and agree to this practice.
+I. Scope
+This policy applies to all users of USC Aiken computer and/or network resources to include all users who access any of the computer systems or computer networks controlled by USC Aiken. This policy is not limited to USC Aiken employees/students only but also applies to any

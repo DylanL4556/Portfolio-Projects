@@ -1,0 +1,21 @@
+MCIS – General or Information Technology Track
+Students must successfully finish an MCIS-approved program comprising a minimum of 30 graduate credit hours. The Department Chair or Advisor must approve the official program of study. Additionally, students can transfer up to nine graduate credit hours from approved universities, subject to consultation with the MCIS advisor.
+MCIS Core Courses (12 credits):
+- MCIS A610: Advanced Programming Concepts (3 credits)
+- MCIS A613: Advanced Database Management Systems and Programming (3 credits)
+- MCIS A616: Computer Networking (3 credits)
+- MCIS A620: Introduction to Artificial Intelligence and Machine Learning (3 credits)
+MCIS Technology Track Courses (12 credits):
+- MCIS A600: Survey of Information Technology (3 credits)
+- MCIS A611: Information Systems Engineering (3 credits)
+- MCIS A612: Software and Systems Project Management (3 credits)
+- MCIS A614: Advanced Web Development (3 credits)
+MCIS Technology Track Electives (6 credits):
+Choose 6 hours from the following options:
+- Two courses from the Cyber Security Track Requirements
+OR
+- One course from the Cyber Security Track Requirement and MCIS A615: Network Sciences
+Total Hours Required: 30
+Location
+Penland 227
+Contact Us

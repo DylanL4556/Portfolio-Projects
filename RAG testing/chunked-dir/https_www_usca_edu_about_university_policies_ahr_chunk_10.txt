@@ -1,0 +1,14 @@
+ 1) excludes an individual from participation in; 2) denies the individual benefits of; or 3) otherwise adversely affects a term or condition of an individual’s employment, education, living environment, or participation in a university program or activity.
+Disparate Impact Discrimination:
+Employment: In the employment context, disparate impact discrimination occurs when there is sufficient evidence that policies, tests, or practices that are neutral on their face disproportionately exclude or adversely impact a group of individuals within the Protected Class, where the policies, tests, or practices are not job-related and not consistent with business necessity. The university considers the following factors in assessing disparate impact:
+- Does the policy, test, or practice have a disparate impact on the basis of a particular Protected Class? This typically requires a statistical analysis.
+- Is the policy, test, or practice job-related and consistent with business necessity?
+If job-related and consistent with business necessity, is there a less discriminatory alternative available?
+Student/Educational Program or Activity: In the student or educational context, disparate impact discrimination occurs when there is sufficient evidence that seemingly neutral policies, tests, or practices, although not adopted with the intent to discriminate, nonetheless have an unjustified effect of discriminating against students or others seeking to participate in an educational program or activity on the basis of protected class. In determining whether a seemingly neutral policy has an unlawful disparate impact on the basis of Protected Class, the university will conduct the following three-part inquiry:
+- Has the policy, test, or practice resulted in an adverse impact on Students or Third Parties of a particular Protected Class?
+- Is the policy, test, or practice necessary to meet an important educational goal?
+- If necessary to meet an important educational goal, are there comparably effective alternative policies, tests, or practices, available that would meet the stated educational goal with less of a burden or adverse impact on the disproportionately affected Protected Class or is the proffered justification a pretext for discrimination?
+Harassment:
+Harassment is a form of Discrimination, which includes Hostile Environment and/or Quid Pro Quo.
+Hostile Environment:
+Unwelcome conduct (oral, written, graphic or physical) directed against any individual or group of individuals because of or based upon one or more protected class, that is sufficiently severe, pervasive, or persistent that it interferes with or limits the ability of an individual or group to participate in or benefit from programs, services and activities provided by the university. In evaluating whether a hostile environment

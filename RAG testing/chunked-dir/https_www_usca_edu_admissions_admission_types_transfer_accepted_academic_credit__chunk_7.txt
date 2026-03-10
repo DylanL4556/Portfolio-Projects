@@ -1,0 +1,159 @@
+ A222 |
+|
+Economics |
+AS |
+D-E |
+3 |
+ECON A221 |
+|
+English Language |
+A |
+A-E |
+6 |
+ENGL A101 and ENGL A102 |
+|
+English Language |
+AS |
+A-E |
+3 |
+ENGL A101 |
+|
+English Literature |
+A |
+A-E |
+6 |
+ENGL A101 and ENGL A102 |
+|
+English Literature |
+AS |
+A-E |
+3 |
+ENGL A101 |
+|
+Environmental Management |
+A |
+A-E |
+3 |
+BIOL A003T |
+|
+Environmental Management |
+AS |
+A-E |
+3 |
+BIOL A003T |
+|
+French |
+A |
+A-B |
+9 |
+FREN A101, FREN A102, and FREN A 210 |
+|
+French |
+A |
+C-D |
+6 |
+FREN A101 and FREN A102 |
+|
+French |
+A |
+E |
+3 |
+FREN A101 |
+|
+French Language |
+AS |
+A-C |
+6 |
+FREN A101 and FREN A102 |
+|
+French Language |
+AS |
+D-E |
+3 |
+FREN A101 |
+|
+Exam |
+Level |
+Grade |
+Hours |
+Equiv |
+|
+GENERAL PAPER |
+AS |
+A-E |
+3 |
+ENGL A101 or HSSI A001T |
+|
+Geography |
+A |
+A-E |
+3 |
+GEOG A103 |
+|
+Geography |
+AS |
+A-E |
+3 |
+GEOG A103 |
+|
+German |
+A |
+A-B |
+9 |
+GERM A101, GERM A102 and GERM A210 |
+|
+German |
+A |
+C-D |
+6 |
+GERM A101 and GERM A102 |
+|
+German |
+A |
+E |
+3 |
+GERM A101 |
+|
+German Language |
+AS |
+A-C |
+6 |
+GERM A101 and GERM A102 |
+|
+German Language |
+AS |
+D-E |
+3 |
+GERM A101 |
+|
+Hindi |
+A |
+A-E |
+6 |
+FORL A001T and FORL A002T |
+|
+Hindi - Language |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Hindi - Literature |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Hinduism |
+A |
+A-E |
+6 |
+FORL A001T and FORL A002T |
+|
+Hinduism |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+History: European |

@@ -1,0 +1,23 @@
+alt’ description; this description is read aloud to visually impaired users by screen readers and should convey its meaning to someone who cannot see it.
+- ‘Alt’ descriptions should be less than 125 characters.
+When you upload images to the Media Library, add an ‘alt’ description in the ‘Description’ field.
+Avoid using images that include a lot of text on them. If the text is too long to put in the ‘alt’ description, consider putting the text directly on the page instead of in an image.
+If you use a text-heavy image on your page, you must provide an accessible alternative.
+- If it’s short, add the text in the image to the ‘alt’ description field.
+- Use an accessible, relevant content type, such as Infographic.
+- Post an accessible PDF version.
+Provide Transcripts or Captions for Video or Audio Content
+Providing a transcript, captions, or subtitles for users who cannot hear or hear well is essential when using video or content. USCA uses Vimeo and YouTube to embed video content into the website.
+- See Vimeo’s instructions for adding captions and subtitles to your Vimeo videos.
+- Vimeo allows you to upload a previously created caption file (such as .srt or .vtt format) to a video.
+- Otherwise, Vimeo will refer you to a paid third-party service.
+- YouTube has several features that make it easier for users to create/edit captions, including transcription, auto sync, and automatic captioning. See YouTube’s instructions for adding your subtitles and closed captions to your YouTube videos.
+Because of the high chance of error, automatic captioning does not meet legal standards. You must review the captions for accuracy and correct any inaccuracies.
+Videos
+- Videos must be hosted externally (e.g. YouTube or Vimeo) and linked to or embedded on our site. They cannot be added directly to the CMS.
+- Video must be high quality, be in focus, and have clear audio.
+- Videos should be in high-definition (1080p) at minimum.
+- Videos must have captions or a transcript to meet accessibility standards.
+- Videos must be original, copyright-free, or licensed for use.
+Copyright
+All website content must comply with the USCA website copyright policy. Text, images, videos, and files that do not meet these requirements must be deleted immediately. In cases where copyrighted material is posted with the permission of the content owner, that permission must be attained in writing and be available for verification if needed.

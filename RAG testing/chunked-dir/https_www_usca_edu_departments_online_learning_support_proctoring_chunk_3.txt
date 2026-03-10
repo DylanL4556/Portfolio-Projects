@@ -1,0 +1,16 @@
+ the Respondus LockDown Browser icon on your desktop, log into Blackboard, and select your course.
+- Locate and select the Help Center button on the LockDown Browser toolbar.
+- Run the Webcam Check and, if necessary, resolve any issues.
+- Run the System & Network Check. If a problem is indicated, see if a solution is provided in the Knowledge Base. Troubleshooting information can also be emailed to the USCA help desk.
+- Exit the Help Center and locate the exam.
+- Upon completing and submitting the exam, exit LockDown Browser.
+Student Purchase of ProctorU Proctoring
+The use of ProctorU proctoring services is only recommended for no more than two exams per course (e.g. mid-term and/or final exams) because the cost is per individual exam. The following are the listed options, so please choose the most cost-effective for your proctoring needs:
+Auto (recommended)
+Description: Fully automated exam proctoring with all activity recorded end-to-end. Videos and incidents are immediately available for USCA faculty review. Cost: $3 per exam.
+Auto with Review (recommended)
+Description: Fully automated exam proctoring with all activity recorded end-to-end. Exams are reviewed by ProctorU, and a report is sent to instructors within 24 hours if there are academic integrity incidents. Cost: $4 for a 1-hour exam, $6 for 2 hours, $8 for 3 hours, $10 for 4 hours.
+Live Launch with Review
+Description: Exams are launched by a live proctor for authentication purposes, but the proctor drops once the exam begins. All activity is recorded from start to finish. Exam videos are reviewed by a ProctorU proctor, and a report is sent to instructors within 24 hours if there are any academic integrity incidents. Cost: $8 for a 1-hour exam, $10 for 2 hours, $12 for 3 hours, $14 for 4 hours.
+Instructor Support for ProctorU
+ProctorU supports its product, and the Office of Distance Learning can provide some limited administrative support. If there are instructors who would like to use ProctorU, they can create an account here. Once they create an account, a faculty rep will reach out within an hour to schedule a 15-minute training session and help them input their first exam. If instructors need additional support, reach out to AccountServices@proctoru

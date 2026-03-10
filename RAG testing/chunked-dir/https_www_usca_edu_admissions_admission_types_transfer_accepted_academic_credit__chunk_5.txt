@@ -1,0 +1,143 @@
+ A101 |
+| IB Social Anthropology | ANTH A102 | ANTH A102 | ANTH A102 |
+| IB Spanish B | SPAN A101 and A102 | SPAN A101 and A102 | SPAN A210 |
+| Visual Arts | No Equivalent | ARTS A103 | ARTS A103 |
+|
+Exam |
+Level |
+Grade |
+Hours |
+Equiv. |
+|
+Accounting |
+A |
+A-E |
+6 |
+BADM A225 and BADM A226 |
+|
+Accounting |
+AS |
+A-E |
+3 |
+BADM A225 |
+|
+Afrikaans |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Afrikaans - Language |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Arabic |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Arabic - Language |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Art and Design |
+A |
+A-E |
+3 |
+ARTS A001T |
+|
+Art and Design |
+AS |
+A-E |
+3 |
+ARTS A001T |
+|
+Biblical Studies |
+A |
+A-E |
+3 |
+RELG A101 |
+|
+Biblical Studies |
+AS |
+A-E |
+3 |
+RELG A101 |
+|
+Biology |
+A |
+A-B |
+8 |
+BIOL A121 and BIOL A122 |
+|
+Biology |
+A |
+C-E |
+4 |
+BIOL A121 |
+|
+Biology |
+AS |
+A-E |
+4 |
+BIOL A121 |
+|
+Business |
+A |
+A-B |
+6 |
+BADM A225 and BADM A226 |
+|
+Business |
+A |
+C-E |
+3 |
+BADM A225 |
+|
+Business |
+AS |
+A-E |
+3 |
+BADM A225 |
+|
+Chemistry |
+A |
+A-B |
+8 |
+CHEM A111 and CHEM A112 |
+|
+Chemistry |
+A |
+C-E |
+4 |
+CHEM A111 |
+|
+Chemistry |
+AS |
+A-B |
+8 |
+CHEM A111 and CHEM A112 |
+|
+Chemistry |
+AS |
+C-E |
+4 |
+CHEM A111 |
+|
+Chinese |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Chinese Lang & Liter |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|

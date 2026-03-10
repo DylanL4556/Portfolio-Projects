@@ -1,0 +1,32 @@
+Multifactor Authentication (MFA) is now required on some systems!
+Many systems based on the Columbia campus, such as my.sc.edu, Self-Service Carolina (SSC) and others began requiring MFA for access.
+If you haven't already setup MFA for your accounts, you'll find information and instructions below. Columbia has also created a setup FAQ specifically for students.
+How do I set up Multi-Factor Authentication for Columbia systems?
+Most systems managed by the USC-Columbia campus are protected by Multi-factor Authentication (MFA) using the DUO Security system.
+The primary system protected by MFA is Self-Service Carolina (SSC). SSC is used for many of your basic administrative needs as a student: class registration, housing, financial aid, etc. You will need to complete MFA setup to have access to these areas.
+Instructions for Setting Up MFA
+Most systems managed by the USC Columbia campus are protected by Multifactor Authentication (MFA) using the DUO Security system. The primary system protected by MFA is Self Service Aiken. Self Service Aiken is used for many of your basic administrative needs as a student: class registration, housing, financial aid, etc. You will need to complete MFA setup to have access to these areas.
+Detailed information about MFA and instructions can be found on the Multifactor Authentication page of the USC Columbia website. Please be aware though that due to the depth of the information contained on this page most users find reading it only left them more confused.
+If you run into any issues, please contact the USC Aiken Help Desk. Don't frustrate yourself unnecessarily by attempting to solve an MFA or account issue on your own when a quick call to the Help Desk could solve it for you quickly and easily.
+Setting Up DUO Multifactor Authentication (MFA)
+DUO Mobil Multifactor Authentication
+- Go to http://MyAccount.SC.Edu and select Update Account Settings. Log in using your Network Username and password, answer your security question, and then select the Multifactor tab.
+- Enter your mobile phone number, select mobile, choose your platform, then press submit.
+- Select Activate beside your mobile phone number. A QR code will be displayed. (You will scan this code in a later step.)
+- Install the Duo Mobile app on your smartphone.
+- Open the Duo Mobile app on your smartphone.
+- On the App, press + at the top of the screen to create new account.
+- Scan the QR code displayed on your computer. This will complete setup.
+I've received an error that says I need to setup VIP security questions.
+During MFA setup you'll be asked to provide an answer to one of your VIP security questions. If you have forgotten what those are, or have never set them up, you'll need to reclaim your VIP ID to set them. Just click the link below, answer the questions presented and then select and set your security questions. Once you've done that, you should be able to complete MFA setup.
+How do I make sure I enrolled my device?
+You enroll a device as part of the MFA setup process. Once you've successfully signed into the MFA site at: https://my.sc.edu/multifactor/ you've registered for MFA. However, you also need to enroll any devices you'd like to use for authentication. If you don't enroll a device the system will not have a way to authenticate you, causing you to see the Access Denied screen.
+To ensure you've enrolled a device, got back to https://my.sc.edu/multifactor/ and check that you have an enrolled device listed as shown below. You should then click the Test Authentication button at the bottom of that page to confirm it is working correctly.
+If you receive the error shown below when attempting to test MFA or sign into an MFA protected site/system for the first time, you likely either just need to clear your cache or haven't yet successfully enrolled a device.
+How do I clear my cache?
+Clearing your cache is simple. Just follow the instructions for your browser found here: https://help.yahoo.com/kb/SLN27196.html Or if you run into problems clearing your cache, try to sign in with a different browser.
+How do I make sure I enrolled my device?
+You enroll a device as part of the MFA setup process. Once you've successfully signed into the MFA site at: https://my.sc.edu/multifactor/ you've registered for MFA. However, you also need to enroll any devices you'd like to use for authentication. If you don't enroll a device the system will not have a way to authenticate you, causing you to see the Access Denied screen above.
+To ensure you've enrolled a device, got back to https://my.sc.edu/multifactor/ and check that you have an enrolled device listed as shown below. You should then click the Test Authentication button at the bottom of that page to confirm it is working correctly.
+What if I'm still getting the Authentication error?
+If still receive the Authentication error after you've cleared your cache and confirmed that you have an device enrolled in the system, you should contact the Columbia Service Desk for assistance. Be sure to tell them you've already completed these steps when you call.

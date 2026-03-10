@@ -1,0 +1,114 @@
+Student Support | USCA
+https://www.usca.edu/departments/online-learning-support/student-support/
+Technology and university resources
+Many resources are available to online students, from tutoring to counseling to addressing academic honesty. You are encouraged to utilize student and academic support services throughout the semester.
+Technology Requirements
+Online students will need access to a reliable computer with high-speed internet access. To access the course site, please log into the Blackboard Learning Management System using your Blackboard username and password credentials.
+To be able to participate fully in USCA online courses, you must have the following:
+The minimum requirements for computer hardware: university computer requirements are obtained from the Technology Services Division. You may also need access to a webcam and headset microphone.
+Reliable and speedy Internet access: Online coursework requires reliable Internet access and fast connection speed, as you will be taking online tests. A high-speed internet connection is required, but a wired connection is preferred, especially while taking tests.
+Computer competency: You must be very comfortable using email and discussion boards, uploading and downloading documents, and accessing resources such as search engines and websites (e.g., Google, etc.).
+Technical Support
+For help tutorials on basic Blackboard functions, visit the Blackboard help site.
+To obtain assistance with technical issues in Blackboard (removing pop-up blockers, opening files or quizzes, etc.), or if you cannot see the course content or have other questions regarding the course itself, please visit the USCA Computer Services Help Desk.
+The Help Desk is located on the first floor of the Gregg-Graniteville Library. You may email the Help Desk, Help@usca.edu, or call 803-641-3391 from non-campus phones or use extension 4357 from campus phones. For after-hours outages, text or call 803-265-LANN or 803-265-5266 (texts are preferred).
+Blackboard Help
+If you are new to Blackboard and/or unaware of your login credentials, you can find complete instructions on Self-Service Aiken.
+Minimal Technology Skills
+If you are an online student at USCA, you should have access to a computer that meets the university’s minimum hardware specifications. The Office of Distance Learning recommends that online students have access to a webcam, either built-in or external, and purchase a headset with a noise-cancelling microphone for effective communication.
+You should have or will acquire the following technology skills throughout this course:
+Downloading and installing software applications.
+Using Microsoft Office (or similar alternative software) to draft and save in multiple file formats.
+Copying and pasting between documents and Blackboard. To select all, press and hold Ctrl (the control key) on the keyboard and then press the A on the keyboard. To copy, press and hold Ctrl, then press the C on the keyboard. To paste, press and hold down Ctrl and then press V.
+Communicate effectively using a webcam and microphone in synchronous interactions or create and upload multimedia content via video or social media platforms.
+Using Blackboard to upload files, post to discussion boards, complete tests, participate in wikis and post blog entries (where applicable).
+Using a USCA-supported video conferencing tool such as Blackboard Collaborate, Yuja, or Adobe Connect to participate in video conferencing sessions, view recordings, or create recordings (if applicable).
+Using USCA email accounts to communicate with your instructors.
+University Supported Software
+You should have access to and proficiency with the software and hardware discussed below.
+Mandatory accessories include a built-in or external webcam and noise-canceling headphones with a microphone (external, not one built into your computer).
+Internet Browsers
+Firefox - Blackboard usually prefers this browser. Download Firefox.
+Chrome - This is a backup browser for Blackboard. If you cannot access something in Firefox, try Chrome or Safari before contacting your professor or USC Aiken’s Help Desk. (Note: Internet Explorer is not a recommended browser due to security risks and incompatibility with Blackboard.) Download Chrome.
+Safari - This is a backup browser for Blackboard. If you cannot access something in Firefox, try Chrome or Safari before contacting your professor or the USCA Help Desk. Download Safari.
+Respondus LockDown Browser - The assessments in this course may require using the Respondus LockDown Browser (review any special instructions with course examinations). Respondus LockDown Browser creates a "locked" testing environment that prevents you from viewing other web pages, accessing other applications, and printing or copying the assessments. You must download and install LockDown Browser before you take any exams. The Respondus Install and User Quick Start Guide provides information on the installation and usage of Lockdown Browser. Do this now so that you are prepared for your first assessment. Additionally, you may be required also to use Respondus Monitor in which case you will need webcam and microphone capabilities to attempt an examination.
+Download Respondus LockDown Browser
+Software
+USCA does provide some software discounts for students:
+Microsoft Office 365 allows access to the following software applications: Word, Excel, Access, PowerPoint, Publisher, One Note, OneDrive, and Outlook. Office 365 is available for free to USCA students
+Microsoft Office Mix is an add-on to Microsoft PowerPoint. With Mix, you can create voice-over PowerPoint lectures that are self-running and contain a number of interactive items, such as embedded video, quizzes, and screencasts. Mix is an additional tab that appears on your PowerPoint ribbon. Students are afforded the use of Mix for free. The free download can be found on the Office Mix website.
+You may need access to a high-speed Internet, webcam, and a headset with microphone to participate in the live, synchronous class sessions. Video Conferencing Tools supported by Distance Learning are Blackboard Collaborate, Yuja Video Conference, and Microsoft Teams. (Adobe Connect no longer supported)
+Plagiarism Detection Software
+USCA is committed to helping students uphold the ethical standards of academic integrity in all areas of study. Students agree that their enrollment in this course allows the professor the right to use electronic devices to help prevent plagiarism.
+SafeAssign: Instructors may elect to have students submit assignments to the Blackboard’s Safe Assign feature, which will be included as source documents in Safe Assign’s restricted access database solely to detect plagiarism in such documents.
+TurnItIn: All course materials are subject to submission to scholarly authentication and will be included as source documents in Turnitin.com's restricted access database solely to detect plagiarism in such documents. Turnitin.com can be used as an academic tool to help students avoid plagiarism in written documents. If your professor uses TurnItin, he/she will provide you with the login credentials and other information.
+Respondus LockDown Browser: To increase the integrity of online tests, professors may use the Respondus Lockdown Browser, which creates a "locked" testing environment that prevents you from viewing other web pages, accessing other applications, and printing or copying the assessments. If instructed, you must download and install LockDown Browser before you take any exams. The Respondus Install and Use Quick Start Guide provides information on the installation and usage of Lockdown Browser.
+When taking assessments using Respondus:
+Seek a computer with a wired connection. If using a wireless connection, be sure to be close enough to the wireless router that has the strongest signal.
+Be sure to close ALL applications on your computer and double-click on the Respondus Lockdown Browser icon to open the application. Log into Blackboard, access your course, and navigate to the assessment.
+Academic Integrity
+Plagiarism, Academic Honesty, and Citing Sources
+The USC Aiken Student Handbook defines violations of academic integrity as follows:
+The principle of academic integrity prohibits all forms of academic dishonesty, including cheating, lying, bribery, and plagiarism. The following examples illustrate conduct that violates academic integrity, but this list is not exhaustive.
+- Giving or receiving unauthorized assistance or attempting to give or receive such assistance in connection with academic work performance.
+- Unauthorized use of materials or information of any type or the unauthorized use of any electronic or mechanical device in connection with completing any academic work.
+- Unauthorized use of any portable electronic device unless required for the course during a test period without consent of the instructor.
+- Access to the contents of any test or examination of the purchase, sale, or theft of any test or examination before its administration.
+- Use of another person’s work without proper acknowledgment of source, i.e., plagiarism.
+- Intentional misleading of any person in connection with any academic work, including the scheduling, completion, performance, or submission of any such work.
+- Offering or giving any favor or thing of value to improperly influence a grade or other evaluation of a student in an academic program.
+- Conduct intended to interfere with an instructor’s ability to evaluate accurately a student’s competency or performance in an academic program.
+Only the appropriate faculty member can “authorize” assistance, use of materials, etc. Whenever a student is uncertain as to whether conduct would violate academic integrity, it is the responsibility of the student to seek clarification from the appropriate faculty member before engaging in such conduct.
+Plagiarism could be defined as follows:
+Plagiarism is intentionally or carelessly presenting the work of another as one’s own. It includes submitting an assignment purporting to be the student’s original work, which has wholly or in part been created by another. It also includes presenting the work, ideas, representations, or words of another without customary and proper acknowledgment of sources. Students must consult instructors for clarification when documentation is an issue. Students will be considered plagiarized whenever their work is not properly documented.
+Academic Integrity is a core value of our community of learners. Every member of the academic community (students, faculty, and staff) is expected to maintain high standards of integrity in all facets of work and study. The Student Guide to Academic Integrity describes appropriate academic conduct in research, writing, assessment, and ethics.
+Academic dishonesty is not tolerated at USCA. The penalties can be severe, including failing the assignment, failing the course, and being referred to Student Judicial Programs to face form conduct charges. Students found in violation may be suspended or expelled and can have a permanent notation affixed to the official transcript indicating that an academic integrity violation occurred. Students are urged to discuss questions regarding academic integrity with instructors, advisors, or the academic deans.
+Please note that even paraphrasing another's work, you must cite your source in the text, just as you would a direct quote. Submitting a paper you have written for another course is also a form of plagiarism known as multiple submissions.
+You may be turning in papers through Turnitin or SafeAssign, online tools that assist in discovering plagiarism. Plagiarism.org is another great resource to help you avoid plagiarism.
+If you intentionally or blatantly plagiarize, you will fail the class, and the case can be reported to the Student Judiciary Board.
+For scholarly writing formats, you may be using either MLA or APA formatting, depending on the topic of your submissions, and cite your sources. Projects focused on the fields of English, literature, languages, or culture will use MLA; projects focused on the social sciences, business, or nursing will use APA. Review appropriate citation guides like Purdue's research and citation resources. Generally, the following principles apply:
+All quotes, summaries, paraphrases, and facts must have two types of documentation. The first is a parenthetical or in-text citation inserted in the text where the referenced content appears. The second is a bibliographic entry or endnote on a References/Works Cited page at the end of the paper.
+Anything cited word-for-word is a quote and must appear in quotation marks. Quotes must be documented.
+Any source cited in the paper should have a corresponding bibliographic entry/endnote at the end of the document.
+Only sources cited in the paper should appear in the References/Works Cited. Sources you read but do not cite may be cited in a separate Works Consulted.
+All quotes, paraphrases, and summaries must have page numbers as they are identified in the source. Many internet sites do not have page numbers listed online (it does not count if they appear when you print the document), although some do (such as PDFs and online journals). Only site a page number if it is identified in the source.
+Academic Freedom
+“Teachers are entitled to freedom in the classroom in discussing their subject, but they should be careful not to introduce controversial matters that have no relation to the subject into their teaching.” The preceding comes from the American Association of University Professors’ statement on academic freedom. Though the entire statement speaks to many issues, this portion of the conduct of the course is most relevant. For coursework, this means that faculty members have the right to conduct their classes as they deem appropriate as long as the material presented meets the learning objectives laid out by the entire faculty.
+Additional Student Support Services
+Division of Student Affairs
+Gregg-Graniteville Library
+Academic Success Center
+The Writing Center
+Disability Services Office
+Counseling Center
+Veteran and Military Student Success (VMSS)
+Accessibility
+The technology tools utilized within this course offer a variety of accessibility features, such as compatibility with screen readers, text-based visual alternatives, video scripts, and attention to Universal Design. The central platform for this course, Blackboard, also complies with ADA requirements. The university seeks to provide effective services and accommodation for qualified individuals
+Americans with Disabilities Act
+By federal law, you are entitled to and eligible for accommodation through the Disability Services Office. USCA seeks to provide effective services and accommodation for qualified individuals with documented disabilities.
+The Disability Services Office provides accommodations to ensure educational programming and services are accessible to students with disabilities. If you have a physical, psychological, and/or learning disability that might affect your performance in this class, please contact the Disability Services Office, B&E 130, (803) 643-6815, as soon as possible, if you believe you are eligible for accommodations. The Disability Services Office will require appropriate documentation to determine accommodations.
+Title IX
+Student Disclosure of Sexual Misconduct
+It is the policy of the university in order to maintain an environment in which the dignity and worth of all members of the institutional system are respected that sexual harassment of employees or students is prohibited. Such conduct is a form of behavior that seriously undermines the atmosphere of trust essential to the academic environment. This policy is consistent with federal and state laws prohibiting sex discrimination. It is also a policy of the university that willful false accusations of sexual harassment shall not be condoned.
+Review USCA’s Sexual Assault Policy. If you disclose a potential violation of the sexual misconduct policy, the Title IX Coordinator may be notified. Students who have experienced sexual misconduct are encouraged to contact the confidential resources listed on the Title IX site. To make a report to the Title IX Coordinator, visit the Equal Opportunity and Title IX website.
+Emergency Services
+If there is a condition that threatens the health and safety of persons on campus, university officials will warn the campus community using one or more of the following methods:
+- www.usca.edu home page
+- sirens / public address instruction or message
+- text messages
+- Phone alert, i.e., reverse 911 or phone tree call
+Web Etiquette
+Proper online etiquette or "netiquette” enables students to be professional while communicating online with faculty and with other students. To comply with course expectations, it is important to consider the following values during online discussions and when corresponding to the professor and fellow students via email, discussions, and other communication:
+Student-to-Student Netiquette
+Timeliness: Monitor course activity and respond to communications from your classmates and faculty in a timely manner.
+Confidentiality: When discussing topics, be sure to be discreet about how you discuss children, teachers, and aides in the classroom. Do not use names of people or names of facilities.
+Formatting: As a rule, please do not use all caps in your emails or discussions. It is considered unprofessional and is hard to read. Also, please use standard capitalization and punctuation in all course communications, and sign your name on all emails.
+Value: Recognize and value the experiences, abilities, and knowledge each person brings to class. Value the diversity of the class.
+Tone: The absence of face-to-face interaction increases the likelihood of misinterpretation. Avoid using offensive language, excessive exclamation points, all caps, humor and sarcasm, acronyms, emoticons, and slang.
+Respect: Each student’s viewpoint is valued as an opinion. When responding to a person during online discussions, state an opposing opinion diplomatically. Disagree with ideas, but do not make personal attacks. Be careful what you write because you cannot use body language or tone of voice to convey ideas, intent, or thoughts.
+Brevity: Be concise when contributing to a discussion. Online courses require a lot of reading; therefore, your points may be missed if hidden in a flood of text.
+Read and proofread: Read all discussions before you post a comment, so you do not repeat information. Proofread and spell check all messages before you send them.
+Student-to-Professor Netiquette
+In addition to the above values, you are expected to respond to communications from your professor in a timely manner. Any emergencies arising from illness, death, etc. should be reported to the professor as quickly as possible.
+Professor-to-Student Netiquette
+The professor of this course will also follow the values listed above by checking and responding to emails and grading your assignments promptly. Specifically, the Blackboard course site will be checked periodically, and any emails will be answered during those times. Assignments will be graded within a reasonable time after the posted deadline for each assignment (or after the assignments are actually received).

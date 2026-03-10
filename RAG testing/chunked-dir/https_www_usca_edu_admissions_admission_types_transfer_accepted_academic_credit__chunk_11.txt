@@ -1,0 +1,27 @@
+ 50 |
+| CLEP Western Civilizations I | HIST A101 World Civilization up to 1750 | 50 |
+| CLEP Western Civilizations II | HIST A102 World Civilization Since 1750 | 50 |
+| CLEP Analyze & Interperet Lit | ENGL A001T | 57 |
+| CLEP College Composition | ENGL A101 Composition | 51 |
+| CLEP American Literature | ENGL A002T | 57 |
+| CLEP English Literature | ENGL A002T | 57 |
+| CLEP Biology | BIOL A121 | 50 |
+| CLEP Biology | BIOL A121 and BIOL A122 | 56 |
+| CLEP Chemistry | CHEM A111 General Chemistry I | 50 |
+| CLEP College Algebra | MATH A108 Applied College Algebra | 50 |
+| CLEP Precalculus | MATH A111 Precalculus Math I | 50 |
+| CLEP Calculus | MATH A141 Calculus I | 47 |
+| CLEP Psychology | PSYC A101 Introductory Psychology | 50 |
+| CLEP Sociology | SOCY A101 Introductory Sociology | 50 |
+| DSST Exam Name | Equivalent Course | Credit Hours | Required Test Score (Pre-2008/Post-2008) |
+| Astronomy | Gen Ed Sci- No Lab | 3 | 48/400 |
+| Principles of Physical Science I | Gen Ed Sci- No Lab | 3 | 47/400 |
+| Foundations of Education | EDFN A321 | 3 | 46/400 |
+| Lifespan Developmental Psychology | EDPY A330 | 3 | 46/400 |
+| Introduction to World Religions | RELG A103 | 3 | 52/434 |
+| Health and Human Development | EXSC A337 | 3 | 48/400 |
+| Criminal Justice | CRJU A171 | 3 | 54/434 |
+| Human Cultural Geography | Gen Ed/SocBehSci | 3 | 53/434 |
+| General Anthropology | Gen Ed/SocBehSci | 3 | 54/434 |
+| Business Ethics and Society | BADM A379 | 3 | 50/434 |
+| Management Information Systems | BADM A390 | 3 | 50

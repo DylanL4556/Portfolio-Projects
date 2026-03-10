@@ -1,0 +1,168 @@
+Music |
+AS |
+A-E |
+3 |
+MUSC A173 |
+|
+Physical Education |
+A |
+A-E |
+3 |
+EXSC A101 |
+|
+Physical Education |
+AS |
+A-E |
+3 |
+EXSC A101 |
+|
+Physics |
+A |
+A-C |
+8 |
+PHYS A211 and PHYS A212 |
+|
+Physics |
+A |
+D-E |
+4 |
+PHYS A211 |
+|
+Physics |
+AS |
+A-E |
+4 |
+PHYS A211 |
+|
+Politics |
+A |
+A-E |
+6 |
+POLI A201 and POLI A122 |
+|
+Politics |
+AS |
+A-E |
+3 |
+POLI A201 |
+|
+Portuguese |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Portuguese - Language |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Psychology |
+A |
+A-E |
+3 |
+PSYC A101 |
+|
+Psychology |
+AS |
+A-E |
+3 |
+PSYC A101 |
+|
+Sociology |
+A |
+A-E |
+3 |
+SOCY A101 |
+|
+Sociology |
+AS |
+A-E |
+3 |
+SOCY A101 |
+|
+Spanish |
+A |
+A-B |
+9 |
+SPAN A101, SPAN A102 and SPAN A210 |
+|
+Spanish |
+A |
+C-D |
+6 |
+SPAN A101 and SPAN A102 |
+|
+Spanish |
+A |
+E |
+3 |
+SPAN A101 |
+|
+Spanish Language |
+AS |
+A-C |
+6 |
+SPAN A101 and SPAN A102 |
+|
+Spanish Language |
+AS |
+D-E |
+3 |
+SPAN A101 |
+|
+Spanish Literature |
+AS |
+A-E |
+3 |
+SPAN A101 |
+|
+Tamil |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Tamil |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Tamil - Language |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Thinking Skills |
+A |
+A-E |
+3 |
+PHIL A001T |
+|
+Thinking Skills |
+AS |
+A-E |
+3 |
+PHIL A001T |
+|
+Travel & Tourism |
+A |
+A-E |
+3 |
+ELEC A001T |
+|
+Travel & Tourism |
+AS |
+A-E |
+3 |
+ELEC A001T |
+|
+Urdu |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|

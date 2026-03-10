@@ -1,0 +1,61 @@
+Dr. Alexandra Roach Lab | USCA
+https://www.usca.edu/research/undergraduate-research/dr-alexandra-roach-lab/
+The PANE Lab: Pain, Affect, Neuromodulation, & Electrophysiology
+We investigate how stress, anxiety, and pain are affected by mindfulness and neuromodulatory techniques. Using electrophysiological equipment, we measure stress biomarkers. Our goal is to improve stress, anxiety, and pain management through neuromodulatory methods like vagal nerve stimulation, which we achieve through deep breathing exercises.
+Current project:
+Measuring mindfulness with electrophysiology: A pain perception study.
+This project is currently being funded by a Magellan Scholar Grant.
+Skills
+Students participating in undergraduate research in my laboratory have an opportunity to learn some combination of the following skills:
+- data collection involving human subjects
+- measuring affect (stress, anxiety, depression)
+- investigating effects of mindfulness and stress reduction techniques
+- measuring physiological markers related to stress such as heart rate variability (HRV) and electrodermal activity (EDA)
+- high-definition transcranial direct current stimulation (HD-tDCS)
+- neuromodulatory effects of brain stimulation on affect including depression
+- pain management and pain empathy
+- data processing (filtering, artifact removal, interpolation)
+- data analysis
+Examples of past projects and presentations:
+- Observable differences in physiological markers of respiratory vagal nerve stimulation in deep breathing mindfulness training? 32st Annual Meeting of the Cognitive Neuroscience Society (CNS), Boston, MA. 2025
+- Mindfulness Without Imagery: Mindfulness Interventions for Individuals with Aphantasia. 32st Annual Meeting of the Cognitive Neuroscience Society (CNS), Boston, MA. 2025
+- Pet the Pain Away. 31st Annual Meeting of the Cognitive Neuroscience Society (CNS), Toronto, ON, Canada. 2024.
+- COVID-19 and its Effects on Executive Function, Mood, and Anxiety. 30th Annual Meeting of the Cognitive Neuroscience Society, San Francisco, CA. 2023.
+- Comorbidity of Anxiety and Depression and the Impact on Cognitive Control Dysfunctions: A Review. USC Aiken 14th Annual Scholar Showcase, Aiken, SC. 2020.
+- Noninvasive Brain Stimulation and Its Role in Reducing Anxiety: An HD-tDCS Review. USC Aiken Summer Scholars Institute Summer Symposium, Aiken, SC. 2020.
+- Effects of high definition transcranial direct current stimulation on inhibitory control. USC Aiken Summer Scholars Institute Summer Symposium, Aiken, SC. 2019.
+- Anxiety, inhibitory control and attentional control using virtual reality technology. 65th Annual meeting of Southeastern Psychological Association (SEPA), Jacksonville, FL. 2019.
+- Effects of high definition transcranial direct current stimulation on inhibitory control. 48th Annual Meeting of the Society for Neuroscience (SfN), San Diego, CA. 2018.
+- Vascular risk factors for diabetes in late adolescents and young adults, an assessment of working memory. 25th Annual Meeting of the Cognitive Neuroscience Society (CNS), Boston, MA.
+- The effects of vascular risk factors on inhibitory control in cognitively healthy young
+- Childhood emotional invalidation and right hemispheric involvement during a pain empathy task: An EEG study. 8th Annual Meeting of the Society for Social Neuroscience (S4SN), Washington DC. 2017.
+- Efficacy of routine TMS for refractory depression in Active Duty Service Members in a DoD outpatient behavioral health clinic. 9th Annual Meeting of the Military Health System Research Symposium (MHSRS), Kissimmee, FL. 2017.
+About the Professor
+Dr Alexandra Roach
+PhD in Cognitive Neuroscience, University of California Davis ‘14
+MS in Experimental Psychology, Western Washington University ‘07
+BA in American Studies, Pomona College ‘94
+Courses Taught
+Applied Neuroscience for the Mental Health Professional (Graduate course)
+Neuroscience with Lab
+Psychopharmacology
+Neurobiology of Stress
+Cognitive Psychology with Lab
+Senior Reflective Capstone
+Current Lab Members
+Star Boyd
+Aihnoa Colino
+Lansley Macgargle
+Malia Patten
+Rayne Szilveszter
+Former Lab Members
+Dr Mason Rodriguez
+Dr Juliette Seremak
+Dr Jessie Light Weber
+Taylor Coleman
+Deja Daniels
+Kevin Jones
+Maddison Lindsey
+Heather Nall
+Destiny Smith
+Kiamondi Thomas

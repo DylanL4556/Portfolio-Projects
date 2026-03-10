@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+
+<body>
+
+    <!--navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark fixed-top" style="padding-bottom: 2vh;">
+        <div class="topBarCont" style="height: 40px;">
+
+            <!--title-->
+            <p class="h1" style="position: absolute; font-size: 36; color: white; margin-bottom: 8px;">GualMarte</p>
+
+            <!--login button-->
+            <span class="navbar-text">
+                <a href="#" class="btn btn-primary login-icon" id="navbtn" style="position: absolute; left: 95w; top: .5vw;">Login</a>
+            </span>
+
+            <!--other buttons go here. (when user loaded: cart button, plus icon on items div.)-->
+        </div>
+    </nav>
+
+    <!--First shop pane for tech items-->
+    <div class="shop-container" id="shopContainer">
+        <div class='select-bar' style="display: flex; align-items: center; justify-content: center;">
+            <p style="font-size: 30px; font-weight: bold; display: flex; align-items: center; justify-content: center; color: #343a40;">
+                GualMarte Shop
+            </p>
+        </div>
+        
+        <div class="select-bar">
+            <div class="selectorbtn" id="tag-selectorTrending" name="trendng-items">
+                <h9 style="font-size:20px; display: flex; justify-content: center; align-content: center; padding-top: 3%">
+                    Trending Products
+                </h9>
+            </div>
+            
+            <div class="selectorbtn" id="tag-selectorTech" name="tech-items">
+                <h9 style="font-size:20px; display: flex; justify-content: center; align-content: center; padding-top: 3%">
+                    Tech Products
+                </h9>
+            </div>
+            
+            <div class="selectorbtn" id="tag-selectorCleaning" name="cleanng-items">
+                <h9 style="font-size:20px; display: flex; justify-content: center; align-content: center; padding-top: 3%">
+                    Cleaning Products
+                </h9>
+            </div>
+            
+            <div class="selectorbtn" id="tag-selectorPet" name="pet-items">
+                <h9 style="font-size:20px; display: flex; justify-content: center; align-content: center; padding-top: 3%">
+                    Pet Products
+                </h9>
+            </div>
+            
+            <div class="selectorbtn" id="tag-selectorFood" name="food-items">
+                <h9 style="font-size:20px; display: flex; justify-content: center; align-content: center; padding-top: 3%">
+                    Food Products
+                </h9>
+            </div>
+            
+            <div class="selectorbtn" id="tag-selectorSport" name="sport-items">
+                <h9 style="font-size:20px; display: flex; justify-content: center; align-content: center; padding-top: 3%">
+                    Sporting Products
+                </h9>
+            </div>
+        </div>
+        <button class="refreshshop" id="refreshShop">Refresh</button>
+        <button class="add-items" id="additemsBtn">Add Items To Sell</button>
+        <div id="customContainer">
+           
+        </div>
+        
+        
+
+    </div>
+
+    <!--add item popup-->
+    <div class="container" style="position:fixed; top: 10vh; left: 22vw;" id="itemForm">
+        <div class="card">
+
+            <div class="card-header">
+                <h5 class="card-title">Sell Item</h5>
+                <button style="margin-top: -20px;" type="button" class="close" aria-label="Close" id="closeBTN">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+
+            <div class="card-body">
+                <form id="itemUploadForm">
+
+                    <div class="form-group">
+                        <label for="itemNameInput">Item Name</label>
+                        <input type="text" class="form-control" id="itemNameInput" placeholder="Enter item name">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="itemImgInput">Item Image File</label>
+                        <input type="file" class="form-control-file" id="itemImgInput" accept=".jpg, .jpeg, .png" required>
+                        <!--<input type="file" class="form-control-file" id="itemImgInput">-->
+                    </div>
+
+                    <div class="form-group">
+                        <label for="itemPriceInput">Item Price</label>
+                        <input type="text" steps="any" class="form-control" id="itemPriceInput"
+                            placeholder="Enter item price ###.##">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="itemDescriptionInput">Item Description</label>
+                        <textarea class="form-control" id="itemDescriptionInput" rows="3"
+                            placeholder="Enter item description"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="itemQuantityInput">Item Quantity</label>
+                        <input type="number" class="form-control" id="itemQuantityInput"
+                            placeholder="Enter item quantity">
+                    </div>
+
+                    <div class="form-group">
+
+                        <label>Item Categories</label>
+                        <div id="itemCategoriesInput" class="btn-group" data-toggle="buttons">
+
+                            <div class = "selectCats" id="itemTagBtnTech" name="tech-items">
+                                Tech Products
+                            </div>
+                            <div class = "selectCats" id="itemTagBtnCleaning" name="cleanng-items">
+                                Cleaning Products
+                            </div>
+                            <div class = "selectCats" id="itemTagBtnFood" name="food-items">
+                                Food Products
+                            </div>
+                            <div class = "selectCats" id="itemTagBtnTrending" name="trendng-items">
+                                Trending Products
+                            </div>
+                            <div class = "selectCats" id="itemTagBtnSport" name="sport-items">
+                                Athletic Products
+                            </div>
+                            <div class = "selectCats" id="itemTagBtnPet" name="pet-items">
+                                Pet Products
+                            </div>
+
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary" href="">Submit</button>
+                </form>
+            </div>
+
+        </div>
+    </div>
+    <!-- need to restyle the lgn pane still: -->
+    <!--login pane-->
+    <div class="card centered opac-trans" id="lgn-pane" style="width: 21.9vw; height: 50vh; position: fixed; top: 1vh; right: 1vw;" >
+
+        <div class="card-body" id="card-body" style="overflow-y: scroll;">
+            <h5 class="card-title text-center mb-4">Login</h5>
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="email">Email or Username</label>
+                    <input type="text" class="form-control" id="email" placeholder="Enter email or username">
+                    <!--user input-->
+                </div>
+                <div class="form-group" id="last-div-in-scope.">
+                    <label for="password">Password</label>
+                    <div class="input-group">
+                        <input type="password" class="form-control" id="password" placeholder="Password">
+                        <!--pw input-->
+                        <div class="input-group-append">
+                            <!--btn for toggling pw visibility-->
+                            <button class="btn btn-outline-secondary eye-slash" id="pwbtn" type="button">
+                                <i class="fa fa-eye-slash"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!--do signup form here-->
+                <!--dont change old stuff just add pw verif, and other things-->
+                
+
+
+
+
+                <!--login btn-->
+
+                <button type='button' class="btn btn-primary btn-block" id='lgnBtn'>Login</button>
+            </form>
+            <div class="text-center mt-3">
+                <!--signup btn-->
+                <button type="button" class="btn btn-link">Sign Up</button>
+            </div>
+            <!--for js (vvv)-->
+            <p id="verifDisplay">
+
+            </p>
+            <p id="incorrectLogin-div" class="incorrectLogin" style="opacity: 0; position: relative;">Incorrect
+                Username or Email, Please try again.</p>
+            <p id="testing scroll">
+            </p>
+        </div>
+    </div>
+
+
+
+
+    <!--overlay-->
+
+
+
+    <!-- ------------------------------------------------------------------------------                        scripts:                    -------------------------------(tired of scrolling past this)---------------------------- -->
+    <!-- jquery, popper, bootstrap-->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+        </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+        </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+        </script>
+    <script type="module" src="js/initModule.js" crossorigin="anonymous">
+
+    </script>
+</body>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

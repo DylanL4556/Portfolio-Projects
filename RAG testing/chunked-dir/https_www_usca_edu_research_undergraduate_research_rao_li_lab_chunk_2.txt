@@ -1,0 +1,10 @@
+. Li, A. Daga, V. Gupta, M. Mishra, S. Sahu, and A. Sinh, Minimum Degree and Size Conditions for Hamiltonian and Traceable Graphs, Fundamental Journal of Mathematics and Applications 1 (2018), 191-193.
+- Rao Li and Megan M. Taylor, The First Zagreb Index and Some Hamiltonian Properties of the Line Graph of a Graph, Journal of Discrete Mathematical Sciences and Cryptography 20 (2017), 445-451.
+- Rao Li, R. Shick, and D. Smiley, An Algorithm for the Constrained Heaviest Common Subsequence Problem, Congressus Numerantium 174 (2005), 123-128.
+- An Android phone app: Discrete Mathematics in Your Hands. https://play.google.com/store/apps/details?id=com.dismathinyourhands.mathprojectraoli
+- The web version of an Android phone app: Discrete Mathematics in Your Hands.
+- Interactive Isotopes App hosted by American Nuclear Society. https://isotopes.ans.org/
+Additional Publications
+Contact Us
+Center for Research Excellence Co-Coordinator
+Center for Research Excellence Co-Coordinator

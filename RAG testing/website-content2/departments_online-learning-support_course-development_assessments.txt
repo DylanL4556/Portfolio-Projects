@@ -1,0 +1,25 @@
+Assessments | USCA
+https://www.usca.edu/departments/online-learning-support/course-development/assessments/
+Assessment Strategy Resources
+Stumped on new ways to assess your students? Review the following resources to see what institutions are doing.
+-
+Classroom Assessment Strategies
+The University of Tennessee Chattanooga -
+Assessing Student Learning Outcomes in an Online Environment
+Rochester Institute of Technology, Office of Educational Effectiveness Assessment -
+The Eberly Center for Teaching Excellence and Educational Innovation
+Carnegie Mellon University
+Building Exams in Microsoft Word to Import Into Blackboard
+Rather than enter your exam questions into Blackboard one at a time, there are exam generator options that can help streamline building your exams.
+-
+Familiarize yourself with the Test Generator file for instructions on formatting exam questions.
+-
+Use this exam_template.txt to create your exam questions.
+-
+Use the BYU Generator to paste your exam questions in order to get the plain text file that will be imported into Blackboard (see sample file:example_template_bb.txt).
+-
+Reference the Test Surveys and Pools handout if you need instructions on creating assessments in Blackboard.
+Proctoring Strategies
+- For on-ground proctoring strategies, edit the Proctoring Instructions and Form to fit your needs.
+Respondus LockDown Browser
+The Respondus Lockdown Browser is a site-licensed application for USC. The browser is used to increase the integrity of your online exams. While in use, students are prohibited from using any other application or resource on their computer until they have completed the exam. Use the following references to include the Respondus Lockdown Browser in your course:

@@ -1,0 +1,37 @@
+. You may retake any portion of the test only once.
+All students begin with Algebra Test Part I. Please click the following link “Take Me to the Test” to log into blackboard. Once you log in, under My Organization, click USCA Math Placement Test. Carefully read all instructions on the Announcement page before beginning the test.
+What does my score mean?
+USCA Math Placement Test Score Interpretation on Self Service Aiken
+|
+Algebra Test Result |
+Attained Prerequisites |
+The student may take any of the courses listed below appropriate for the major. |
+|
+3 or lower |
+Student must complete MATH A108 with a grade of C or better as a prerequisite to other math courses in the major. |
+MATH A108 |
+|
+4 |
+Student has the MATH A108 prerequisite. |
+Any of the above courses and/or: MATH A122, MATH A170, MATH A111, MATH A112, MATH A222, STATS A201 |
+Students with MPT Code 4 whose major requires MATH A141 (Calculus I) should also take Trigonometry Test.
+|
+Algebra Test Result |
+Trigonometry Test Result |
+Attained Prerequisites |
+The student may take any of the courses listed below appropriate for the major. |
+|
+5 |
+— |
+Student has the MATH A111 prerequisite. |
+Any of the above courses |
+|
+4 |
+P |
+Student has the MATH A112 prerequisite. |
+Any of the above courses |
+|
+5 |
+P |
+— |
+* Students with MPT Codes 5 and P may enroll in MATH A141 (Calculus I) |

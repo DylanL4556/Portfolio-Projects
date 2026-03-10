@@ -1,0 +1,112 @@
+Center for Cyber Initiatives, Awareness and Artificial Intelligence
+The CCIA-AI at USCA is dedicated to advancing cybersecurity and artificial intelligence education, workforce development, and community outreach. We are shaping the next generation of cybersecurity leaders—through education, research, and regional impact.
+Our Mission & Purpose
+The CCIA-AI at USCA unites the university’s cyber curriculum, initiatives, and partnerships to:
+- Advance cybersecurity and artificial intelligence education
+- Develop an educated, job-ready cyber workforce
+- Drive applied research to address regional and national cyber needs
+- Sustain USCA’s NSA Center of Excellence in Cyber Defense (NSA-CAE CD) designation
+- Promote cyber awareness and workforce development throughout South Carolina and beyond
+Who We Are
+Our center is led by:
+- Distinguished cyber faculty and a dedicated Cyber Director
+- The Department of Computer Science, Engineering, and Mathematics
+Together, we have:
+- Earned the prestigious NSA-CAE CD designation for USCA
+- Developed a rigorous, NSA-aligned cyber curriculum
+- Created comprehensive co-curricular activities for student success
+Our Unique Approach
+CCIA-AI stands out for:
+Infusing AI and machine learning tools across cybersecurity and software engineering courses, preparing students for the future of tech
+Programs built on computer science and cybersecurity fundamentals, with a strong focus on practical experience
+Students gain hands-on skills through:
+- Internships
+- Research projects
+- Industry capstone experiences
+- Participation in our student-led Security Operations Center (SOC)
+Recommending and developing cutting-edge cyber curriculum in collaboration with department leadership
+Community Engagement & Collaboration
+CCIA-AI is deeply committed to building cyber awareness and promoting workforce development across our region and state. Our efforts include:
+Hosting educational programs to inform the public about current cybersecurity issues
+- Inspiring K-12 students through targeted cyber education and activities
+- Coordinating and participating in K-12 events with the Computer Science Department, college, faculty, and the Ruth Patrick Science Education Center
+- Establishing and running multiple GenCyber summer camps at USC Aiken
+- Participating in NSA CAE-designated K-12 and workforce development programs
+- Working with regional industry, K-12 institutions, and regional facilities such as SRNS, SRNL, and the US Army Cyber Center of Excellence (CCofE)
+- Collaborating with the SC National Guard Cyber Readiness Center and the Advanced Manufacturing Center (AMC) as they come online at USCA
+Cyber Faculty Citations & Scholarship
+Research Interests
+Machine Learning and Reinforcement Learning Applications; Cybersecurity attack detection in smart grids; Adversarial Machine Learning; Privacy preservation in smart grid networks; Federated Learning; 6G and wireless networks.
+Journal Publications
+- Interpretable detector secure against stealthy false power consumption attacks, IEEE Transactions on Network and Service Management, 2025.
+- Repetitive backdoor attacks and countermeasures for smart grid reinforcement incremental learning, IEEE Internet of Things Journal, vol. 12, no. 3, 2025.
+- A trojan attack against smart grid federated learning and countermeasures, IEEE Access, vol. 12, 2024.
+- False data injection attacks on reinforcement learning-based charging coordination in smart grids and a countermeasure, Applied Sciences, vol. 14, no. 23, 2024.
+- Investigating Robust Reinforcement Learning Models for Securing Smart Grids, PhD Thesis, Tennessee Technological University, 2024.
+- Countering evasion attacks for smart grid reinforcement learning-based detectors, IEEE Access, vol. 11, 2023.
+- Electricity theft detection using deep reinforcement learning in smart power grids, IEEE Access, vol. 11, 2023.
+- Enhancing the performance of low-priority secondary users using reserved channels in CRNs, IEEE Wireless Communications Letters, vol. 9, no. 4, 2019.
+- QoS-driven channel allocation schemes based on secondary users’ priority in cognitive radio networks, International Journal of Wireless and Mobile Computing, vol. 11, no. 2, 2016.
+Conference Publications
+- AI-Driven Cybersecurity in Intelligent Transportation Systems: A Comprehensive Survey of Threats, Defenses, and Future Directions, ICIPS, 2025.
+- The Quantum Countdown: How Healthcare Can Achieve Crypto-Agility Before Q-Day, ICIPS, 2025.
+- Securing smart grids: A deep reinforcement learning approach for detecting cyber-attacks, SmartNets, 2024.
+- Evasion attacks in smart power grids: A deep reinforcement learning approach, IEEE CCNC, 2024.
+- Secured cluster-based electricity theft detectors against black-box evasion attacks, IEEE CCNC, 2024.
+- Performance analysis of opportunistic access based on secondary users’ priority, NRSC, 2017.
+Research Interests
+Network Security; Hybrid Host and Network Security; Security in Programmable Networks; Intrusion Detection and Prevention using Machine Learning; Security in Critical Infrastructure (ICS/SCADA); Generative AI Security and Adversarial Machine Learning.
+Publications
+- A Survey on Security Applications of P4 Programmable Switches and a STRIDE-based Vulnerability Assessment, CE Cyberinfrastructure, 2022.
+- A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions, IEEE Access, 2024.
+- P4ddpi: Securing P4-programmable Data Plane Networks via DNS Deep Packet Inspection, NDSS Symposium, 2022.
+- Exploiting Ransomware Paranoia for Execution Prevention, IEEE ICC, 2020.
+- A Blockchain-based Method for Decentralizing the ACME Protocol to Enhance Trust in PKI, International Conference on Telecommunications and Signal Processing, 2020.
+- On DGA Detection and Classification Using P4 Programmable Switches, Computers & Security, 2024.
+- Effective DGA Family Classification Using a Hybrid Shallow and Deep Packet Inspection Technique on P4 Programmable Switches, IEEE ICC, 2023.
+- Domain Name Security Inspection at Line Rate: TLS SNI Extraction in the Data Plane Using P4 and DPDK, IEEE ICC, 2025.
+- Leveraging SONiC Functionalities in Disaggregated Network Switches, International Conference on Telecommunications and Signal Processing, 2020.
+- Security Applications in P4: Implementation and Lessons Learned, Computer Networks, 2025.
+- Enabling Line-rate TLS SNI Inspection in P4 Programmable Data Planes, IEEE NOMS, 2025.
+- A Survey on Security Applications with SmartNICs: Taxonomy, Implementations, Challenges, and Future Trends, Journal of Network and Computer Applications, 2025.
+- Enhancing Visibility on a Science DMZ with P4-perfSONAR, Journal of Network and Computer Applications, 2025.
+- Real-time Flow Statistics Collection Using RDMA and P4 Programmable Data Planes, IEEE ICC, 2025.
+- perfSONAR: Enhancing Data Collection Through Adaptive Sampling, IEEE NOMS, 2024.
+- Toward Fingerprinting Encrypted C2 Traffic in the Data Plane, IEEE GLOBECOM, 2025.
+- Optimizing Network Resilience Using Domain-Specific Hardware Accelerator for Dynamic Programming, SC’25 Workshops of the International Conference for High Performance Computing, 2025.
+- Evaluating Encryption Overhead and Offload Techniques in High-Speed Data Transfers, IEEE International Black Sea Conference on Communications and Networking, 2025.
+- Offloading Encrypted C2 Traffic Mitigation to SmartNICs, IEEE International Black Sea Conference on Communications and Networking, 2025.
+- Enhancing the Security in High-Speed Networks Using P4 Programmable Switches, University of South Carolina, 2024.
+- Design and Deployment of a Testbed for SmartNIC and Programmable Data Plane Experimentation, SmartNIC/Programmable Data Plane Testbed Workshop
+A Testbed to Evaluate Next-Generation Security Solutions in Cyber-Physical Systems Using Hardware Acceleration, Cyber-Physical Systems Security Workshop
+Publications
+- Assessing the Cybersecurity Vulnerabilities of SCADA-based Smart Agriculture, IEEE ICMI, 2026.
+- AI-Driven Cybersecurity in Intelligent Transportation Systems: A Comprehensive Survey of Threats, Defenses, and Future Directions, ICIPS, 2025.
+- The Quantum Countdown: How Healthcare Can Achieve Crypto-Agility Before Q-Day, ICIPS, 2025.
+- Ensemble Learning-Based Channel Prediction for Real-World Indoor 6G WiGig Networks, IEEE VTC-Fall, 2025.
+- Sensing and Vision-Aided Wireless Communication for Indoor 6G Networks, IEEE VTC-Fall, 2025.
+- Generalizable Deep Reinforcement Learning-Based Intelligent Handover in Indoor WiGig Networks, IEEE VTC-Fall, 2025.
+- How Can Integrated Sensing and Communication Enable Generalizable Learning in 6G Networks?, IEEE Network, 2025.
+- Deep Learning-Based Physical Layer Authentication in LiFi Networks Under Mobility, SoutheastCon, 2025.
+- Concept Drift-Aware Wireless Key Generation in Dynamic LiFi Networks, IEEE Open Journal of the Communications Society, 2025.
+- Communication-Aided Terahertz Sensing for Indoor People Counting, IEEE VCC, 2024.
+- Occupancy-Level Aware Indoor Terahertz Channel Prediction, IEEE VTC-Fall, 2024.
+- Robust Deep Learning-Based Indoor mmWave Channel Prediction Under Concept Drift, IEEE VTC-Fall, 2023.
+- Multi-device Multi-task Computation Offloading in D2D Communication, Wireless Personal Communications, 2022.
+- Multidimensional Auction for Task Allocation Using Computation Offloading in 5G Networks, Future Generation Computer Systems, 2020.
+Publications
+- A Comprehensive Comparative Analysis of RFID Devices Security in Supply Chain Geofencing Technologies, IEEE ISDFS, 2025.
+- Critical Factors for Privacy and User Retention in Event-Based Social Media Apps, IEEE ISDFS, 2025.
+- Malware Exploitation and Vulnerability Assessment of CVE-2024-38063 in Windows Networks, IEEE ISDFS, 2025.
+- Advancing Network Threat Detection Through Dynamic Ensemble Learning, IEEE SoutheastCon, 2025.
+- Exploring Security Vulnerabilities in ChatGPT Through Jailbreak Evaluation, IEEE ICCA, 2024.
+- Machine Learning-Enhanced Detection for QR Code Email Threats, Cyber Awareness and Research Symposium, 2024.
+- Exploring ICS SCADA Network Vulnerabilities, HCII – Lecture Notes in Computer Science, 2024.
+- Examination of Artificial Intelligence Integration in Higher Education, IEEE ISDFS, 2024.
+- Security and Privacy Threats Posed by IoT Devices on College Campuses, IEEE ISDFS, 2024.
+- Leveling Up: Survey of Nation-State Cyber Operations, IEEE ISDFS, 2023.
+- Importance of Cybersecurity in Supply Chain, IEEE ISDFS, 2023.
+- Survey of Cybersecurity Awareness Among College Students, IEEE ISDFS, 2023.
+- The Evolution of Cryptocurrency and Cyber Attacks, IEEE ICCA, 2022.
+- Cybersecurity Maturity Model Certification Initial Impact on the Defense Industrial Base, Journal of Information Systems Applied Research, 2022.
+- An Engineering Management Approach to Capital Funding for Technology Start-Ups, George Washington University, 2018.

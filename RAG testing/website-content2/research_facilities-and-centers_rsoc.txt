@@ -1,0 +1,26 @@
+RSOC | USCA
+https://www.usca.edu/research/facilities-and-centers/rsoc/
+Regional Security Operation Center
+Purpose
+Cyberattacks can devastate local governments, disrupting or losing critical infrastructure, high recovery costs, legal fees, and long-term reputational damage. These impacts can severely affect small and mid-sized governments and organizations, eroding public trust and straining relationships with constituents, thereby hindering their success.
+Smaller governments and organizations often face unique cybersecurity challenges, such as limited budgets and a lack of skilled personnel to secure their networks effectively. This vulnerability makes them prime targets for cyberattacks. To safeguard our communities, new resources and models must be developed. Government agencies like Homeland Security, the Federal Bureau of Investigation, and the National Security Agency emphasize the need for institutions like the USCA to play a more significant role in protecting our digital assets.
+Partner with USCA
+USCA collaborates with small and mid-sized governments, municipalities, school districts, critical infrastructure facilities, and businesses to strengthen our region’s cybersecurity posture and build public trust.
+We offer a cost-effective suite of services, including network monitoring, incident response, pre-incident planning, and recovery. Our team will create a tailored plan to address critical vulnerabilities and adapt to the evolving cybersecurity landscape.
+Partnering with USCA provides access to cutting-edge technology and the latest research advancements. Additionally, USCA is recognized as a National Security Agency Center of Academic Excellence in Cyber Defense and will soon host a South Carolina National Guard cybersecurity complex valued at over $30 million.
+Students earn while they learn by running the Regional Security Operations Center (RSOC) for external clients that need help with cybersecurity.
+Our Approach
+Our client teams consist of seasoned information technology professionals supported by an elite group of USC Aiken students and faculty specializing in cybersecurity and information technology. These teams offer near round-the-clock monitoring, along with mitigation and response services.
+Our clients are forward-thinking, community-focused leaders who drive the growth and prosperity of our region by partnering with USC Aiken. By securing a cost-effective solution and investing in a more secure future, our clients also provide opportunities to educate and train the next generation of cybersecurity professionals, creating immeasurable economic benefits for our region.
+Services Offered
+The Regional Security Operations Center offers a comprehensive suite of cybersecurity services, including:
+- Pre-incident planning and assessment
+- Network scans
+- Network maintenance
+- Incident intervention
+- Investigation
+- Recovery assistance
+Information Technology consultation
+Contact Chris Clark, IT Director
+Phone: (803) 641-3680
+Email: chrisac@usca.edu

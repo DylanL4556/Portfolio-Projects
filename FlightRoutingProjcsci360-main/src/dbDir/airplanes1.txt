@@ -1,0 +1,4 @@
+Boeing,777,Turbofan,45000,1980,556
+Boeing,747,Jet,12474,1795,556
+Airbus,A320,Jet,15698,3400,564999
+Boeing,Shittyplane,Jet,10000,100,500

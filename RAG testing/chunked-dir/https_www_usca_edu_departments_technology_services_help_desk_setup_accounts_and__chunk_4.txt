@@ -1,0 +1,4 @@
+.)
+- Password: Your email uses your Pacer Account password. (Wait at least 5-minutes after reset before signing into Office 365.)
+IMPORTANT: Before setting up your @usca.edu email account on a mobile device, or in any other email client, first complete setup by signing into Office 365 and clicking the Outlook icon.
+For more information on your @usca.edu email account and your Office 365 benefits, please visit the Office 354 page.

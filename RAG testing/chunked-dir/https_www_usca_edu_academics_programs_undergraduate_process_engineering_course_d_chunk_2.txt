@@ -1,0 +1,18 @@
+ dimensional analysis, open channel flow, lift, and drag. Introduction to turbulent flow.
+ENCP 361 - Instrumentation, Measurements, & Statistics (3)
+(Prereq: STAT 509 with a grade of C or better, ENCP 260 with a grade of C or better, PHYS 211 with a grade of C or better, and PHYS 212 with a grade of C or better) Principles of measurement, analysis of data, experimental planning. Correlations of experimental data, experimental variance, and uncertainty analysis. Lab and lecture.
+ENCP 371 Engineering Materials (3)
+(Prereq: ENCP 260 with a grade of C or better) Structure and properties of engineering metals, ceramics, and polymers; atomic bonding, crystalline structures and microstructures; mechanical behavior and deformation mechanisms; processes for controlling structures and properties; corrosion.
+BADM 371 Principles of Management and Leadership (3)
+A comprehensive survey of the basic principles of management and leadership applicable to all forms of business. The course provides the student with a basis for thinking about complex business situations in the framework of analysis of the management and leadership process.
+Spring Semester
+ENCP 310 Dynamics (3)
+(Prereq: ENCP 200 with a grade of C or better) Kinematics of particles and rigid bodies. Kinetics of particles, emphasis on Newton’s second law, energy and momentum methods for solving problems. Applications of plane motion of rigid bodies.
+ENCP 327 - Design of Mechanical Elements (3)
+(Prereq: ENCP 260 with a grade of C or better) Design against static failure and fatigue failure of structural members and machine parts: design and selection of components including fasteners, welds, shafts, springs, gears, bearings, and chain drives.
+ENCP 334 - Quality Control and Planning (3)
+(Prereq: STAT 509 with a grade of C or better). Introduction to quality management philosophies, tools, and approaches. Six Sigma philosophy, roadmap, tools, and techniques of planning and executing quality improvement programs and the LEAN continuous improvement approach that focuses on reducing waste. Application of Design for Six Sigma approach to design or improve products and processes.
+Year 4
+Fall Semester
+ENCP 316 Control Systems (3)
+(Prereq: MATH 242 with a grade of C or better, ELCT 221 with a grade of C or better). An introduction to closed-loop control systems

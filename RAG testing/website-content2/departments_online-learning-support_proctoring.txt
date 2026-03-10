@@ -1,0 +1,47 @@
+Proctoring | USCA
+https://www.usca.edu/departments/online-learning-support/proctoring/
+Notice to students using Respondus Lockdown browser and monitor
+If USCA students have issues with Respondus Lockdown Browser, please review Respondus Student Resources or contact Respondus Support. Please note that Chromebooks are not supported by Respondus, but you may contact the USCA Help Desk for more information about taking Respondus exams in USC Aiken's 24-hour access computer labs.
+Notice to Instructors using Online Proctoring Services Respondus Monitor or ProctorU
+The USCA now offers two options for proctoring services to improve efforts in student authentication while retaining the same levels of academic integrity of examinations in our classrooms. USCA will continue to utilize the Respondus Lockdown Browser and Respondus Monitor tools built within Blackboard. The university also has access to ProctorU proctoring services. ProctorU does have a pricing structure associated with the service, and that information will be required in your syllabi and online courses to prepare students for these additional costs. The Respondus Lockdown Browser and Monitor will remain free for all Blackboard courses.
+Use of Respondus Lockdown Browser and Monitor
+Courses that use video recording during exams with Respondus Monitor will now be free for students to use for unlimited exams in all courses. Students must acquire a webcam and laptop for courses that use Respondus Monitor for examinations.
+Is Respondus LockDown Browser Software required?
+Yes. Respondus Monitor is a "companion product" for Respondus LockDown Browser and cannot be used without the LockDown Browser. Students must download the Respondus Lockdown Browser to access associated exams.
+How do Students Download the Respondus LockDown Browser Software?
+SYLLABUS VERBIAGE: Please utilize the information below to add to your syllabus or course information.
+To use Respondus LockDown Browser and Monitor, you will need a high-speed internet connection, a webcam (internal or external), a Windows or Apple Operating System, and a photo ID. You must download the Respondus Lockdown Browser to access and take associated exams. The webcam can be built into your computer or can be the type that plugs in with a USB cable. Watch this short video to get a basic understanding of LockDown Browser and the webcam feature. A student Quick Start Guide is also available.
+First, download and install USCA's Respondus LockDown Browser for PC or Mac here.
+What do Students Need to Know Before Taking an Exam with Respondus?
+When taking an online exam that requires LockDown Browser and a webcam, remember the following guidelines:
+- Ensure you're in a location where you won't be interrupted.
+- Turn off all other devices (e.g. tablets, phones, second computers) and place them outside of your reach.
+- Clear your desk of all external materials not permitted — books, papers, and other devices.
+- Before starting the text, know how much time is available for it, and that you’ve allotted sufficient time to complete it.
+- Remain at your computer for the duration of the test.
+- If the computer or networking environment is different than what was used previously with the Webcam Check and System & Network Check in LockDown Browser, run the checks again before starting the test.
+- To produce a good webcam video, do the following:
+- Avoid wearing baseball caps or hats with brims.
+- Ensure your computer or tablet is on a firm surface (a desk or table). Do NOT have the computer on your lap, a bed or other surface where the device (or you) are likely to move.
+- If using a built-in webcam, avoid tilting the screen after the webcam setup is complete.
+- Take the exam in a well-lit room and avoid backlighting, such as sitting with your back to a window.
+- Remember that LockDown Browser will prevent you from accessing other websites or applications; you cannot exit the test until all questions are completed and submitted.
+To ensure LockDown Browser and the webcam are set up properly, do the following:
+- Open the Respondus LockDown Browser icon on your desktop, log into Blackboard, and select your course.
+- Locate and select the Help Center button on the LockDown Browser toolbar.
+- Run the Webcam Check and, if necessary, resolve any issues.
+- Run the System & Network Check. If a problem is indicated, see if a solution is provided in the Knowledge Base. Troubleshooting information can also be emailed to the USCA help desk.
+- Exit the Help Center and locate the exam.
+- Upon completing and submitting the exam, exit LockDown Browser.
+Student Purchase of ProctorU Proctoring
+The use of ProctorU proctoring services is only recommended for no more than two exams per course (e.g. mid-term and/or final exams) because the cost is per individual exam. The following are the listed options, so please choose the most cost-effective for your proctoring needs:
+Auto (recommended)
+Description: Fully automated exam proctoring with all activity recorded end-to-end. Videos and incidents are immediately available for USCA faculty review. Cost: $3 per exam.
+Auto with Review (recommended)
+Description: Fully automated exam proctoring with all activity recorded end-to-end. Exams are reviewed by ProctorU, and a report is sent to instructors within 24 hours if there are academic integrity incidents. Cost: $4 for a 1-hour exam, $6 for 2 hours, $8 for 3 hours, $10 for 4 hours.
+Live Launch with Review
+Description: Exams are launched by a live proctor for authentication purposes, but the proctor drops once the exam begins. All activity is recorded from start to finish. Exam videos are reviewed by a ProctorU proctor, and a report is sent to instructors within 24 hours if there are any academic integrity incidents. Cost: $8 for a 1-hour exam, $10 for 2 hours, $12 for 3 hours, $14 for 4 hours.
+Instructor Support for ProctorU
+ProctorU supports its product, and the Office of Distance Learning can provide some limited administrative support. If there are instructors who would like to use ProctorU, they can create an account here. Once they create an account, a faculty rep will reach out within an hour to schedule a 15-minute training session and help them input their first exam. If instructors need additional support, reach out to AccountServices@proctoru.com or 855-772-8678.
+ProctorU does have the ability to integrate with Pearson, and they have created an informational website about it here. It is only for their automated service line and costs $12 per student per course for unlimited use. This would require an agreement and work order to be signed with the instructor. For more information, please contact USCA Office of Distance Learning.
+ProctorU Resources

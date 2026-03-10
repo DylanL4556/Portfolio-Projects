@@ -1,0 +1,17 @@
+ devices to help prevent plagiarism.
+SafeAssign: Instructors may elect to have students submit assignments to the Blackboard’s Safe Assign feature, which will be included as source documents in Safe Assign’s restricted access database solely to detect plagiarism in such documents.
+TurnItIn: All course materials are subject to submission to scholarly authentication and will be included as source documents in Turnitin.com's restricted access database solely to detect plagiarism in such documents. Turnitin.com can be used as an academic tool to help students avoid plagiarism in written documents. If your professor uses TurnItin, he/she will provide you with the login credentials and other information.
+Respondus LockDown Browser: To increase the integrity of online tests, professors may use the Respondus Lockdown Browser, which creates a "locked" testing environment that prevents you from viewing other web pages, accessing other applications, and printing or copying the assessments. If instructed, you must download and install LockDown Browser before you take any exams. The Respondus Install and Use Quick Start Guide provides information on the installation and usage of Lockdown Browser.
+When taking assessments using Respondus:
+Seek a computer with a wired connection. If using a wireless connection, be sure to be close enough to the wireless router that has the strongest signal.
+Be sure to close ALL applications on your computer and double-click on the Respondus Lockdown Browser icon to open the application. Log into Blackboard, access your course, and navigate to the assessment.
+Academic Integrity
+Plagiarism, Academic Honesty, and Citing Sources
+The USC Aiken Student Handbook defines violations of academic integrity as follows:
+The principle of academic integrity prohibits all forms of academic dishonesty, including cheating, lying, bribery, and plagiarism. The following examples illustrate conduct that violates academic integrity, but this list is not exhaustive.
+- Giving or receiving unauthorized assistance or attempting to give or receive such assistance in connection with academic work performance.
+- Unauthorized use of materials or information of any type or the unauthorized use of any electronic or mechanical device in connection with completing any academic work.
+- Unauthorized use of any portable electronic device unless required for the course during a test period without consent of the instructor.
+- Access to the contents of any test or examination of the purchase, sale, or theft of any test or examination before its administration.
+- Use of another person’s work without proper acknowledgment of source, i.e., plagiarism.
+- Intentional misleading of any person in connection with any academic work, including the scheduling

@@ -1,0 +1,9 @@
+ should include information for students regarding the importance of academic integrity and restrictions regarding sharing of passwords and usernames.
+III. Related Policies
+System Policy ACAF 3.03: Handling of Student Records
+System Policy ACAF 3.06: Establishing and Changing a Student’s Official Name
+System Policy IT 3.00: Information Security
+System Policy IT 1.06: Acceptable Use of Information Technology
+System Policy UNIV 1.50: Data Access
+University Policy AENR 100: Identification cards
+University Policy AIT 105: Access to Computer Labs/Classrooms

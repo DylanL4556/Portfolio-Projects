@@ -1,0 +1,22 @@
+ 2024.
+- Design and Deployment of a Testbed for SmartNIC and Programmable Data Plane Experimentation, SmartNIC/Programmable Data Plane Testbed Workshop
+A Testbed to Evaluate Next-Generation Security Solutions in Cyber-Physical Systems Using Hardware Acceleration, Cyber-Physical Systems Security Workshop
+Publications
+- Assessing the Cybersecurity Vulnerabilities of SCADA-based Smart Agriculture, IEEE ICMI, 2026.
+- AI-Driven Cybersecurity in Intelligent Transportation Systems: A Comprehensive Survey of Threats, Defenses, and Future Directions, ICIPS, 2025.
+- The Quantum Countdown: How Healthcare Can Achieve Crypto-Agility Before Q-Day, ICIPS, 2025.
+- Ensemble Learning-Based Channel Prediction for Real-World Indoor 6G WiGig Networks, IEEE VTC-Fall, 2025.
+- Sensing and Vision-Aided Wireless Communication for Indoor 6G Networks, IEEE VTC-Fall, 2025.
+- Generalizable Deep Reinforcement Learning-Based Intelligent Handover in Indoor WiGig Networks, IEEE VTC-Fall, 2025.
+- How Can Integrated Sensing and Communication Enable Generalizable Learning in 6G Networks?, IEEE Network, 2025.
+- Deep Learning-Based Physical Layer Authentication in LiFi Networks Under Mobility, SoutheastCon, 2025.
+- Concept Drift-Aware Wireless Key Generation in Dynamic LiFi Networks, IEEE Open Journal of the Communications Society, 2025.
+- Communication-Aided Terahertz Sensing for Indoor People Counting, IEEE VCC, 2024.
+- Occupancy-Level Aware Indoor Terahertz Channel Prediction, IEEE VTC-Fall, 2024.
+- Robust Deep Learning-Based Indoor mmWave Channel Prediction Under Concept Drift, IEEE VTC-Fall, 2023.
+- Multi-device Multi-task Computation Offloading in D2D Communication, Wireless Personal Communications, 2022.
+- Multidimensional Auction for Task Allocation Using Computation Offloading in 5G Networks, Future Generation Computer Systems, 2020.
+Publications
+- A Comprehensive Comparative Analysis of RFID Devices Security in Supply Chain Geofencing Technologies, IEEE ISDFS, 2025.
+- Critical Factors for Privacy and User Retention in Event-Based Social Media Apps, IEEE ISDFS, 2025.
+- Malware Exploitation and Vulnerability Assessment of CVE-2024-38063 in Windows Networks, IEEE ISDFS

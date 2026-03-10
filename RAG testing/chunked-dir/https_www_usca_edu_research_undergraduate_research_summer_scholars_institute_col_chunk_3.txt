@@ -1,0 +1,16 @@
+- NOTE: Projects involving animals must maintain compliance with regulations at all times or funding will be revoked.
+- For more information, mentors may contact the Chair of the USC Aiken IACUC: Dr. April DeLaurier (AprilD@usca.edu).
+For research projects involving human participants
+USCA is required by the federal government to follow strict guidelines when human subjects are involved in research projects requiring Institutional Review Board (IRB) approval. Human subject research INCLUDES studies that use:
+- data collected through interventions, interactions, or observations with human participants (e.g., surveys, interviews, testing, or observational procedures); and/or
+- existing data sets containing any personal information (e.g., medical records, educational records, voting records).
+- faculty must have an approved IRB protocol before beginning work on the project.
+- more information and applications: http://orc.research.sc.edu/humansubject.shtml
+- Human Subject FAQs: http://orc.research.sc.edu/hs_faq.shtml
+- ALL Human subjects questions: contact the USC Office of Research Compliance (http://orc.research.sc.edu/contact.shtml; 803-777-7095)
+- projects involving human subjects must maintain compliance with regulations at all times.
+For research projects involving potentially biohazardous materials
+USCA is required by the federal government to follow strict guidelines when potentially biohazardous materials are used in the laboratory. Use of these materials is governed by the Institutional Biosafety Committee (IBC).
+- Faculty must have an approved IBC protocol before beginning work on the project.
+- NOTE: Projects involving biohazardous materials must maintain compliance with regulations at all times or funding will be revoked.
+- For more information, mentors may contact the USCA IBC representative: Dr. William Jackson (billj@usca.edu).

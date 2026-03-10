@@ -1,0 +1,34 @@
+ campuses as options
+*** Setup your USC University Services Accounts:
+To setup or manage your USC Services Accounts, go here: https://myaccount.sc.edu and click Account Claiming.
+Part 2: USC Aiken Campus Accounts
+USC Aiken campus accounts are created by your USC Aiken Computer Services Division (CSD)/Help Desk team and include:
+Pacer Account
+@usca.edu Email Account
+Campus accounts allow access to these systems and services:
+PACERNET and PacerStudent Wi-Fi
+Classroom and Lab Computers
+@usca.edu Email
+Office 365
+Impulse SafeConnect
+Pulse Secure VPN
+Shared Drives (J/K/Art)
+PacerPrint Printing
+Other usca.edu Websites
+Setting up USC Aiken campus accounts is a simple two-step process:
+Set a new password for your Pacer Account
+Sign into Office 365
+Those two steps are detailed below.
+*** STEP 1: Set a new password for your Pacer Account
+All USC Aiken students, faculty, staff and affiliates are assigned a Pacer Account.
+To set a new password for your account, use the appropriate information listed below and go to: http://reset.usca.edu
+All Student accounts and Faculty/Staff/Affiliate accounts created after March 31st 2019:
+Username: Your Pacer Account username matches your Enterprise ID. (To find your Enterprise ID, go to: https://myaccount.sc.edu and click "Forgot ID's")
+Password: Your initial password is the last 5-digits of your VIP ID number followed by the characters USCA# (Example: If the last 5-digits of your VIP ID number are 12345, your initial password is 12345USCA#)
+Faculty, Staff and Affiliate accounts created before April 1st, 2019:
+Username: Nothing has changed. (You will continue using the username you've always used.)
+Password: Nothing has changed. (Your password has not changed and is whatever you last set it to.)
+*** Step 2: Sign into Office 365
+Office 365 includes web access to your @usca.edu email. This is where you'll also find Office web apps, Office 2016 Pro downloads, 1TB OneDrive for Business storage, and more.
+To sign into Office 365, use your email address and password as explained below, and go to: https://office.com
+Email: Your email address

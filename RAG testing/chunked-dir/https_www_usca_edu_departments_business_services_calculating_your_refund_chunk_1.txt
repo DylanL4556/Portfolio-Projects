@@ -1,0 +1,11 @@
+Student refunds for tuition are calculated based on total hours you're taking plus the liable portion of your dropped or withdrawn courses.
+- Liable hours are calculated as the total hours a student is still registered plus the liable portion of the dropped/withdrawn course(s).
+- The liable portion is calculated by multiplying the number of dropped hours by the liability rate (100% minus the refund percentage).
+- If you are liable for 12 or more hours, you are not eligible for a refund.
+Example
+You were originally registered for 16 hours, but dropped six hours so that you are now enrolled in 10 hours.
+liable hours = 10 hours + liable portion of six hours
+- If your liable hours (10 hours + liable portion) are 12 or more, then no refund is issued.
+- If your liable hours (10 hours + liable portion) are less than 12, then you are eligible for a refund.
+Contact Us
+Need Help?

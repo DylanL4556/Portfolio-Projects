@@ -1,0 +1,8 @@
+ your cache or haven't yet successfully enrolled a device.
+How do I clear my cache?
+Clearing your cache is simple. Just follow the instructions for your browser found here: https://help.yahoo.com/kb/SLN27196.html Or if you run into problems clearing your cache, try to sign in with a different browser.
+How do I make sure I enrolled my device?
+You enroll a device as part of the MFA setup process. Once you've successfully signed into the MFA site at: https://my.sc.edu/multifactor/ you've registered for MFA. However, you also need to enroll any devices you'd like to use for authentication. If you don't enroll a device the system will not have a way to authenticate you, causing you to see the Access Denied screen above.
+To ensure you've enrolled a device, got back to https://my.sc.edu/multifactor/ and check that you have an enrolled device listed as shown below. You should then click the Test Authentication button at the bottom of that page to confirm it is working correctly.
+What if I'm still getting the Authentication error?
+If still receive the Authentication error after you've cleared your cache and confirmed that you have an device enrolled in the system, you should contact the Columbia Service Desk for assistance. Be sure to tell them you've already completed these steps when you call.

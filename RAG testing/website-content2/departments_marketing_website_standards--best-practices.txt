@@ -1,0 +1,80 @@
+Standards & Best Practices | USCA
+https://www.usca.edu/departments/marketing/website/standards--best-practices/
+A website requires continuous curation to remain engaging and relevant to our primary audience—prospective undergraduates.
+A website should be:
+- Informative, accurate and up-to-date
+- Accessible to all users
+- User-friendly. navigation should facilitate relevant search results, and content should be arranged with clear headings, subheadings, and links.
+- Interactive
+- Engaging and relevant
+- Responsive and device-agnostic
+A website should NOT be:
+- An archive
+- Focused on internal processes
+- dependent on attachments to convey information. Limit the use of PDF and Word documents.
+External vs. Internal Communication
+Our energy should be directed toward developing content that provides value to our public audience. Content related to internal procedures should be maintained off-line.
+External (public-facing) website
+- Admissions (including financial aid) application procedures
+- News and events
+- Contact information
+- Donor and alumni information
+- Resources and services for new and incoming students: e.g. academic advising, career services, health services, housing, dining, etc.
+- Campus safety and security information
+- Employment opportunities: Job postings and high-level information about benefits of interest to applicants should be public.
+Internal communication and processes
+The following content types should be housed internally or on an intranet.
+- Internal communications and announcements
+- HR and payroll information
+- IT and technical support resources for faculty/staff
+- Procurement and purchasing forms and documents
+- Institutional policies and procedures
+- Financial and budget information
+- Facilities and maintenance resources
+- Environmental Health and Safety
+- Research and grant information (e.g. funding opportunities, grant applications, and compliance regulations)
+- Institutional Research
+Page titles
+Titles should be clear, concise, and accurately reflect the content. Each page should have a unique title. Use simple language and avoid jargon.
+Page organization
+Website visitors tend to skim pages until they find the information they need. Organize your page’s content to aid reading comprehension by ensuring important information is easy to find.
+Important items first
+- The most important information should always come first.
+- Details that support the important information should come second.
+- Background information should always go last.
+Logical flow of content
+Organize content so that users can easily find what they need.
+Make use of headings and subheadings
+Headings help break up long blocks of information and make pages easier to read and follow.
+Use Related Content Appropriately
+Related content should complement primary content by emphasizing its aspects, providing links to associated resources or forms, or adding visual interest through images or video.
+Content
+Ensure your website content is relevant, engaging, and has a clear message or call to action for your target audience. Use active voice and be concise.
+Accuracy
+Ensure all information is accurate. Updating any incorrect or outdated information as soon as possible is essential.
+Brevity
+Keep your writing brief and to the point. Avoid unnecessary details.
+Unique
+To ensure consistent and up-to-date information, link to relevant pages rather than creating a duplicate page.
+Spelling, Grammar, and Abbreviations
+Make sure your grammar and spelling are perfect. Follow the AP Stylebook and the Editorial Style Guide from the university when using abbreviations.
+Simple Sentences
+Avoid needlessly complicated language, unnecessary words and sophisticated vocabulary as this can result in reduced comprehension. In other words, keep it simple.
+Short Paragraphs
+Breaking a large text block into smaller paragraphs makes it easier to skim and understand. Each paragraph should describe one topic or idea.
+Lists
+Lists with bullets or numbers are more straightforward to read and comprehend than paragraphs.
+- When describing a series or a list of steps, it’s best to use a list.
+- Use descriptive headings before each block of content. Headings help give structure to the text and make it easier to navigate.
+- Make sure to use proper headings that follow the guidelines for page titles.
+Styles and Appearance
+When the style and functionality of a site is unform, it creates a more cohesive experience for the user. Excessive and individualized customization of the look and feel of a site can make it look disjointed and disorganized.
+- Use italics to indicate book titles and magazine titles.
+- Avoid using underlines because website users may mistake them for links.
+- Use bold sparingly to emphasize points or bring attention to key phrases.
+- Avoid multicolored text.
+- Do not adjust font size manually.
+- Avoid using ALL UPPERCASE, except for abbreviations or acronyms.
+- Use H2s for primary headings, H3s for subheadings, and H4s for additional subsections. Avoid creating custom headings in the HTML code.
+- Each page must have a banner. The website design may offer different banner options.
+- Do not use code that could change, interrupt, or harm how the site looks, works, or is meant to work.

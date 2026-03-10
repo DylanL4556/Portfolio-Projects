@@ -1,0 +1,21 @@
+New Student Checklist
+Congratulations again on your admission to USCA, and welcome to our campus community! There are a few steps before you begin classes. You can begin working on the following items:
+1. Accounts & passwords setup
+To get started, you’ll need to have the following information:
+- Legal Last Name
+- Birthdate
+- VIP ID (This is included in your acceptance information)
+USC System account setup
+- Go to Self Service Aiken. You will need to click "Manage Your Account" before you can log in. This will take you to the USC MyAccount portal, where you can claim your account, retrieve your university ID, reset your password, and set up multi-factor authentication.
+- Once on the USC MyAccount portal, select "Account Claiming" to set up your new student USC account. You will need your VIP ID for this.
+- Once set up, you will have access to Self Service Aiken to apply for SC residency, accept financial aid offers, register for classes, and more.
+USCA Account & email setup
+Next, you will need to set up your USCA campus account including your email address and access to Microsoft 365 services. For this, you'll need to have your "Enterprise ID" which you can obtain from the USC MyAccount portal, just select "Forgot IDs".
+You'll also need to complete this initial setup on a desktop computer and not on a mobile device.
+- Go to https://reset.usca.edu to create a new password.
+- Note: Your initial password is the last 5 digits of your VIP ID number followed by the characters USCA#, i.e. 12345USCA#
+- Wait approximately five minutes for the password change to register.
+- Log in to Microsoft 365 for the first time. This includes web access to your @usca.edu email.
+- Use your email address and newly-changed password to login. Your email address should be your Enterprise ID @usca.edu. Ex: john.doe@usca.edu where "john.doe" is the Enterprise ID.
+- This Enterprise ID and your new password will also be your login to any computer, network drive, printer, or Wi-Fi network on the USCA campus. You will also use it to login to any campus services that require your Microsoft 365 login.
+If you experience any issues in setting up these accounts, reach out to the USCA Technology Services Help Desk at (803) 641-

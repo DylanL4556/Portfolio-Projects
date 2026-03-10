@@ -1,0 +1,288 @@
+ /* login/popup div style classes*/
+ .login-icon {
+    background-color: rgb(136, 144, 255);
+    margin-left: 94vw;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.off-screen {
+    position: fixed;
+    left: -100vw;
+}
+
+.eye-slash {
+    background-image: url('img/eye-slash.png');
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.eye {
+    background-image: url('img/eye.png');
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.incorrectLogin {
+    color: rgba(211, 91, 91, 0.971);
+    font-size: 18px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.cardheight {
+    height: 444px;
+}
+
+/* ----------- scroll bar mods --------------*/
+
+.scrollBarVert {
+    overflow-y: scroll;
+    scrollbar-width: thin;
+}
+
+.scrollBarVert::-webkit-scrollbar {
+    width: thin;
+}
+
+.scrollBarVert::-webkit-scrollbar-track {
+    background: rgb(182, 181, 181);
+}
+
+.scrollBarVert::-webkit-scrollbar-thumb {
+    background: rgb(218, 211, 211);
+}
+
+/* -------------- styles for shop stuff -------------- */
+/* --- shop container --- */
+.shop-container {
+    position: absolute;
+    top: 10vh;
+    left: 2vw;
+    width: 96vw;
+    height: 500vh; /* looooooooooooong */
+    border: 1px inset rgb(203, 203, 203);
+    border-radius: 4px;
+    background-color: #343a40;
+}
+/* select buttons for the item form (out of place because im using .select btn as a model) */
+.selectCats {
+    padding: 5px;
+    margin: 2px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(136, 144, 255);
+    cursor: pointer;
+    outline: none;
+    height: 4vh;
+    width: 8vw;
+    border-radius: 4px;
+}.selectCats:hover {
+    border-color: rgb(74, 86, 255);
+}.selectCats.selected {
+    background-color: rgb(215, 215, 215);
+    color: #fff;
+    border-color: rgb(74, 86, 255);
+}
+/* --- select - bar --- */
+.select-bar {
+    position: relative;
+    margin: 15px;
+    margin-top: 20px;
+    margin-bottom: 7px;
+    height: 8vh;
+    width: 92vw;
+    border: 1px solid rgb(203, 203, 203);
+    white-space: nowrap;
+    overflow: hidden;
+    background-color: rgb(255, 250, 250);
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.selectorbtn {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(136, 144, 255);
+    cursor: pointer;
+    outline: none;
+    height: 75%;
+    width: 16%;
+    border-radius: 4px;
+    
+}
+
+.selectorbtn:hover {
+    border-color: rgb(74, 86, 255);
+}
+
+.selectorbtn.selected {
+    background-color: rgb(215, 215, 215);
+    color: #fff;
+    border-color: rgb(74, 86, 255);
+}
+/* toggle add items form button*/
+.add-items {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    left: 81.875vw;
+    border-radius: 4px;
+    background-color: rgb(215, 215, 215);
+    border-color: rgb(203, 203, 203);
+}
+.add-items:hover{
+    border-color: rgb(133, 133, 255);
+}
+.refreshshop{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    left: 7.745vw;
+    border-radius: 4px;
+    background-color: rgb(215, 215, 215);
+    border-color: rgb(203, 203, 203);
+}
+.refreshshop:hover{
+    border-color: rgb(133, 133, 255);
+}
+.add-items:hover{
+    border-color: rgb(133, 133, 255);
+}
+/* --- item containers --- */
+.borderRadTag {
+    border: 2px solid rgb(203, 203, 203);
+    border-radius: 4px;
+}
+.item-container {
+    margin: 15px;
+    width: 85vw;
+    height: 56vh;
+    /*height: 50vh;*/
+    overflow-x: scroll;
+    border: 1px solid rgb(203, 203, 203);
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    white-space: nowrap;
+    overflow-y: hidden;
+    margin-bottom: 8vh;
+    margin-top: 7px;
+    margin-left: 7.764vw;
+    overflow-x: scroll;
+    scrollbar-width: thin;
+    padding-bottom: 5px;
+    /* -- 7.64 to align with ending of select bar.*/
+}
+.item-container::-webkit-scrollbar {
+    width: thin;
+}
+.item-container::-webkit-scrollbar-track {
+    background: rgb(215, 215, 215);
+}
+.item-container::-webkit-scrollbar-thumb {
+    background: rgb(218, 211, 211);
+}
+.stdTxtTemplate {
+    margin: 10px;
+    margin-left: 5px; 
+    padding: 10px;
+    margin-bottom: -5px; 
+    font-size: 24px; 
+    background-color: rgb(215,215,215); 
+    width: 500vw;
+    border: 1px solid #343a40; 
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    
+}
+/*----------- individual item styles for rendering db -------------*/
+.item-container>.item{
+    margin-left: 5px;
+}
+.item {
+    display: inline-block;
+    margin: 8px;
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 10px;
+    border: 1px solid #343a40;
+    border-radius: 6px;
+    position: relative;
+    left: 0vw;
+    width: 13.5vw;
+    height: 45vh;
+    background-color: rgb(215, 215, 215);
+    overflow-x: hidden;
+}
+.item {
+    display: inline-block;
+    margin: 8px;
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 10px;
+    border: 1px solid #343a40;
+    border-radius: 6px;
+    position: relative;
+    left: 0vw;
+    width: 13.5vw;
+    height: 45vh;
+    background-color: rgb(215, 215, 215);
+    overflow-x: hidden;
+}
+.item.selected {
+    margin: 15px;
+    width: 85vw;
+    height: 56vh;
+    font-size: 120%;
+    
+}
+.item h1{
+    font-size: 20px;
+}
+.item:hover {
+    border-color: rgb(165, 226, 254);
+    border-width: 3px;
+}
+.item button {
+    position: relative;
+    height: 4vh;
+    width: 5vw;
+    overflow: hidden;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 14px;
+    font-weight: 550;
+}
+.item img {
+    width: 12.5vw;
+    height: 20vh;
+    border-radius: 3px;
+    position: relative;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+.alert {
+    position: fixed;
+    bottom: 20px;
+    right: -100%;
+    /* Initially hidden outside the screen */
+    color: #f44336;
+    /* Red color */
+    background-color: white;
+    padding: 15px;
+    border-radius: 6px;
+    transition: right 0.3s ease-in-out;
+}

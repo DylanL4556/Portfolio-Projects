@@ -1,0 +1,17 @@
+ type your content in all caps unless it’s a short acronym, as some screen readers will read the letters individually.
+- Avoid flashing, flickering, blinking, or otherwise animated images. These can sometimes trigger seizures in some users.
+- Ensure your carousel allows users enough time to read the text on each slide.
+- If you’re embedding a form or widget from a third-party site, it must be accessible or provide an accessible alternative.
+- You are responsible for ensuring that any code on your website, such as an embed, meets accessibility standards.
+Conclusion and Other Resources on Web Accessibility
+Try to increase your understanding of the experiences of people with different types of disabilities. Use a screen reader to listen to your website. Or check out some user story videos from W3C.
+As always, if you have any questions about what you can do to make your web content more accessible, feel free to check out the resources below:
+- Accessibility Basics from Usability.gov
+- Easy Checks - A First Review of Web Accessibility from W3C Web Accessibility Initiative
+- Principles of Accessible Design from WebAIM: Introduction to Web Accessibility
+- How to Meet WCAG 2.1 from W3C Web Accessibility Initiative
+- W3C Accessibility Principles
+- WCAG 2.1
+- Create Accessible Video, Audio, and Social Media (Section508.gov)
+Social Media Accessibility
+In addition to making your websites accessible, there are also things you can do to make your USCA social media accounts accessible as well. Check out the below resources for more information.

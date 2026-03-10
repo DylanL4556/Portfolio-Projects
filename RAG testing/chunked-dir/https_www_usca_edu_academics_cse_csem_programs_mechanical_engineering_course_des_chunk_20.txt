@@ -1,0 +1,10 @@
+ mixtures, psychometric humid air analysis, and combustion processes.
+ENCP A399 Independent Study. (1-9) (Prereq: Department permission).
+ENCP A492 Topics in Engineering. (3) (Prereq: Departmental permission) Study of selected topics in engineering. To be offered as a lecture course on a “demand basis” only.
+ENCP A498 Capstone Design I. (3) (Prereq: ENCP A310 with a grade of C or better, ENCP A361 with a grade of C or better, ENCP A371 with a grade of C or better, ENCP A334 with a grade of C or better, ENCP A327 with a grade of C or better; Coreqs: ENCP A316 and ENCP A380). Lecture topics include design specifications and planning, innovation, economic factors, safety, reliability, ethics, and social impact. Selection specification, and feasibility study of an open-ended design project to be completed in ENCP A499.
+ENCP A499 Capstone Design II. (3) (Prereq: ENCP A498 with a grade of C or better; Coreqs: ECON A421, PHIL A324, and BADM A494). Design for manufacturability, ergonomic and aesthetic considerations, prototype construction and testing, statistical methods/design of experiments, ethics/product liability and social/environmental impact. The final engineering design (specifications, drawings, bill of materials, including assessment of economics) will be completed by the end of the semester. Both written and oral reports are to be provided.
+Electrical Engineering (ELCT)
+ELCT A221 Circuits. (3) (Prereq: MATH A142 with a grade of C or better). Linear circuit analysis.
+See also:
+Mechanical Engineering Curriculum
+Mechancial Engineering Program Objectives and Student Outcomes

@@ -1,0 +1,30 @@
+ Once the class schedule has been established, CSD manages the non-scheduled time slots for these rooms.
+- B&E 236A is primarily designated as a OneCarolina Training Room. The Registrar must coordinate with CSD before scheduling any classes in this room.
+- B&E 238A is designated as the main open computer lab and cannot be scheduled for classes or reserved.
+- Reservation of Computer Classrooms and Labs
+- Existing activities scheduled in the computer classrooms and labs have priority over new requests made for time slots already scheduled. However, in cases of overlapping requests, CSD will make every effort to resolve scheduling conflicts.
+- Requests to reserve available computer classrooms and labs must be submitted via the web form located at: http://web.usca.edu\help-desk\forms\reservations This page also includes a listing of the resources available in each room.
+- Requests to reserve computer classrooms and labs must be submitted at least three working days in advance.
+- Students may request reservations of computer classrooms and labs through their professors and advisors.
+- If a classroom or lab is scheduled for a time after normal business hours or on days the Help Desk is not open, the individual reserving the room is responsible for arranging access with Public Safety.
+- Requests for reservations will be prioritized in the following order (exceptions may occur at the discretion of the Vice Chancellor of Information Technology):
+- Classes scheduled on USCA's Master Class Schedule
+- Scheduled periodic class meetings scheduled by professors (Professors are encouraged to plan ahead and submit room requests prior to start of the semester.)
+- University sponsored events
+- Training classes
+- Continuing Education Classes
+- All other requests
+III. Related Policies
+IV. Reason for Revision
+Annual Review
+Number: AIT 105
+Section: Information Technology
+Subject: Access to Computer Labs/Classrooms
+Date: December 1, 2009
+Reviewed on: October 25, 2012
+Issued by: Vice Chancellor for Information Technology/CIO
+Authorized by: Director of Client Services
+I. Policy
+This policy addresses access to USCA computer labs, who has access to computer labs and how computer labs are accessed and what actions should be taken if patrons violate the specified policy and procedures.
+This policy covers only CSD managed computer labs 238A and 236A located in the Business and Education Building. For policies and procedures for all other computer labs, please contact the department responsible for management of the individual lab.
+- Definitions

@@ -1,0 +1,10 @@
+ a rotating domed roof.
+On June 18, 2009, The RPSEC observatory was struck by lightning and the Bechtel Telescope was damaged beyond repair. Through generosity of the company and support from insurance, a new Bechtel Telescope was purchased and installed in May 2010.
+Visit our sister observatory, the Boyd Observatory
+See pictures of the observatory installation and the telescope installation.
+| Telescope Light Gathering Comparison | |
+| Reflector | Main light gathering source is a mirror |
+| Refractor | Main light gathering source is a lens |
+| Catadioptric | Uses both mirrors and lenses to gather light |
+There is a good description of how telescopes work at Meade Instruments Corporation.
+This page has some diagrams to help explain how the telescopes work.

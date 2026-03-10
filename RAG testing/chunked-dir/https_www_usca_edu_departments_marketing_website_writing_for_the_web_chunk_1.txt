@@ -1,0 +1,39 @@
+Unlike a novel or a scholarly article, websites need a simple writing style because people skim websites instead of reading them. Typically, people only look at 20% of the words on a page.
+How can you make your website easier for users to digest?
+Be concise
+Say what you need to say without using more words than you must.
+Write simply
+Use short, easy-to-understand sentences instead of long, complicated ones.
+Avoid “marketingese"
+Use neutral language instead of language that tries to make something sound better than it is.
+Use the “Inverted Pyramid” style of writing
+Put the most crucial information at the beginning and the least important later.
+Use keywords
+Use familiar words to describe your topic. Use unique words or abbreviations sparingly.
+Use headings
+Use short but descriptive headings and subheadings to help readers find information quickly.
+Break up ideas into different paragraphs
+Use several short paragraphs instead of one long one.
+Make your text skim-friendly
+Use bulleted lists instead of long lists of text.
+Highlight only as necessary
+Use bold to highlight important points, but do just what is necessary.
+Use the proper case
+Use sentence case instead of uppercase, and only use bold to emphasize important points.
+Make links easy to identify
+Ensure all links look the same, and don’t underline any text since it might be mistaken for a link.
+In Summary:
+The best way to write for a website is to use simple language, accurate information, and a logical flow of content. Use headings and subheadings to break up long blocks of information, and use bulleted or numbered lists to make information easier to skim. Before posting, proofread content to avoid grammar and spelling errors. Content should be interesting and relevant to the target audience. Finally, avoid customizing the look and feel of the site page.
+Post Accessible Files
+When posting a link to a Word document or PDF on your website, you’ll want to ensure that your files are accessible before you upload them to the Media Library.
+Accessible Microsoft Office Documents
+- Microsoft’s Rules for the Accessibility Checker
+- Microsoft’s Make your Word documents accessible to people with disabilities
+- Microsoft’s Make your PowerPoint presentations accessible to people with disabilities
+- Microsoft’s Make our Excel documents accessible to people with disabilities
+Accessible Adobe PDFs
+- WebAIM’s PDF Accessibility
+- Adobe’s instructions on creating and verifying PDF accessibility
+- Microsoft’s Create accessible PDFs from a Microsoft Office document
+Use Links Appropriately
+First

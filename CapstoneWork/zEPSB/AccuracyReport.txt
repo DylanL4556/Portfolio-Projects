@@ -1,0 +1,31 @@
+Logistic Regression Accuracy: 0.764
+              precision    recall  f1-score   support
+
+           0       0.77      0.75      0.76     34000
+           1       0.76      0.78      0.77     34047
+
+    accuracy                           0.76     68047
+   macro avg       0.76      0.76      0.76     68047
+weighted avg       0.76      0.76      0.76     68047
+
+
+Random Forest Accuracy: 0.854
+              precision    recall  f1-score   support
+
+           0       0.86      0.85      0.85     34000
+           1       0.85      0.86      0.85     34047
+
+    accuracy                           0.85     68047
+   macro avg       0.85      0.85      0.85     68047
+weighted avg       0.85      0.85      0.85     68047
+
+
+Gradient Boosting Accuracy: 0.847
+              precision    recall  f1-score   support
+
+           0       0.84      0.85      0.85     34000
+           1       0.85      0.84      0.85     34047
+
+    accuracy                           0.85     68047
+   macro avg       0.85      0.85      0.85     68047
+weighted avg       0.85      0.85      0.85     68047

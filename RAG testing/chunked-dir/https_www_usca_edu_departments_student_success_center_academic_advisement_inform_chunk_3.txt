@@ -1,0 +1,20 @@
+. It is a 5-digit number that is associated with a specific section of a class and can be found in the course description.
+- select the “Registration Plan Ahead Shopping Cart” option and add your classes to a schedule plan for the semester. Please note, the Plan Ahead tool does not automatically check for schedule conflicts, prerequisite restrictions, or whether a course is full.
+- Log into Self Service Aiken
+- Select the Student menu
+- Click on the “Registration” tile
+- Choose the “Registration Plan Ahead Shopping Cart"
+- Select the appropriate term
+- Hit the button that says “Create a new Plan”
+- Select the appropriate term and “USCA”
+- Add courses that you and your advisor discussed by selecting the “Add Course” button. Once all courses are loaded, press done.
+- You can customize your schedule choices by adding break times or by editing your options. Note that adding breaks and limiting too many options may affect your ability to find a schedule that meets all your needs.
+- Log into SSA
+- Click the Student Menu
+- Select Student Profile
+- Above your picture/photo icon there is a black bar with the Term, your Academic Standing, Overall, Hours, Overall GPA, Registration Notices, and Holds.
+- Click the words “Registration Notices.”
+- In the drop-down menu, look under Time Ticket to see the time and date you can register for classes. Please see the Academic Calendar for the last day to add or drop classes without record for a specific term.
+Textbooks and other materials needed for class can be found on the USCA Bookstore website. If no textbook information is available, this information will be provided by the instructor’s course syllabus.
+Please contact your academic advisor about potential alternative course options. If there is still space on the waitlist for a course, you can add yourself to the waitlist for a course in Self Service Aiken by adding the section to your course summary, selecting “Waitlist” from the dropdown menu, and then clicking Submit.
+Waitlists will remain active until the course add/drop deadline of each semester (about one week after the semester begins). If you are on the waitlist for a course and a spot becomes available for you, then you will receive an automated email to your USCA email informing you that you have 24 hours to register for the course in Self Service Aiken. If you do not register for the course within that 24-hour window, then the spot will go to

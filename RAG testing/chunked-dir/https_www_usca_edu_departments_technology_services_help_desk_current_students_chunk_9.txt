@@ -1,0 +1,27 @@
+ of the list.
+You'll then be taken directly to your Inbox and can begin using email.
+How do I access student email from my phone?
+Connecting a mobile device to your USCA Email account is fairly simple. We've included basic instructions below. If you run into any issues, please bring your device to the Help Desk. We're happy to walk through the setup process with you.
+Setup an iOS device
+- Go to Settings
+- Add Account
+- Tap Exchange
+- Add a new Exchange Account or Corporate Account
+- Enter your full email address and password
+- Connect
+- Choose which options you would like to sync: Mail, Calendar, Contacts, etc.
+Setup an Android device
+- Open the Mail app on phone
+- Add a new Exchange Account or Corporate Email Account
+- Enter your full email address and password
+- Click Next
+- Select the Sync Options and Update Schedule
+- Click Next
+Setup for Windows Phone
+- On Start, flick left to the App list, tap Settings, and then tap Email & accounts
+- Tap Add an account, and then tap Office 365
+- Enter your full USCA Email address
+- Tap the Password box, and then enter your email password
+- Tap Sign in
+Help for Issues
+If you run into any issues setting up your device, you may want to check Microsoft's help site for instructions specific to your device. You'll find those on the Office Web App Help page.

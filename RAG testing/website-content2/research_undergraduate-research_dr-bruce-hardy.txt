@@ -1,0 +1,11 @@
+Dr. Bruce Hardy | USCA
+https://www.usca.edu/research/undergraduate-research/dr-bruce-hardy/
+Bruce Hardy, Ph.D. Nuclear Engineering
+Email: bjh.nce212@gmail.com
+Bio: Expert in mathematical modeling of physical processes, with extensive experience in fluid mechanics, diffusion, heat transfer, and nuclear engineering. Collaboration with multiple universities and national laboratories.
+Areas of Expertise: Coupled mass, momentum, and energy transport, chemical thermodynamics, chemically reacting flows, porous media flows, electromagnetic fields, atomistic modeling.
+More Info:
+Bruce Hardy's research has primarily focused on the mathematical modeling of various physical processes, with some experimental work to obtain parameters and validate numerical models. His interests include modeling coupled mass, momentum, and energy transport (fluid mechanics, diffusion, heat transfer), chemical thermodynamics, chemically reacting flows, porous media flows, chemical engineering, electromagnetic fields, and applications of heat transfer and neutronics in nuclear engineering. He has also done some work in atomistic modeling. Most of his publications can be found on ResearchGate or Google Scholar by searching "bruce hardy srnl publications." In recent years, he has led a collaboration between the University of South Carolina, Columbia, and SRNL, developing machine learning algorithms to analyze large files of microscopic images for identifying surface defects in containers for nuclear materials.
+He has also been involved in collaborative efforts between SRNL and institutions such as Caltech, UC Berkeley, Georgia Tech, the University of Michigan, the University of Quebec, Los Alamos National Laboratory, Argonne National Laboratory, Pacific Northwest National Laboratory, the National Renewable Energy Laboratory, the Oregon State University-Microproducts Breakthrough Institute, GM, Ford, United Technologies, and NASA's Jet Propulsion Laboratory. He holds a Ph.D. in Nuclear Engineering from the University of Illinois at Urbana-Champaign and has worked at SRNL. His previous roles include Senior Nuclear Engineer at Commonwealth Edison
+Company and Engineer at the U.S. Army Construction Engineering Research Laboratory. He also gained experience as an Engineering Technician and Intern at Argonne National Laboratory.
+Return to Research Affiliates

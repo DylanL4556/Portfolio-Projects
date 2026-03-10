@@ -1,0 +1,25 @@
+Course descriptions
+Year 1
+Fall Semester
+ENCP 101 Introduction to Engineering I (3)
+(Coreq: MATH 108 or higher) Engineering problem-solving using computers and other engineering tools.
+Spring Semester
+ENCP 102 Introduction to Engineering II (3)
+(Prereq: MATH 108 or higher) Introduction to basic concepts in engineering graphics as a means of communication, including orthographic projections, descriptive modeling, and computer graphics.
+Year 2
+Fall Semester
+ENCP 200 - Statics (3)
+(Prereq: MATH 141 with a grade of C or better ) Introduction to the principles of mechanics. Equilibrium of particles and rigid bodies. Distributed forces, centroids, and centers of gravity. Moments of inertia of areas. Analysis of simple structures and machines. A study of various types of friction.
+ELCT 221 - Circuits (3)
+(Prereq: MATH 142). Linear circuit analysis and design.
+Spring Semester
+ENCP 260 - Introduction to the Mechanics of Solids (3)
+(Prereq: ENCP 200 with a grade of C or better and MATH 241, or consent of department). Basic concepts of stress and strain; Stress and Strain transformation concepts. Basic developments for stresses, tension, torsion, axial load, and pressure. Deformations of elastic relationships between stress and strain
+ENCP 290 - Thermodynamic Fundamentals(3)
+(Prereq: grade of C or better in MATH 142) Definitions, work, heat, and energy. First law analyses of systems and control volumes. Second law analysis.
+Year 3
+Fall Semester
+ENCP 360 - Fluid Mechanics (3)
+(Prereq: Math 241 with a C or better; ENCP 200 with a grade of C or better). Mechanical engineering applications of fluid statics and dynamics. Conservation of mass, momentum, and energy. Similitude and dimensional analysis, open channel flow, lift, and drag. Introduction to turbulent flow.
+ENCP 361 - Instrumentation, Measurements, & Statistics (3)
+(Prereq: STAT 509 with a grade of C or better, ENCP 260 with a grade of C or better, PHYS 211 with a grade of C or better, and PHYS 212 with a grade of C or better) Principles of measurement, analysis of data, experimental planning. Correlations of experimental data,

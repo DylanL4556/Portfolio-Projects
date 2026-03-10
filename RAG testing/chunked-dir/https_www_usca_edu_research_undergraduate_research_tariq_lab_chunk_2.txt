@@ -1,0 +1,21 @@
+ using ImageJ and R, and sensor technology. The skills acquired will significantly enhance your CV, preparing you for graduate studies and careers in various scientific fields.
+Colorimetric Packaging for Monitoring Meat Freshness
+Smart packaging technology has revolutionized food safety by using color changes to indicate meat freshness more accurately than traditional expiration dates. Our bioplastic-based pH-sensing sheet, incorporating natural and environmentally safe dyes, provides real-time freshness indicators.
+Currently, we have a working prototype, but its mechanical properties require optimization. While bioplastics are ideal for food applications, their durability poses a challenge. As part of this project, you will work on improving the sensor's composition, gaining expertise in polymers, sensor development, and spectroscopy.
+This project offers excellent preparation for careers and graduate studies in polymer chemistry, materials chemistry, and food chemistry, equipping participants with highly marketable skills.
+Mercury Sensor Development
+In collaboration with Dr. Bryan Borders and funded by the Savannah National River Laboratory, we are advancing mercury sensor technology. Our prototype has been successfully developed and optimized for rapid response. However, further research is needed to evaluate its properties, including response time, detection limits, and interference, as well as its performance in analyzing real water samples from the Savannah River.
+This project aims to refine the sensor's capabilities for environmental applications, offering participants the opportunity to contribute to impactful research addressing critical environmental challenges.
+Research Opportunities
+Are you passionate about research or brimming with ideas for innovative projects? Whether you're interested in enrolling on the research course or seeking guidance on a project that aligns with my expertise, I’d love to hear from you! This is a unique opportunity to collaborate, explore new possibilities, and bring your ideas to life. Feel free to reach out to me at Sonia.Tariq@usca.edu —let’s create something impactful together!
+About The Professor
+Dr. Sonia Tariq
+Analytical Chemistry - University of East Anglia U.K
+Sonia.Tariq@usca.edu
+Background: Colorimetric Chemical Sensors, Shelf Life of Meat, Bioplastic Sensors, Heavy Metals Quantification, Marine Sediment pH Profiles.
+Courses Taught
+- General Chemistry (Chem-111 and Chem-101)
+- Quantitative Analysis (Chem-321 and Chem 321L)
+- Instrumental Analysis (Chem522)
+Publications:
+Shah, N., Khan, Z., Hussain, M., Rehan, T., Khan, A., Z

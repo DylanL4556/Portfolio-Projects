@@ -1,0 +1,33 @@
+?
+Blackboard uses the email address set as your Preferred University Email Address. This should always be set to your official USCA email address which ends with @usca.edu. Please confirm this is set correctly to ensure you receive all messages sent to you by your professors and classmates in Blackboard and other university systems.
+To check the email address listed in Blackboard...
+- Go to: https://blackboard.usca.edu/
+- Click "Login"
+- Sign-in with your VIP or USC Network Username and Password
+- Click the profile link in the menu on the left side of the screen (second option)
+- Check the address listed for Email Address in the Basic Information section
+- If the address listed is not your @usca.edu email address, please correct your Preferred Email address at myaccount.sc.edu (instructions are included below)
+To change your Preferred Email Address...
+- Go to: http://myaccount.sc.edu
+- Click "Updated Account Settings"
+- Sign-in with your VIP or USC Network Username and Password
+- Answer the security question if prompted
+- Click "Email Preferences"
+- Select the @usca.edu address from the "Preferred University Email Address" (as shown below)
+- Click Submit
+If you do not have an @usca.edu address available to you as an option in the "Preferred University Email Address" drop down, please notify the Help Desk immediately. We will need to open a ticket with the Blackboard Support team to have this corrected.
+Where can I access Blackboard?
+Blackboard can be accessed at: https://blackboard.usca.edu or by clicking the link at the bottom of any USCA webpage, under "Quick Links".
+How do I reset my password for Blackboard?
+You log into Blackboard using your USC Network Username and Password.
+To reset this username and password:
+- Go to https://myaccount.sc.edu
+- Click Forgot Password
+- Enter your VIP ID
+- Answer the security question
+- Check your personal email address for an email with further instructions for resetting the password.
+- Once you've set that password, you should be able to log into Blackboard within 5-minutes.
+- Be sure to remember your USC Network Username and Password since it may be different than your USCA Network/PacerStudent account.
+Student Email
+Email is part of your Office 365 account.
+Remember, your USCA email address will be your USCA Username (Students call this PacerStudent username) plus @usca

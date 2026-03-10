@@ -1,0 +1,24 @@
+ A112 | CHEM A111 and A112 |
+| Computer Science A | CSCI A145 | CSCI A145 | CSCI A145 |
+| Computer Science Principles | CSCI A101 | CSCI A101 | CSCI A101 |
+| English Lang/Comp* | ENGL A101 | ENGL A101 | ENGL A101 and A102 |
+| English Lit/Comp* | ENGL A101 or A102 | ENGL A101 or A102 | ENGL A101 and A102 |
+| Environmental Science | BIOL A106 | BIOL A106 and GEOL A103 | BIOL A106 and GEOL A103 |
+| European History | HIST A102 | HIST A102 | HIST A101 and A102 |
+| French Language | FREN A101 | FREN A101 and A102 | FREN A101 and A102 |
+| German Language | GERM A101 | GERM A101 and A102 | GERM A101 and A102 |
+| Govern & Poli-Comparative | |||
+| Govern & Poli-US | POLI A201 | POLI A201 | POLI A201 |
+| Human Geography | GEOG A103 | GEOG A103 | GEOG A103 |
+| Italian Language | ITAL A101 | ITAL A101 and ITAL A102 | ITAL A101 and ITAL A102 |
+| Latin | LATN A101 | LATN A101 and A102 | LATN A101 and A102 |
+| Macroeconomics | ECON A221 | ECON A221 | ECON A221 |
+| Microeconomics | ECON A222 | ECON A222 | ECON A222 |
+| Music Aural Subscore | |||
+| Music Nonaural Subscore | |||
+| Music Theory | MUSC A196 | MUSC A196 and MUSC A198 | MUSC A196, A198 and A296 |
+| Physics C-E&M | PHYS A202 | PHYS A212 | PHYS A212 |
+| Physics C-Mech | PHYS A201 | PHYS A211 | PHYS A211 |
+| Physics I | PHYS A201 | PHYS A201 | PHYS A201 |
+| Physics II | PHYS A202 | PHYS A202 | PHYS A202 |
+| Precalculus (May 2024) | MATH A111 | MATH A111 | MATH A111 |

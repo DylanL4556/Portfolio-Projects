@@ -1,0 +1,50 @@
+Degree Works is easy-to-use, web-based, degree audit and academic advising software designed to aid the advisement and academic planning process (e.g., track degree progress, prepare for registration, and plan for graduation).
+Degree Works has tools that allow students to view their academic progress at any time and confirm how their course choices fulfill degree requirements.
+In Degree Works, advisors will be able to access audits from 2008 to the current year to view their students’ academic record and degree plan.
+Use of the Degree Works program is not intended to replace face-to-face advising sessions with an academic advisor.
+What is an audit?
+A Degree Works audit is a review of past, current and planned coursework that provides information on completed and outstanding catalog requirements necessary to complete a degree/major/minor/concentrations/area of emphasis. The audit is divided into block requirements such as Degree, University Requirements, General Education, and Major Requirements. Each block works like a checklist that has boxes that are automatically checked when a requirement is met.
+How current is information in Degree Works?
+The information in Degree Works is refreshed nightly. Any changes made today will be seen in Degree Works the next day. The academic data runs parallel to the student's academic record in Banner.
+What if information in Degree Works is not up to date?
+There could be many reasons why information in Degree Works is not up to date. One is that Degree Works may not have been refreshed since a change was made (information is refreshed nightly) to a student record. Second, there could be some paperwork that must be completed. For example, if a change in major is pending, it is possible the form has not reached the Registrar’s Office.
+I think a student's audit is incorrect. What should I do?
+The first step is to clarify what information you believe is wrong. These are the most common problems and courses of action:
+1. The major is wrong on the student's audit.
+If the student has already officially changed their major, the Degree Works audit will only display the active degree term. If the change is effective for a future term, the change may not reflect until that term.
+2. The requirements for the student's major are wrong.
+Look at the catalog year that appears on the major requirements block of the audit. According to our records, this is the catalog that the student is using to complete their major requirements.
+3. Transfer courses do not appear in the right place.
+If you are concerned about a transfer course that should be applying in the audit, review the student's academic history in SSC and verify the transfer work. If you still have questions first contact the Transfer Credit Specialist in the Transfer Student Initiatives and Services Office located in Admissions, then the Degree Audit Coordinator.
+4. There are UNKN courses on the student's audit. What are these?
+Unknowns. These are older transfer courses that do not have a direct USC Aiken equivalency. Please contact the Transfer Credit Specialist in the Transfer Student Initiatives and Services Office located in Admissions to have those credits re-evaluated.
+5. Classes are not applying in the right place.
+Degree Works uses a 'best fit' approach for meeting requirements so classes may apply to different sections as a student takes more courses.
+7. As an advisor, I would like to waive a course for my student.
+Department Heads may waive/change a requirement within the major for the student. To have these entered, please contact Maureen Quinn at MaureenQ@usca.edu.
+Requests concerning general education requirements come through Scholastic Standing and Petitions via an academic petition.
+8. The minor or concentration is missing from an audit.
+Student can officially declare a minor, concentration or a second major by using the online “Request a Minor” form on the Registrar’s Office webpage.
+9. The advisor is not correctly listed in Degree Works
+The Center for Student Achievement assigns advisors.
+10. Some of my student’s courses are in Electives-why?
+There are several reasons why courses may have fallen down into the Electives block. The student is still getting credit for the course.
+11. Why don’t the Cognates courses show up?
+Unless a cognate is built into a major it is difficult to program. Please filter through the electives block to find the cognate courses that you and your advisee have designated.
+12. My advisee is under a very old bulletin year
+Not all students will be able to use Degree Works. If the student's catalog year is before Fall of 2008, then this small percentage will have to rely on the paper advisement forms.
+When should a student or advisor review a degree audit?
+A degree audit can be reviewed at any time; but, it is recommended to do so at least four times a semester. Students should always review their audit:
+1. Before registering for an upcoming semester.
+2. After Registration to ensure that the courses apply to the program requirements.
+3. After grades are posted for each semester.
+4. Any time changes are made to the student's schedule or major.
+Can I save an audit?
+Yes. Utilizing the 'Save as PDF' button, you can save or print a .pdf version of your audit. When doing so, please be aware of FERPA regulations.
+Who do I contact if I have other issues?
+If you believe an error exists within an audit, contact the Degree Audit Coordinator in the Registrar’s Office: MaureenQ@usca.edu .
+Degree Works is being offered as a helpful reference for advisors and students, but should not be taken as an official source of information. Please be aware of the following issues:
+1. Upper level undergraduate students who have been admitted to any USC campus for graduate school, law school, or medical school will not be presented with an audit of their undergraduate degree at this time.
+2. Certain academic history items may not be accurately reflected; coursework transferred from another college/university, study abroad coursework, or courses taken on another USC campus.
+3. Students taking courses or pursuing a degree on more than one USC campus at the same time, may have a degree audit that is not entirely accurate or complete for either campus.
+Please remember that a degree audit will never prevent a student from graduating.

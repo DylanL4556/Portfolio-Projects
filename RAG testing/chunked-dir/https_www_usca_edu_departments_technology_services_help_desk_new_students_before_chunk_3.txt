@@ -1,0 +1,21 @@
+ devices. Whatever you choose, be sure to update your anti-virus software completely and then run a full system scan.
+- Uninstall File-sharing Software
+Now is also a good time to uninstall file-sharing programs such as uTorrent, Limewire, Bearshare, FrostWire, or similar software. Many of these will be removed by virus and malware scans because they're the most likely source of infection for your system. Please be aware: illegal file sharing is not allowed on PacerStudent. Any student caught illegally sharing files of any kind faces loss of network privileges and possible Judicial charges (as explained in the USC Aiken Student Handbook).
+LINKS FOR THIS STEP
+Malware Bytes Anti-Malware (MBAM):
+http://www.malwarebytes.org/mbam.php
+AVAST! Free Home Edition:
+http://www.avast.com
+Sophos for Mac:
+http://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx
+Check the Minimum System Requirements
+We want everyone's tech to work together, so, all computers and wireless devices connected to PacerStudent must meet a set of minimum requirements.
+Most computers and wireless devices purchased within the last two to three years will easily meet the minimum requirements. Keep in mind though that meeting the minimum requirements will provide only a minimum experience. For best results, your equipment should exceed the minimum wherever possible.
+You'll find the minimum computer and device requirements included under What to Bring to Campus.
+- Make Sure Your Accounts are Ready to Use
+Students have five accounts: VIP ID, Network Username, Multifactor Authentication (MFA), the Pacer Account and @usca.edu email. Don't worry though, you'll usually only a couple of these on a typical day. Even so, it's vital each account is working properly shortly after acceptance.
+If you've previously setup your accounts, major changes may have taken place since you last used an account.
+LINKS FOR THIS STEP
+First Time Account Setup
+Manage Existing Accounts
+Information on Recent Account Changes

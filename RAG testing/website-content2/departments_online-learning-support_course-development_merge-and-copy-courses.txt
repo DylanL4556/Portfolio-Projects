@@ -1,0 +1,13 @@
+Merge And Copy Courses | USCA
+https://www.usca.edu/departments/online-learning-support/course-development/merge-and-copy-courses/
+Merge Course Requests
+USC Columbia’s Information Technology Service Desk is the primary support system for Blackboard course mergers. Before submitting the request you should be able to provide the correct course ID and section numbers to all courses requested to be merged. Ideally, you will want to request a course merger BEFORE you copy content into the course before the semester begins. If you already have a “primary” course that you want other sections merged to you should request that the “primary” course listed be used as the parent course, so it does not affect the availability of course content or having to perform a course copy to a parent course in the middle of the semester. Do not merge courses after students have submitted work because that content will be lost. Merge courses before the semester starts.
+If an instructor needs course enrollments merged, please submit a service ticket, including the course ID and section numbers. Please submit a ticket if you are no longer able to access a merged course from a past semester, including your username and full course ID. If you have trouble logging in or would rather talk to USC Blackboard support, call the service desk number provided.
+Service Desk: 803-777-1800
+Submit a service ticket: UTS Service Portal (login required)
+- Login with your USC Credentials.
+- Click “Order Something.”
+- Select “Learning Management System (Blackboard).”
+- Select “Merge course sections” from the dropdown option.
+- Include your contact number and copy your detailed request.
+- Click “Submit.”

@@ -1,0 +1,34 @@
+First-Time Account Setup
+USCA students, faculty, staff, and affiliates have two groups of accounts: USC University Services Accounts and USCA Campus Accounts. Between the two groups, you'll have five accounts. Five accounts may sound like a lot, but you'll only use one or two on a typical day.
+Set-up is fairly simple.
+Assuming you have all the required information available when setting up accounts, setup of all five accounts takes less than 10-minutes.
+We're here to help with any problems.
+If you run into any problems setting your accounts up, contact the USC Aiken Help Desk and we'll walk you through the rest of the process step-by-step. Not on campus? Give us a call phone (803-641-3391) or send an email (help@usca.edu). On campus? Stop by the Help Desk for a walk-in appointment anytime. We're open Monday through Friday all year.
+You need three pieces of information and access to phone/email.
+Before starting account setup, make sure you know this information:
+- Legal Last Name
+- Birthdate
+- VIP ID (students only) (this is included in your acceptance information)
+- Last 4-digits of SSN or USC ID (faculty/staff/affiliates only)
+You'll also need access to your personal email account and your mobile phone:
+- Personal Email Account (used to receive and confirm account verification codes)
+- Mobile Phone (used for multifactor authentication - don't have a phone? you'll have another option)
+Avoid account problems on your first day on campus.
+Complete all steps below in the order presented. Each account builds on the one set up before it. If you try to set accounts up out of order or skip setting up an account, you'll run into problems.
+Part 1: USC University Services Accounts
+Accounts used to access USC university services are assigned by USC Columbia University Technology Services (UTS) and include:
+- VIP ID
+- Network Username (sometimes referred to as Enterprise ID or Blackboard ID)
+- Multifactor Authentication (MFA)
+- Self-Service Carolina (SSC)
+- Financial Aid
+- Housing
+- Class Registration
+- Grades
+- Blackboard
+- Library Journals
+- Emergency Notification Settings
+- HR/Payroll (faculty/staff/student workers only)
+- PeopleSoft (faculty/staff only)
+- Banner (faculty/staff only)
+- Data Warehouse (faculty/staff only)

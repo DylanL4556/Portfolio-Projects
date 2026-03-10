@@ -1,0 +1,20 @@
+Rao Li Lab | USCA
+https://www.usca.edu/research/undergraduate-research/rao-li-lab/
+Dr. Rao Li’s research interests are Graph Theory in Mathematics and Design and Analysis of Algorithms in Computer Science. Dr. Li has completed many joint papers and projects with students.
+Please email Dr. Li at RaoL@usca.edu if you are interested in working on one of his projects or if you would like to discuss career opportunities in mathematics and computer science.
+Example Publications and Apps
+- Rao Li, Richy Modugu, and Brandon Weathers, An Algorithm for the Constrained Longest Common Subsequence and Substring Problem for Multiple Strings, Journal of Mathematics and Informatics 28 (2025), 59-72.
+- R. Li, J. Deka, K. Deka, V. Srivastava, and M. Bhattacharyya, An Algorithm for the Heaviest Common Subsequence and Substring Problem, The Journal of Computing Sciences in Colleges, Vol. 40 No. 10 (2025), pp. 20-26. Presented in the 1st Annual Consortium for Computing Sciences (CCSC) Midsouth Regional Conference, University of the Ozark, Clarksville, AR. April 11-12, 2025.
+- Rao Li and Richy Modugu, An Algorithm for the Constrained Longest Common Substring Problem, Journal of Mathematics and Informatics 27 (2024), 1-7.
+- Rao Li, J. Deka, K. Deka, and D. Li, An Algorithm for the Constrained Longest Common Subsequence and Substring Problem, Journal of Mathematics and Informatics 26 (2024), 41-48. Also see https://clcss.vercel.app/
+- Rao Li, J. Deka, and K. Deka, An Algorithm for the Longest Common Subsequence and Substring Problem, Journal of Mathematics and Informatics 25 (2023), 77-81.
+Also see https://clcss.vercel.app/ - R. Li, A. Daga, V. Gupta, M. Mishra, S. Sahu, and A. Sinh, Minimum Degree and Size Conditions for Hamiltonian and Traceable Graphs, Fundamental Journal of Mathematics and Applications 1 (2018), 191-193.
+- Rao Li and Megan M. Taylor, The First Zagreb Index and Some Hamiltonian Properties of the Line Graph of a Graph, Journal of Discrete Mathematical Sciences and Cryptography 20 (2017), 445-451.
+- Rao Li, R. Shick, and D. Smiley, An Algorithm for the Constrained Heaviest Common Subsequence Problem, Congressus Numerantium 174 (2005), 123-128.
+- An Android phone app: Discrete Mathematics in Your Hands. https://play.google.com/store/apps/details?id=com.dismathinyourhands.mathprojectraoli
+- The web version of an Android phone app: Discrete Mathematics in Your Hands.
+- Interactive Isotopes App hosted by American Nuclear Society. https://isotopes.ans.org/
+Additional Publications
+Contact Us
+Center for Research Excellence Co-Coordinator
+Center for Research Excellence Co-Coordinator

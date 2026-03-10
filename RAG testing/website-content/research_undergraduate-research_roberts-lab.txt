@@ -1,0 +1,34 @@
+The Roberts Lab
+Protein Biochemistry of Breaking Carbon-Carbon bonds
+Enzyme Mechanisms The Roberts Lab is interested in the fundamental chemistry of enzymatic reactions. Enzymes are proteins capable of catalyzing any one of the tens of thousands of reactions occurring in the cell at any given moment.
+Oxidative Cleavage
+Typically, making and breaking carbon-carbon bonds is quite difficult even for modern synthetic chemists. However, as nature is founded upon a carbon framework, it is very effective at making and breaking carbon-carbon bonds, especially in targeting these processes precisely to the exact bond(s) necessary. In fact, the entire metabolism of the cell is built on building and breaking down carbon-containing compounds.
+Our current enzyme of interest, 2,4’-dihydroxyacetophenone dioxygenase (DAD – pronounced; dee-ay-dee), performs a unique carbon-carbon bond cleavage using molecular oxygen as an assist. Cleavage of the bond results in cutting the substrate, 2,4’dihydroxyacetophenone (DHA), into two smaller products to be metabolized for energy and materials. Our research focuses on how DAD interacts with DHA and drives chemistry forward, such as: how do DAD and DHA form a reaction complex? what chemical steps occur in the process and in what order? what atoms of DAD and/or DHA are necessary for the reaction? Answers to these questions will give us a better idea of the chemical nature of this reaction.
+We are also interested in how the DAD reaction is similar or different from other carbon-carbon bond-cleaving enzymes. How does the shape of the enzyme vary – or remain the same? What atoms or arrangements are conserved across enzymes with similar reactions? Where the “related” enzymes differ, is it because these parts are unnecessary or are they complementary? The more we can contrast and compare DAD to other carbon-carbon bond-cleaving enzymes, the more we can understand nature’s fundamental requirements for breaking these bonds allowing us to tailor enzymes and/or synthetic catalysts to target specific carbon-carbon bonds.
+Research Opportunities
+Our lab welcomes any student interested in biochemistry, molecular biology, or metabolic processes. While our team has majors in Chemistry, Biology, and Exercise & Sports Science, we encourage participation from anyone with a passion for these fields. Our guiding principle is simple: no technique is too advanced for our students. Nearly all the work in our lab is student-driven, fostering creativity and hands-on learning.
+As a chemistry lab exploring biological systems, we offer a diverse range of projects, topics, and techniques. Our research spans molecular biology, protein biochemistry, enzyme kinetics, and organic synthesis. Students gain experience with methods such as gene mutation and cloning, enzyme expression and purification, UV-visible absorbance assays for monitoring enzymatic reactions, stopped-flow spectrophotometry to capture single reaction events, and organic synthesis techniques.
+About The Professor
+Dr. “Kenzyme” Roberts
+Ph.D. Enzymology – Washington State University
+Postdoctoral Fellow – UT Health San Antonio
+kenr@usca.edu
+Background: Enzymology, Cytochromes P450, Aromatic Amino Acid Hydroxylases, Biochemistry, Molecular Biology
+Courses Taught
+• Introduction to Chemistry (CHEM A101)
+• General Chemistry (CHEM A111 & A112)
+• Principles of Biochemistry (BIOL A541)
+• Advanced Biochemistry (BIOL A542 / CHEM A550)
+Publications:
+- The Metal- and Substrate-Dependences of 2, 4′-Dihydroxyacetophenone Dioxygenase KM Roberts, GC Connor, CH Cave, GT Rowe, CA Page Archives of Biochemistry and Biophysics 691, 108441, 2020
+- Structural and Enzymatic Insights into Species-Specific Resistance to Schistosome Parasite Drug Therapy AB Taylor, KM Roberts, X Cao, NE Clark, et al. Journal of Biological Chemistry 292 (27), 11154-11164, 2017
+- Measurement of Kinetic Isotope Effects in an Enzyme-Catalyzed Reaction by Continuous-Flow Mass Spectrometry KM Roberts, PF Fitzpatrick Methods in Enzymology 596, 149-161, 2017
+- Metal Dependence and Branched RNA Cocrystal Structures of the RNA Lariat Debranching Enzyme Dbr1 NE Clark, A Katolik, KM Roberts, AB Taylor, et al. Proceedings of the National Academy of Sciences 113 (51), 14727-14732, 2016
+- Mechanism of the Flavoprotein L-Hydroxynicotine Oxidase: Kinetic Mechanism, Substrate Specificity, Reaction Product, and Roles of Active-Site Residues PF Fitzpatrick, F Chadegani, S Zhang, KM Roberts, CS Hinck Biochemistry 55 (4), 697-703, 2016
+- Activation of Phenylalanine Hydroxylase by Phenylalanine Does Not Require Binding in the Active Site KM Roberts, CA Khan, CS Hinck, PF Fitzpatrick Biochemistry 53 (49), 7846-7853, 2014
+- Phenylalanine Binding is Linked to Dimerization of the Regulatory Domain of Phenylalanine Hydroxylase S Zhang, KM Roberts, PF Fitzpatrick Biochemistry 53 (42), 6625-6627, 2014
+- Characterization of Unstable Products of Flavin- and Pterin-Dependent Enzymes by Continuous-Flow Mass Spectrometry KM Roberts, JR Tormos, PF Fitzpatrick Biochemistry 53 (16), 2672-2679, 2014
+- Mechanisms of Tryptophan and Tyrosine Hydroxylase KM Roberts, PF Fitzpatrick IUBMB Life 65 (4), 350-357, 2013
+- Kinetic Mechanism of Phenylalanine Hydroxylase: Intrinsic Binding and Rate Constants from Single-Turnover Experiments KM Roberts, JA Pavon, PF Fitzpatrick Biochemistry 52 (6), 1062-1073, 2013
+- Isotope Effects Suggest a Stepwise Mechanism for Berberine Bridge Enzyme HM Gaweska, KM Roberts, PF Fitzpatrick Biochemistry 51 (37), 7342-7347, 2012
+- Anilinic N-Oxides Support Cytochrome P450-Mediated N-Dealkylation through Hydrogen-Atom Transfer KM Roberts, JP Jones Chemistry–A European Journal 16 (27), 8096-8107, 2010

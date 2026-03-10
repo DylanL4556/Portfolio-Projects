@@ -1,0 +1,19 @@
+ user's responsibility to recognize, attribute, and honor the intellectual property present on or accessible through university computer and communication systems. - Licensed (Commercial) Software:
+The user is responsible for understanding and adhering to the licensing terms for all licensed software which he or she knowingly uses.
+The making of unauthorized copies of licensed software, even when the software is not protected against copying, is prohibited.
+In addition to the above general rules, there may be more specific rules which apply to many individual university systems. It is the user's responsibility to ascertain and follow these system-specific rules.
+VII. Sanctions
+Violators of the provisions of this policy by faculty, students, and staff are subject to applicable USC Aiken disciplinary policies. Violations of public law which involve university computer and communication systems may be subject to prosecution by local, state or federal authorities.
+University faculty, students, or staff who knowingly violate copyright and/or license terms (for example, by making or using an unauthorized copy of a copyrighted or licensed software product) may be personally liable for their actions.
+Number: AIT 108
+Section: Information Technology
+Subject: Student Email Policy
+Date: June 2, 2004
+Reviewed on: April 26, 2010
+Issued by: Director of Client Services
+Authorized by: Vice Chancellor for Information Technology/CIO
+I. Policy
+- Introduction
+Electronic mail or "email" is considered an official method for communication to students at the USC Aiken because it delivers information in a convenient, timely, and cost effective manner.
+To assure all students access to this important form of communication, USC Aiken provides a University email account to each enrolled student. The primary purpose of these accounts is to ensure a standardized channel for faculty and staff to communicate with students of the University as needed. Official university communications sent to all students will include reminders of important dates such as deadlines to pay tuition and fees, to withdraw from a course with grade of "W," to apply for graduation, etc... Students are responsible for reading, in a timely fashion, University-related communications sent to their official student email accounts. - Assignment of Student Email:
+The official University email accounts are created and maintained by the Computer Services Division (CSD) and are activated upon a student's acceptance to the University. Specific student email directions are on-line at http://www.USC Aiken.edu/helpdesk/studentemail. Additional assistance is available at the CSD "helpdesk" located in the Business and

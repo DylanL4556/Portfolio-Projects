@@ -1,0 +1,26 @@
+ Network Username/Password which you will use to log into Blackboard. If you need to take the Math Placement Test, you should return to the Math Placement information page to continue.
+If you were unable to located your USC Network Username/Password you may contact the Help Desk for assistance at: help@usca.edu or 803-641-3391.
+I'm able to log into Blackboard, but am having difficulties with the Math Placement test.
+If you are able to log into Blackboard, but are having difficulties with the Math Placement Test, you should refer to the Math Placement information page, or contact the Math Department for assistance at: 803-641-3446.
+I'm having trouble logging into Blackboard.
+If you are unable to log into Self Service Aiken or Blackboard, the USCA Helpdesk may be able to assist you. We're available at: help@usca.edu or 803-641-3391.
+Where do I find my USC Network username and password so that I can log into Blackboard?
+Your USC Network Username and Password can be located within the Self Service Aiken system. If you do not yet know how to log into Self Service Aiken, please see our instructions for setting up your university accounts. If you already know how to log into Self Service Aiken, please follow the instructions below to find your Blackboard Username and Password.
+If you are unable to log into Self Service Aiken or Blackboard, the USC Aiken Helpdesk may be able to assist you. We're available at: help@usca.edu or 803-641-3391.
+I've completed the test, and received a score. What does my score mean?
+USCA Math Placement Test Score Interpretation on SSC
+|
+Algebra Test Result |
+Attained Prerequisites |
+The student may take any of the courses listed below appropriate for the major. |
+|
+3 or lower |
+Student must complete MATH A108 with a grade of C or better as a prerequisite to other math courses in the major. |
+MATH A108 |
+|
+4 |
+Student has the MATH A108 prerequisite. |
+Any of the above courses and/or: MATH A122, MATH A170, MATH A111, MATH A112, MATH A222, STATS A201 |
+Students with MPT Code 4 whose major requires MATH A141 (Calculus I) should also take Trigonometry Test.
+|
+Algebra

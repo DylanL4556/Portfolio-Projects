@@ -1,0 +1,21 @@
+Your password has not changed and is whatever you last set it to.)
+*** Step 2: Sign into Office 365
+Office 365 includes web access to your @usca.edu email. This is where you'll also find Office web apps, Office 2016 Pro downloads, 1TB OneDrive for Business storage, and more.
+To sign into Office 365, use your email address and password as explained below, and go to: https://office.com
+Email: Your email address is your Pacer Account followed by @usca.edu (Example: If your Pacer Account is: somebodyj99 your email address is: somebodyj99@usca.edu. You also selected this as your Preferred Email when setting up your USC Services Accounts.)
+Password: Your email uses your Pacer Account password. (Wait at least 5-minutes after reset before signing into Office 365.)
+IMPORTANT: Before setting up your @usca.edu email account on a mobile device, or in any other email client, first complete setup by signing into Office 365 and clicking the Outlook icon.
+For more information on your @usca.edu email account and your Office 365 benefits, please visit the Office 354 page.
+How do I set up Multifactor Authentication (MFA) for my USC Services Accounts?
+Most systems managed by the USC-Columbia campus are protected by Multifactor Authentication (MFA) using the DUO Security system. The primary...
+What accounts will I create, and what are they used to access?
+USC University Services Accounts Accounts used to access USC university services are assigned by USC Columbia University Technology Services (UTS)...
+How do I set a new password for my Pacer Account?
+Setting up USC Aiken campus accounts is a simple two-step process: Set a new password for your Pacer Account Sign...
+How do I setup or manage my USC Services Accounts?
+To setup or manage your USC Services Accounts, go here: https://myaccount.sc.edu and click Account Claiming. USC Aiken students, faculty, staff or affiliates, should...
+What information do I need to have in order to set up my accounts?
+You need three pieces of information and access to phone/email. Before starting account setup, make sure you know this information:...
+How long does it take to set up my accounts?
+Assuming you have all required information available when setting up accounts, setup of all five accounts takes less than 10-minutes.
+I don't

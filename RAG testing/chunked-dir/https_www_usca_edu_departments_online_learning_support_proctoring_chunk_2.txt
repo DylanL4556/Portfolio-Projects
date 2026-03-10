@@ -1,0 +1,22 @@
+ Browser to access and take associated exams. The webcam can be built into your computer or can be the type that plugs in with a USB cable. Watch this short video to get a basic understanding of LockDown Browser and the webcam feature. A student Quick Start Guide is also available.
+First, download and install USCA's Respondus LockDown Browser for PC or Mac here.
+What do Students Need to Know Before Taking an Exam with Respondus?
+When taking an online exam that requires LockDown Browser and a webcam, remember the following guidelines:
+- Ensure you're in a location where you won't be interrupted.
+- Turn off all other devices (e.g. tablets, phones, second computers) and place them outside of your reach.
+- Clear your desk of all external materials not permitted — books, papers, and other devices.
+- Before starting the text, know how much time is available for it, and that you’ve allotted sufficient time to complete it.
+- Remain at your computer for the duration of the test.
+- If the computer or networking environment is different than what was used previously with the Webcam Check and System & Network Check in LockDown Browser, run the checks again before starting the test.
+- To produce a good webcam video, do the following:
+- Avoid wearing baseball caps or hats with brims.
+- Ensure your computer or tablet is on a firm surface (a desk or table). Do NOT have the computer on your lap, a bed or other surface where the device (or you) are likely to move.
+- If using a built-in webcam, avoid tilting the screen after the webcam setup is complete.
+- Take the exam in a well-lit room and avoid backlighting, such as sitting with your back to a window.
+- Remember that LockDown Browser will prevent you from accessing other websites or applications; you cannot exit the test until all questions are completed and submitted.
+To ensure LockDown Browser and the webcam are set up properly, do the following:
+- Open the Respondus LockDown Browser icon on your desktop, log into Blackboard, and select your course.
+- Locate and select the Help Center button on the LockDown Browser toolbar.
+- Run the Webcam Check and, if necessary, resolve any issues.
+- Run the System & Network Check. If a problem is indicated, see if a solution is provided in the Knowledge Base. Troubleshooting information can also be emailed to the USCA help desk.
+- Exit the Help Center and locate the exam.

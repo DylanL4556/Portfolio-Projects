@@ -1,0 +1,61 @@
+FORL A001T |
+|
+Thinking Skills |
+A |
+A-E |
+3 |
+PHIL A001T |
+|
+Thinking Skills |
+AS |
+A-E |
+3 |
+PHIL A001T |
+|
+Travel & Tourism |
+A |
+A-E |
+3 |
+ELEC A001T |
+|
+Travel & Tourism |
+AS |
+A-E |
+3 |
+ELEC A001T |
+|
+Urdu |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Urdu - Language |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Urdu - Pakistan only |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+USCA awards credit by examination for CLEP SUBJECT exams only. By attaining an acceptable score, a student may receive credit equal to that normally earned in the comparable University course.
+CLEP credit is awarded for CLEP subject examination scores in the following areas:
+| Test Name | Equivalent Course | Minimum Score |
+| CLEP Financial Accounting | BADM A225 Financial Accounting | 55 |
+| CLEP Business Law | BADM A324 Commercial Law | 50 |
+| CLEP Information Systems | BADM A390 Business Information Mgmt | 50 |
+| CLEP Macroeconomics | ECON A221 Principles of Macroeconomics | 50 |
+| CLEP Microeconomics | ECON A222 Principles of Microeconomics | 50 |
+| CLEP Management | BADM A371 Principles of Management | 50 |
+| CLEP Marketing | BADM A350 Principles of Marketing | 50 |
+| CLEP American Government | POLI A201 American National Government | 50 |
+| CLEP US History I | HIST A201 History of the US TO 1865 | 50 |
+| CLEP US History II | HIST A202 History of the US Since 1865 | 50 |
+| CLEP Western Civilizations I | HIST A101 World Civilization up to 1750 | 50 |
+| CLEP Western Civilizations II | HIST A102 World Civilization Since 1750 | 50 |
+| CLEP Analyze & Interperet Lit | ENGL A001T | 57 |
+| CLEP College Composition | ENGL A101 Composition | 51 |
+| CLEP American Literature | ENGL A002T |

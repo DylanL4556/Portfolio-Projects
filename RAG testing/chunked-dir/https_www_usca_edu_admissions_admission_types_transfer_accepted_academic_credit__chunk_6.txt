@@ -1,0 +1,159 @@
+Chemistry |
+A |
+C-E |
+4 |
+CHEM A111 |
+|
+Chemistry |
+AS |
+A-B |
+8 |
+CHEM A111 and CHEM A112 |
+|
+Chemistry |
+AS |
+C-E |
+4 |
+CHEM A111 |
+|
+Chinese |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Chinese Lang & Liter |
+A |
+A-E |
+6 |
+FORL A001Tand FORL A002T |
+|
+Chinese - Language |
+AS |
+A-E |
+3 |
+FORL A001T |
+|
+Classical Studies |
+A |
+A-E |
+3 |
+HSSI A001T |
+|
+Classical Studies |
+AS |
+A-E |
+3 |
+HSSI A001T |
+|
+Computer Science |
+A |
+A-E |
+7 |
+CSCI A101 and CSCI A001T |
+|
+Computer Science |
+AS |
+A-E |
+7 |
+CSCI A101 and CSCI A001T |
+|
+Design & Technology |
+A |
+A-E |
+3 |
+ARTS A001T |
+|
+Design & Technology |
+AS |
+A-E |
+3 |
+ARTS A001T |
+|
+Design & Textiles |
+A |
+A-E |
+3 |
+ARTS A001T |
+|
+Design & Textiles |
+AS |
+A-E |
+3 |
+ARTS A001T |
+|
+Digital Media and Design |
+A |
+A-E |
+3 |
+ARTS A001T |
+|
+Digital Media and Design |
+AS |
+A-E |
+3 |
+ARTS A001T |
+|
+Drama |
+A |
+A-E |
+3 |
+THEA A001T |
+|
+Drama |
+AS |
+A-E |
+3 |
+THEA A001T |
+|
+Economics |
+A |
+A-C |
+6 |
+ECON A221 and ECON A222 |
+|
+Economics |
+A |
+D-E |
+3 |
+ECON A221 |
+|
+Economics |
+AS |
+A-C |
+3-6 |
+ECON A221 and ECON A222 |
+|
+Economics |
+AS |
+D-E |
+3 |
+ECON A221 |
+|
+English Language |
+A |
+A-E |
+6 |
+ENGL A101 and ENGL A102 |
+|
+English Language |
+AS |
+A-E |
+3 |
+ENGL A101 |
+|
+English Literature |
+A |
+A-E |
+6 |
+ENGL A101 and ENGL A102 |
+|
+English Literature |
+AS |
+A-E |
+3 |
+ENGL A101 |
+|
+Environmental Management |
+A |
+A

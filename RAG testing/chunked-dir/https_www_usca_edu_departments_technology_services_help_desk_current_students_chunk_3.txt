@@ -1,0 +1,22 @@
+ the Pacer Account.
+How do I connect to the internet or wi-fi on campus?
+For instructions on how to connect to the internet on campus, please visit the Pacer Account (Internet) topic.
+I'm a new or transfer student. How do I set up my Pacer Account?
+To complete setup of your Pacer Account, please see the instructions on the New Students page, under Setup Accounts and Passwords.
+How do I reset the password for a Pacer Account (USCA campus)?
+USCA campus accounts are created by your USCA Computer Services Division (CSD)/Help Desk team and include:
+Pacer Account
+@usca.edu Email Account
+Manage your Pacer Account
+All USCA campus accounts are accessed using the Pacer Account (formerly known as the USCA Network Account or PacerStudent Account).
+To change the password for your Pacer Account, use the appropriate information listed below and go to: http://reset.usca.edu
+- User name: Enter your Pacer Account username. (This is the portion of your email address before the @ symbol. Example: The username for somebody@usca.edu is somebody.)
+- Current password: Enter your current password. (If you don't know your current password you'll need to contact the Help Desk for assistance.)
+- New password: Enter a new password. (Your new password must contain at least 8-characters and follow all other password requirements listed on the reset page.)
+- Confirm new password: Reenter your new password.
+If you have forgotten your password or your password is no longer being accepted, you'll need to contact the Help Desk for assistance.
+- Email or call the Help Desk for assistance: We'll set your password back to the default so you can set it back up. (Go to How do I set a new password for my Pacer Account? and complete Step 1 to set your password.)
+- Stop by the Help Desk for assistance: We'll reset your account and allow you to set a password yourself immediately. (You must bring your current USCA ID Card with your for account assistance at the Help Desk.)
+SSC/VIP
+Self-Service Aiken is used for administrative tasks such as registration, financial aid, housing, and grades. Self Service Aiken is also where you setup your USC Network Account which is used to log into Blackboard for online courses and off campus access to Library journals.
+I've received an error saying that my VIP ID has not

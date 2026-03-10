@@ -1,0 +1,14 @@
+To update your voicemail box, please follow the instructions found here:
+To update your voicemail box, please follow the instructions found here :https://www.usca.edu/help-desk/faculty-staff?view=topic&id=56
+If you have already setup your voicemail box, choose “How do I change my personal greeting?”
+If this is the first time you’ve setup your voicemail box, choose “How do I setup my voicemail account?”
+If you do not know your voicemail passcode, choose “How do I reset or change my voicemail passcode?”
+To forward your phone to an outside line, please follow the instructions found here: https://www.usca.edu/help-desk/faculty-staff?view=topic&id=50
+Choose “How do I forward my calls?” to set your phone to forward all calls directly to an outside line.
+To use VPN on your personal computer, please follow the instructions found here: https://www.usca.edu/help-desk/faculty-staff?view=topic&id=61
+If you need to install VPN on your personal computer, choose “How do I install Junos PulseSecure for…” selecting the option appropriate for your operating system.
+If you need to connect to PulseSecure/VPN, choose “How do I connect or disconnect to PulseSecure/VPN?”
+If you need to access the J-drive, K-drive or USCA Class folders remotely, choose “How do I access the K or J-drive while connected to PulseSecure/VPN?
+As a reminder, USC Aiken’s Acceptable Use of Information Technology policy (AIT 107) prohibits the storage of student data on personally owned devices.
+To checkout a laptop for use while the campus is working remotely, please send an email to help@usca.edu with your name, a callback number, and a brief explanation of your reason for needing to checkout a laptop. Laptops may be in limited supply and are available on a first-come/first-served basis.
+Due to the fluid nature of the current situation, these procedures may change. If changes are necessary, the web pages and links above will be updated to reflect any difference.

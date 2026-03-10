@@ -1,0 +1,28 @@
+ structure. Alignment is achieved when the:
+-
+Objectives articulate the knowledge and skills you want students to acquire by the end of the course
+-
+Assessments allow the instructor to check the degree to which the students are meeting the learning objectives
+-
+Instructional Strategies are chosen to foster student learning towards meeting the objectives
+When these components are not aligned, students might rightfully complain that the test did not have anything to do with what was covered in class, or instructors might feel that even though students are earning a passing grade, they haven’t really mastered the material at the desired level.
+Articulating your learning objectives at the appropriate grain can be challenging at first. Here are some resources to help:
+-
+List of action verbs (pdf) – a starting point for writing learning objectives
+-
+Bloom’s taxonomy – taxonomy created to categorize a continuum of educational objectives
+-
+Samples of learning objectives – from a variety of courses
+-
+Articulating Your Learning Objectives [Source: Carnegie Mellon University]
+Learning Goals, Outcomes, and/or Objectives
+In order to focus on higher order level of thinking while creating course content, Bloom's Taxonomy is used as the framework to assist you in designing goals, outcomes and objectives. This method provides the opportunity to create performance tasks, critical thinking questions, and assessments using six levels measurement (knowledge, comprehension, application, analysis, synthesis, and evaluation) to achieve measurable student outcomes.
+|
+Using S.M.A.R.T., objectives should be specific, measurable, achievable, relevant, and target/time-bound. Creating S.M.A.R.T. goals also helps you make attainable, specific and measurable goals. Wayne State University - S.M.A.R.T. Objectives |
+Learning Outcomes and Objectives Resources
+-
+Learning Objectives Builder - This interactive online web portal by Arizona State University provides an easy way to write lesson objectives.
+-
+A Model of Learning Objectives - This interactive online object, created by Iowa State University, Center for Excellence in Learning and Teaching, provides a mouse-over interactive method uses colored blocks to see examples on how to choose correct learning objectives.
+-
+Bloom's Taxonomy by Vanderbilt University, Center for Teaching

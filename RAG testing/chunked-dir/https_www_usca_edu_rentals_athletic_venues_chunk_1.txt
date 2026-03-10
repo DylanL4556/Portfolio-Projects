@@ -1,0 +1,38 @@
+Athletic Venues Pricing
+| Public Rate | Non-Profit Rate | Internal Rate | |
+|---|---|---|---|
+| Pacer Pit (Soccer) - Entire Facility (Per Day) | |||
+| Field Rental | $300 | $200 | $100 |
+| Move-In Day | $150 | $100 | $100 |
+| Roberto Hernandez Baseball Stadium - Entire Facility (Per Day) | |||
+| Field Rental | $500 | $300 | $150 |
+| Move-In Day | $250 | $250 | $150 |
+| Satcher Field (Softball) - Entre Facility (Per Day) | |||
+| Non-Ticketed Event | $300 | $200 | $150 |
+| Move-In Day | $150 | $100 | $100 |
+| Pacer Path (Cross Country) - Entire Facility (Per Day) | |||
+| Non-Ticketed Event | $200 | $200 | $100 |
+| Move-In Day | $100 | $100 | $100 |
+Additional Costs
+| Personnel | |||
+|---|---|---|---|
+| Arena Setup/Facility Staffing | $15 per employee hour (Cost dependent on event setup) | ||
+| Video Operator | $35 per hour | ||
+| Sound Operator | $35 per hour | ||
+| EMS | $35 per hour/EMT | ||
+| Security | $40 per hour/Officer | ||
+| Ticket Sellers | $15 per hour | ||
+| Housekeeping | $20 per hour/Employee (Includes staffing and supplies) | ||
+| Other Equipment | |||
+| Carpet Decking | $200 | ||
+| Screens & Projectors | $1,000 ($500 per set of projector/screen) | ||
+| Pipe & Drape | $4 per linear foot (Standard arena coverage is 350 ft) | ||
+| Personnel | |||
+| Deposits | |||
+| Convocation Center | $1,500 (due upon contract execution) | ||
+| Practice Courts | $750 (due upon contract execution) | ||
+| Pacer Pit | $150 (due upon contract execution) | ||
+| Roberto Hernandez Stadium | $250 (due upon contract execution) | ||
+| Satcher Field | $150 (due upon contract execution) | ||
+| Pacer Path | $100 (due upon contract execution) |
+Administrative fee will be applied to total rental cost. Deposits are due on execution of the

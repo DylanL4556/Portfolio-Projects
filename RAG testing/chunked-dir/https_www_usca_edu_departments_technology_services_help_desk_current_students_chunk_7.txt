@@ -1,0 +1,19 @@
+ address for an email with further instructions for resetting the password.
+- Once you've set that password, you should be able to log into Blackboard within 5-minutes.
+- Be sure to remember your USC Network Username and Password since it may be different than your USCA Network/PacerStudent account.
+Student Email
+Email is part of your Office 365 account.
+Remember, your USCA email address will be your USCA Username (Students call this PacerStudent username) plus @usca.edu. For example, joesomebody@usca.edu.
+I'm unable to log into my email/Office 365 account.
+While most account holders are able to log in for the first time without issue, some do run occasionally into a problem. If you have any issues with your first login, please take the following troubleshooting steps. These are the same steps we will walk you through if you call the Help Desk for assistance. If you're still unable to login, give us a call or stop by, and let us know what you found while completing these steps.
+Basic email troubleshooting
+- To access email, you should go to: https://www.office.com or just click the Email link at the bottom of the USCA homepage.
+- You will use information from your Pacer Account to log into email.
+- Use your full email address (your Pacer username followed by @usca.edu) as your username when logging in. For example, username@usca.edu
+- Use your Pacer Account password when logging in. This is the same password you'd use to log into a campus computer or campus Wi-Fi.
+- Wait at least 5-minutes (10-minutes is better) after resetting your password to log into email.
+- It's best to choose a password beginning with a letter. Some passwords beginning with a number will not work across all systems.
+- Can you log into campus Wi-Fi or a campus computer with the same password you're using to try to log into email?
+Newly Admitted or Transferring Student?
+Has it been at least 72-hours since you were accepted? If not, you should check back again in a day or two.
+Transfer and "Change of Campus" Students may also run into issues if they were not properly released from their previous campus before being accepted by the USCA Office of Admissions. Even if you only took college credit courses in high school, the system may still treat you as a "change of campus
