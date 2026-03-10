@@ -6,7 +6,7 @@ from openai import OpenAI
 
 os.makedirs("./chroma-db", exist_ok=True)
 
-client = OpenAI(api_key="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")
+#client = OpenAI(api_key="replace with working API key")
 
 chroma_client = chromadb.PersistentClient(path="./chroma-db")
 

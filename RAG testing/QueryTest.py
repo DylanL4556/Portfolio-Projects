@@ -2,7 +2,7 @@ from openai import OpenAI
 import os
 import chromadb
 
-client = OpenAI(api_key="replace with copy of your api key if you want this to work.")
+#client = OpenAI(api_key="replace with copy of your api key if you want this to work.")
 
 chroma_client = chromadb.PersistentClient(path="./chroma-db")
 
